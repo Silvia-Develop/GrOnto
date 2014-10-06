@@ -1,0 +1,195 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:white
+1:wine
+1:red
+1:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">Cook's Thesaurus: White Wines</font><br>
+#abstract: 
+# Gives synonyms, equivalents, and substitutions for various white wines. ... White Wines. white wine Notes: White wines are more delicate than 
+# red wines and are always served chilled. Dry (i.e., not sweet) white wines include Chardonnay, Chablis, and Sauvignon Blanc. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:light dry (delicate,moderate)
+2:white
+2:wine
+#title: <font class="result_title">Smoky Hill Vineyards %26 Winery Fine Kansas %26 American Wine ...</font><br>
+#abstract: 
+# Luce d'Bianco is a fine, dry white wine, with floral tones that complement the crisp and light flavors. ... This wine has a 
+# subtle light, tropical fruit fragrance that balance the fruit flavors with a hint of cherry. Semi-Sweet White Wines. Premium Auslese ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:white
+3:german
+3:red
+#title: <font class="result_title">Wines.com</font><br>
+#abstract: 
+# There are many sweet tasting white wines, red wines, and blush or pink wines. Then there are dessert wines that are really sweet. ... 
+# Beginning with white wines that are appealing to new wine drinkers, we'd suggest slightly sweet to medium sweet Riesling wines, especially German ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:wine
+4:white
+4:dessert
+4:peach
+#title: <font class="result_title">Sweet White Wine</font><br>
+#abstract: 
+# An extraordinary entry level dessert wine! 2007 Blees-Ferber Riesling Sp%C3%A4tlese - Sweet. List Price: USD29.95. TFW Price: USD25.95. Availability: In Stock. An exciting Sp%C3%A4tlese that has 
+# an amazing amount of natural sugars and is full of apricot and white peach with a hint of honey %26 nectarine. WS 92 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:light dry (delicate,moderate)
+5:wine
+#title: <font class="result_title">Our Vinery</font><br>
+#abstract: 
+# A light well balanced white dry wine with a delicate fruit and a lively and vivid finish.%5BXynistery variety%5D 
+# ... A sweet white wine produced from muscat variety with a characteristic aroma and taste. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:light dry (delicate,moderate)
+6:white
+6:wine
+#title: <font class="result_title">Fine white wines from Wiederkehr Wine Cellars</font><br>
+#abstract: 
+# Verdelet: A dry, delicate white table wine with a pleasingly crisp, slightly flinty 
+# taste, ... White Muscadine: This flavorful, semisweet wine, delicate yet fruity ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:white
+#title: <font class="result_title">Wine Legacy - winelegacy.com - white wines</font><br>
+#abstract: 
+# Superb quality, hand-picked wines from around the 
+# world, shipped right to your doorstep! 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:light dry (delicate,moderate)
+8:white
+#title: <font class="result_title">Delicate and light - white wine</font><br>
+#abstract: 
+# Look for the taste tags that match your favourite 
+# dishes and create harmoniousfood and wine pairings. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:wine
+9:light dry (delicate,moderate)
+#title: <font class="result_title">Wine Styles</font><br>
+#abstract: 
+# Information about Cyprus tasteful wines, including the world-famous Commandaria and Zivania, spirits and brandy. Wine styles vary enormously from 
+# the rich sweet dessert Commandaria to the lightest, crisp dry white and from the delicate rose to ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:(color,colour)
+10:wine
+#title: <font class="result_title">Wines Pick %26 Mix - White Wines - Wine Merchants</font><br>
+#abstract: 
+# The colour of white wine is determined by both the skin colour of the grape and the length of time it comes in to contact 
+# with the juice during the fermentation process. As most white wine is made from grapes that have a green, gold or yellowish ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:white
+11:wine
+11:body flavor (sweet,sugar)
+11:low
+#title: <font class="result_title">Types of White Wine</font><br>
+#abstract: 
+# Rieslings are both floral and fruity, and can be delicate, subtle, and low in alcohol, making for a very nice summer wine. 
+# But even the sweet, low-alcohol wines from the Mosel in Germany balance the sugar with a steely, teeth-cleaning acidity. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:dessert
+12:wine
+#title: <font class="result_title">Dessert and Ice Wines</font><br>
+#abstract: 
+# Top Ten Picks for the best dessert and ice wines available. ... Pairs well with all white, milk and dark chocolates. Vendor's Site. 8. Banfi Rosa Regale Brachetto 
+# 2007 (IT) USD25. Banfi Vintners. This is a red sparkling wine from Italy's Piedmont region, that is sweet and subtle with the lush flavors of ripe ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:white
+13:seafood
+#title: <font class="result_title">Pinnacle Ridge Winery - Our Wines</font><br>
+#abstract: 
+# Delicate pink and gold hues highlight what is inside: floral aromas. This vidal fruit was fermented entirely in stainless steel resulting in a crisp, white 
+# wine. Delicious with seafood, salads, or any light fare. Excellent white wine for a cocktail party. Appealing to both dry %26 sweet fans. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:white
+#title: <font class="result_title">Sweet Wine | Blue Sky Vineyards - Southern Illinois Winery</font><br>
+#abstract: 
+# This vibrant sweet wine is made from a medley of grapes. A complex wine with a clean crisp flavor and a wealth of character that can only be 
+# found in southern Illinois. ... Sweet Riesling. Distinctive floral and apple aromas meld with fresh fruit flavors yielding a delicate sweet white wine with a ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:fruit
+15:cheese
+15:seafood
+15:apple
+#title: <font class="result_title">Barefoot Wine %26 Bubbly - Barefoot Chardonnay</font><br>
+#abstract: 
+# Our Chardonnay pairs deliciously with fruit, cheese, seafood or poultry dishes. ... Light-bodied and airy, this sweet wine 
+# hits all the right fruit-filled notes: delicate orange blossom, juicy apple, and tangy lemon. Barefoot ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:white
+16:(zinfandel,grape)
+#title: <font class="result_title">Smoky Mountain Winery - Wine List</font><br>
+#abstract: 
+# BROOKSIDE RED- A medium-dry, fruity, light bodied wine from a blend of French American hybrid grapes, Chancellor, %26 Leon-Millot. ... 
+# MOUNTAIN ROSE' -A delicate, sweet White Zinfandel style blush wine from the Native American Pink Catawba grape. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:white
+17:wine
+#title: <font class="result_title">2007 GEWURZTRAMINER Dolcino , Castello di Amorosa White wine ...</font><br>
+#abstract: 
+# A spicy, delicate white wine loaded with aroma and flavor, made in the "Dolcino", or slightly sweet 
+# style. ... About This Wine: A spicy, delicate white wine loaded with aroma and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:white
+18:wine
+18:fruit
+#title: <font class="result_title">Wine Guide</font><br>
+#abstract: 
+# Dry Carlos - our Driest white wine, good with meals; similar to Chardonnay; has a faint muscadine bouquet, yet full of flavor ... Southern 
+# Belle - delicate Semi-Sweet white wine; a top seller; lightly sweet, but not as sweet as Sweet Magnolia, nice with fruit, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:white
+#title: <font class="result_title">Biltmore Wine - White Wines</font><br>
+#abstract: 
+# America's most visited winery, at Biltmore in Asheville, N.C., produces award-winning red, white, rosé and sparkling wines 
+# that can be purchased during a visit, online or in select grocers, wine store and restaurants. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:white
+20:red
+20:apple
+#title: <font class="result_title">Chatham Hill Winery - Wine Made Personal</font><br>
+#abstract: 
+# White Wines | Red Wines | Sweet Carolina Fruit Infused Wines ... Crisp and clean with 
+# citrusy and green apple flavors and hints of grassiness and delicate spice. Long and ... 

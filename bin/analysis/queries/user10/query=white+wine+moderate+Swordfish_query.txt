@@ -1,0 +1,180 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:swordfish
+1:food
+#title: <font class="result_title">Penne with Swordfish, Mint, and Pine Nuts Recipe | Food %26 Wine</font><br>
+#abstract: 
+# In this Sicilian dish, pasta, pine nuts, and chunks of swordfish are tossed in mint-spiked olive 
+# oil, with more fresh mint thrown in at the end. The combination is irresistible. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:food
+2:white
+2:wine
+#title: <font class="result_title">Penne Rigate with Spicy Braised Swordfish Recipe | Food %26 Wine</font><br>
+#abstract: 
+# The tomato sauce here-with big pieces of flaked swordfish and slivers of jalape%C3%B1o-gets nicely absorbed by the penne. And, judge Michael Schlow adds, ... moderate heat 
+# until the garlic is golden, about 3 minutes. Add the anchovies and cook, mashing, until dissolved, about 30 seconds. Add the white wine ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:(page,mill,winery,cabernet,sauvignon)
+#title: <font class="result_title">Channing Daughters Winery</font><br>
+#abstract: 
+# The website of Channing Daughters, an organization committed to the care of 
+# our grapevines and the quality of wine in the bottle 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:swordfish
+4:wine
+#title: <font class="result_title">Swordfish Sicilian Style, Involtini di Pesce Spada</font><br>
+#abstract: 
+# Swordfish Sicilian Style, Involtini di Pesce Spada ... Pour the oil in a skillet over moderate-high heat. Fry the fish, loosening it with a 
+# spatula so it does not stick for two minutes, turning once. Add the wine and cook for an additional 2-3 minutes. Transfer ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:white
+5:wine
+#title: <font class="result_title">Cookstr - Herb-baked Swordfish</font><br>
+#abstract: 
+# A great recipe for Herb-baked Swordfish, from Victoria Blashford-Snell and Brigitte Hafner ... cup 
+# dry white wine. Directions. 1. Preheat the oven to 350%C2%B0F (180%C2%B0C) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+#title: <font class="result_title">Grape Vine</font><br>
+#abstract: 
+# Wine drinkers are generally more moderate drinkers of alcohol. and therefore are less ... Moderate 
+# consumption of wine has time and again been proven to be an important ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+#title: <font class="result_title">How to Pick Wine for a Gourmet Meal | eHow.co.uk</font><br>
+#abstract: 
+# How to Pick Wine for a Gourmet Meal. A fantastic gourmet meal needs a great wine to complete the picture. 
+# Choosing just the right wine can be a tough task, but here are some pointers to make it easier. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:swordfish
+8:pasta
+#title: <font class="result_title">sicilian recipes</font><br>
+#abstract: 
+# (swordfish rolls) Ingredients (serves 4) Procedure. Procedure. Pasta al Forno. Ingredients ... (pasta 
+# with sword fish) Ingredients (serves 4) Procedure. Parmigiana di melanzana (fried ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:white
+9:food
+#title: <font class="result_title">Sweetness</font><br>
+#abstract: 
+# As acid in wine can heighten flavours in a dish - much like adding a squeeze of lemon - the higher acidity in unoaked, fruity white wines allows them 
+# ... Spicy food should be paired with off-dry, acidic white wines. A wine's flavours can complement a food's spicy character or provide a contrast to it ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:red
+10:fowl
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# This rule forces you to appropriate-drink ;; red wine with a dark meat fowl course - it doesn't give 
+# you ;; the choice of appropriate-drinking white, medium, moderate, dry wine instead. ( createRule dark-meat-fowl-wine-color DARK-MEAT-FOWL (all ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ( cl-define-concept 'wine-color '(and wine-property (one-of white rose red))) (cl-define-concept 'wine-body '(and wine-property (one-of light ... (cl-populate 
+# 'wine-color '(white rose red)) (cl-populate 'wine-body '(light medium full)) (cl-populate 'wine-flavor '(delicate moderate strong)) (cl ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:swordfish
+12:white
+12:wine
+#title: <font class="result_title">Salad Greens with Swordfish, Pineapple and Coconut - Recipes ...</font><br>
+#abstract: 
+# Find healthy and delicious produce recipes, like Salad Greens with Swordfish, Pineapple and Coconut, and other American recipes for heart at FoodFit.com. ... 2 tablespoons 
+# white wine vinegar. 1 tablespoon freshly chopped shallots. 1 1/2 tablespoons olive oil. salt to taste. freshly ground black pepper. For the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:swordfish
+13:white
+#title: <font class="result_title">Musca Wine Pressing and Supplies Limited: "From The Vine" Kits</font><br>
+#abstract: 
+# Blanc De Blancs - Is considered to be a dry, white wine made from one or more white grape varietals. ... Traditional Food Pairings - 
+# Smelts, Swordfish, %26 Pasta with Seafood. Verdicchio - This white varietal produces a full-bodied, crisp, dry white wine, with good aromas and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:seafood
+14:swordfish
+#title: <font class="result_title">Seafood corner: Featured fish of the week - swordfish ...</font><br>
+#abstract: 
+# Swordfish - Scientific name: Xiphias gladius - Common names: Broadbilled swordfish, broadbill, espada, emperado - Overview: There is only one species of swordfish. ... 
+# Steps: In a glass baking dish, combine the garlic, white wine, lemon juice, soy sauce, olive oil, poultry seasoning, salt and pepper. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:food
+15:wine
+#title: <font class="result_title">Food and Wine - Wine Enology Grape Chemistry Lab at Virginia Tech</font><br>
+#abstract: 
+# Classic combinations of food and wine usually involve groupings such as: Caviar with Champagne; Filet of Sole with white Burgundy or Chardonnay; Rack 
+# of Lamb with red Bordeaux, Cabernet ... and wine combinations: crisp acidity, dry or slightly off dry, low to moderate alcohol ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:swordfish
+16:white
+16:wine
+#title: <font class="result_title">Free Recipes - Char-grilled Swordfish on Warm Avocado Corn ...</font><br>
+#abstract: 
+# Free Char-grilled Swordfish on Warm Avocado Corn Salad recipe along with hunderds of other free seafood 
+# - fish cooking recipes on Cuisine.com.au ... Add the avocado, coriander and white wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+#title: <font class="result_title">Ken's Wine Guide Blog Including Wine Ratings, Wine Reviews ...</font><br>
+#abstract: 
+# Our group thought it would be a perfect wine to pair with lemon drizzled grilled swordfish. Our final white comes from the Penedes region which is 
+# more known for its Cava and sparkling wines. This USD15 offering from Can Feixas uses the same grapes to make this food-friendly dry wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:white
+18:wine
+#title: <font class="result_title">White Wine - Rotondo's Wine</font><br>
+#abstract: 
+# Rotondos Liquor, Deli, and Fine Foods, Clark New Jersey. Featuring an expansive wine cellar, including value wines and selected wines. Each 
+# wine we stock has been personally tasted to ensure that is a worthy selection. We can help find New Jersey... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+#title: <font class="result_title">Wine Pairing Guide | Wine Inquirer - Tucson Wine Enthusiasts</font><br>
+#abstract: 
+# Choose the perfect wine pairing 
+# for your next meal 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:bordeaux
+20:white
+20:wine
+#title: <font class="result_title">Westside Liquor, There's One Near You! - Recipes - Bordeaux ...</font><br>
+#abstract: 
+# Best Selection, Best Service, Best overall pricing. We will meet or beat any local price. Thank you so very very much for your business!Liquor, Beer %26 
+# Wine is all we do! Westside Liquor There's One Near You! ... Moderate-full White (Chardonnay, White Bordeaux, White Burgundy, medium dry Riesling or ... 

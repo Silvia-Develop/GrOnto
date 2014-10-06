@@ -1,0 +1,62 @@
+15:red meat
+15:meat
+12:red wine
+14:red wine
+19:red wine
+13:red wine
+18:red wine
+20:red wine
+1:red wine
+4:red wine
+8:red wine
+17:red wine
+7:red wine
+10:red wine
+15:red wine
+16:red wine
+5:red wine
+6:red wine
+9:red wine
+2:red wine
+19:cabernet sauvignon
+7:food
+10:food
+2:food
+12:steak
+14:steak
+19:steak
+13:steak
+18:steak
+20:steak
+1:steak
+3:steak
+4:steak
+8:steak
+17:steak
+7:steak
+10:steak
+15:steak
+11:steak
+16:steak
+5:steak
+6:steak
+9:steak
+2:steak
+12:wine
+14:wine
+19:wine
+13:wine
+18:wine
+20:wine
+1:wine
+4:wine
+8:wine
+17:wine
+7:wine
+10:wine
+15:wine
+16:wine
+5:wine
+6:wine
+9:wine
+2:wine

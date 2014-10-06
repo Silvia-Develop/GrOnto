@@ -1,0 +1,33 @@
+1:wine
+2:wine
+2:dessert
+2:white
+3:wine
+4:wine
+5:cheese
+5:wine
+6:wine
+7:wine
+8:red
+9:wine
+10:light dry (delicate,moderate)
+10:wine
+11:wine
+12:wine
+12:(page,mill,winery,cabernet,sauvignon)
+13:wine
+13:white
+13:red
+14:wine
+14:fruit
+15:(off-dry,sweet) medium moderate
+15:white
+15:wine
+16:wine
+17:white
+17:wine
+18:wine
+18:dessert
+19:wine
+20:wine
+20:light dry (delicate,moderate)

@@ -1,0 +1,173 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:(mount,eden,vineyard,estate,pinot,noir)
+#title: <font class="result_title">2003 Mount Eden Santa Cruz Mountains Pinot Noir - SKU 1025462</font><br>
+#abstract: 
+# 89(%2B?) points Stephen Tanzer's International Wine Cellar: "Medium red. Aromas of cherry liqueur, smoked meat, leather and exotic spices. Tangy 
+# and firm-edged, with strong acids framing the musky raspb ... 2003 Mount Eden Santa Cruz Mountains Pinot Noir ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... WINE-COLOR (and WINE-PROPERTY (oneOf White Rose Red))) (createConcept WINE-BODY (and WINE-PROPERTY (oneOf Light Medium Full))) (createConcept WINE-FLAVOR 
+# (and WINE-PROPERTY (oneOf Delicate Moderate Strong))) (createConcept WINE ... 'WINE-FLAVOR '(Delicate Moderate Strong)) ;(populate 'WINE-SUGAR ' ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:(mount,eden,vineyard,estate,pinot,noir)
+#title: <font class="result_title">1996 Mount Eden Estate Pinot Noir - SKU 1041895</font><br>
+#abstract: 
+# 90 points Robert Parker: "The 1996 Pinot Noir is reminiscent of a good Beaune or Volnay premier 
+# cru. Bright jammy, strawberry, and fruit flavors are intertwined with spicy oak and minerals. Elegant an 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:wine
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ( cl-define-concept 'wine-color '(and wine-property (one-of white rose red))) (cl-define-concept 'wine-body '(and wine-property (one-of light ... 'mount-eden-vineyard-estate-pinot-noir 
+# '(and pinot-noir (fills body full) (fills flavor strong) (fills sugar dry) (fills maker mount-eden-vineyard) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:(mount,eden,vineyard,estate,pinot,noir)
+#title: <font class="result_title">2003 Mount Eden Vineyards Pinot Noir Estate Bottled (USA ...</font><br>
+#abstract: 
+# Tasted by glaze3 on 8/17/2009: 5th of 6 bottles and still kick'in strong will hold last bottle for the 10 
+# yr mark. ... cherry,rasberry flavors. THis wine has a great mid palate and the wine lingers there with ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+#title: <font class="result_title">Buy Wine, Buy Wine Online - Amazing Grapes Wine Store</font><br>
+#abstract: 
+# Buy wine online at our amazing wine store. Find the best wine online. Always in stock. Guaranteed. ... density, like liquid silver, 
+# lush in red cherries, licorice, cinnamon, coco, dried herb and orange zest flavors, and should develop in the bottle ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:(mount,eden,vineyard,estate,pinot,noir)
+7:cabernet sauvignon
+#title: <font class="result_title">2002 Mount Eden Vineyards Cabernet Sauvignon Estate Bottled ...</font><br>
+#abstract: 
+# Most of the table preferred the Isosceles...the Mount Eden had an earthy, strong oak taste, not a lot of fruit, 
+# reading the other ... excellent wine in balance, complexity and longevity, the vegetable was a bit too strong. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:(mount,eden,vineyard,estate,pinot,noir)
+8:cabernet sauvignon
+#title: <font class="result_title">Gang of Pour - Vince F's ZAP '99 Tasting Notes</font><br>
+#abstract: 
+# 1993 Mount Eden Cabernet Sauvignon Santa Cruz Mountains Old Vine ... Dark red/purple; tart red berry 
+# cranberry flavor, strong acid, medium body, moderate oak, bit piquant and unyielding, needs time ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:red
+9:white
+#title: <font class="result_title">Wine lovers: He's passionate about red she's devoted to white ...</font><br>
+#abstract: 
+# A couple walked into K%26L Wine Merchants in San Francisco recently with a dilemma faced by 
+# many partners: the husband liked red wine and his wife preferred white.Scott Beckerley, assistant 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:(mount,eden,vineyard,estate,pinot,noir)
+10:cabernet sauvignon
+#title: <font class="result_title">Wine " USD25 to USD50 - Wine Pro Online - Buy Wine - Lyndhurst ...</font><br>
+#abstract: 
+# Wine Pro Online delivers hot wines, top picks, and other select wines. ... Mount Eden Vineyards Saratoga Cuvée Cabernet Sauvignon 2004. 
+# BN#248045. Fleshy and ripe with flavors of black cherry, plum, cocoa and soil the cuvée is softer and more ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:food
+#title: <font class="result_title">%5BTXT%5D</font><br>
+#abstract: 
+# spicy-red-meat%7D '(all appropriate-drink (all flavor (one-of strong moderate)))) ;(cl-add-rule 'non-spicy-red-meat-wine-sugar %40c%7Bnon-spicy-red-meat%7D ; '(all appropriate-drink 
+# (fills sugar dry))) ;Feb 10 14:13 1994 food-wines.lisp Page 3 ;(cl ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:(page,mill,winery,cabernet,sauvignon)
+#title: <font class="result_title">Downhill Winery</font><br>
+#abstract: 
+# Home | Our Wines | About Us | How to Purchase | 
+# | Contact Us | Web Site by Dane Designs ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+#title: <font class="result_title">The Australian Premium Wine Collection TM</font><br>
+#abstract: 
+# The best Australian premium wine exported to the USA by John Larchet. ... The wine is quite deep dark red with a little purple 
+# around the rim, indicating its youth. The nose is also very youthful with all the primary fruit flavors to the fore. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:red
+14:wine
+#title: <font class="result_title">Red Wine | Page 1 of 102 | ArtisanVineyards.com</font><br>
+#abstract: 
+# Red Wine Page 1 of 102 - Great 
+# wine selections offered at competitive rate. ArtisanVineyards.com 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:(mount,eden,vineyard,estate,pinot,noir)
+#title: <font class="result_title">Wine on the Way Blog</font><br>
+#abstract: 
+# Mount Eden Chardonnay Wine Review: Hold On for the Zest! And now on to the 2006 Mount 
+# ... to evolve these interesting flavors, the Mount Eden Chardonnay grapes are pressed and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+#title: <font class="result_title">Corked Wine Signs | Wine on the Way Blog</font><br>
+#abstract: 
+# Corked wine is a type of bad wine. Deciphering a bad wine comes easier with time, however there are some telltale 
+# signs of bad wine. Here are 5 signs of bad wine to help distinguish good wine from bad wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:red
+17:fruit
+#title: <font class="result_title">Wines of California</font><br>
+#abstract: 
+# Very red. Not pink. It is very bold, rich, and intense, with a spicy flavor and strong, jammy fruit 
+# texture. ... Mount Eden Vineyards, "Edna Valley MacGregor Vineyard" Chardonnay 1999 (Edna Valley) Very creamy and buttery, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:pork
+18:red
+18:wine
+#title: <font class="result_title">CuisineNet Cafe: Autumn Wines, American Reds</font><br>
+#abstract: 
+# Cabs team up well with roasts, stews, and strong cheeses. ... flavored foods such as shellfish, pork 
+# and veal. Sirah: In America, sirah grapes are blended with practically all red wine grapes ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:(mount,eden,vineyard,estate,pinot,noir)
+#title: <font class="result_title">Buy wine online at Wine Library</font><br>
+#abstract: 
+# Online wine store. Buy wine from our vast selection ranging from Australia to New Zealand. ... which add interest to 
+# the fundamental lemon-mineral flavors. Of all Mount Eden's estate-grown wines, our chardonnay is most in need of furthe (more... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:wine
+#title: <font class="result_title">California Meritage Red Wine, California Meritage Red Wines ...</font><br>
+#abstract: 
+# California Meritage Red Wine - Great Selection of Meritage Red 
+# Wines from California - Always in Stock. Guaranteed. 

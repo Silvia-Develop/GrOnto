@@ -1,0 +1,194 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:wine
+1:light dry (delicate,moderate)
+#title: <font class="result_title">Types of Red Wine - LoveToKnow Wine</font><br>
+#abstract: 
+# Pinot Noir - This red wine is growing very quickly in popularity and ... Syrah (Shiraz) - Syrahs have great forward fruit flavors with a hint of pepper 
+# and spice. Zinfandel - Zins run the gamut in flavor characteristics and range from big and hearty to light and delicate. Other Types of Red Wine ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:red
+2:cabernet sauvignon
+#title: <font class="result_title">D'Vine Wine :: Wine List</font><br>
+#abstract: 
+# Red Wines USD17.99 a bottle. Cabernet Sauvignon/Merlot blend. This 50% Cabernet Sauvignon, 50% Merlot blend is a medium bodied red, easy to drink, that can be 
+# slightly chilled. Savory fruit aromas combine blueberries with hints of cedar and pepper notes - flavor follow suit with a hint of oak. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+3:white
+3:red
+3:apple
+#title: <font class="result_title">How Does Wine Get Its Flavor?</font><br>
+#abstract: 
+# Wine is the fermented juice of grapes. That statement does nothing to explain the complexities and subtleties of wine and its flavor. Wine gets its flavor from three different 
+# places: the ... are the flavor compounds. When you say a white wine has a hint of apple or pear, or that a red wine has a ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:wine
+#title: <font class="result_title">Smoky Hill Vineyards %26 Winery Fine Kansas %26 American Wine ...</font><br>
+#abstract: 
+# This dry red wine features the robust flavors of black cherry, raspberry, pepper and toasted oak. This Cabernet also has rich tannins and 
+# a long smooth finish. Merlot. Barrel aged to give this earthy, dry red wine complexity with soft and delicate flavors. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:red
+5:wine
+5:(color,colour)
+#title: <font class="result_title">Red Wine Production Technology</font><br>
+#abstract: 
+# The former makes a wine with an intense purple-red color, obvious astringency, and lots of flavor intensity. The latter makes a wine that could not be 
+# more different: it is usually mid-red or even pale red, the tannins are very supple, and the flavors are delicate rather than bold. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:gamay grape
+6:(mountadam,pinot,noir)
+6:red
+6:wine
+#title: <font class="result_title">Light Red Wines</font><br>
+#abstract: 
+# Light Red Wines including The Gamay Grape, The Pinot Noir Grape, The Temparanillo Grape and the Sangiovese Grape. ... Light Red Wines. Gamay. A light and 
+# fruity wine with the distinct flavor of berries. Expect to taste strawberries, cherries and raspberries. This is an excellent choice for the beginner, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:red
+7:wine
+7:(chianti,classico)
+#title: <font class="result_title">Italian Flavor Consortium: Italian Wine, Italian Wine Forum ...</font><br>
+#abstract: 
+# Italian Flavor Consortium, Italian Wine Forum, Italian wine, Italian Wine Forum, wine, red wine, white wine, DOC 
+# wines, chianti, amarone, brunello, brunello di Montalcino, primitivo, montepulciano d'Abruzzo, barolo, barbera, Taurasi, salice ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:red
+8:(color,colour)
+#title: <font class="result_title">Welcome to Corks | Corks Winery Ottawa West | Ottawa Wine On ...</font><br>
+#abstract: 
+# Home White Wines Red Wines Specialty Wines Retail Products News About ... This medium bodied wine offers elevated succulent juicy berry flavors, accentuated by delicate 
+# aroma notes of coffee and vanilla oak. Ruby red in color, it boasts of velvety tannins and a long fulfilling fruity aftertaste. Coteau ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:wine
+9:red
+9:white
+#title: <font class="result_title">Wine Terminology</font><br>
+#abstract: 
+# Wine Terminology including wine acidity, wine balance ... However, if you're "knocked out" by the 
+# flavor of the wine red or white, you could then call it intense. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:(color,colour)
+10:red
+10:wine
+#title: <font class="result_title">The Finer Life %26 Cigar Legacy cigars, Color of Red Wine</font><br>
+#abstract: 
+# The Finer Life, Free shipping wine cellars, wine accessories, wine deals, wine information, win education. Shop our online catalog and take advantage ... The 
+# following illustrated examples of red wines cover three styles, from light and delicate to strong and powerful across a representative sample of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:fish
+11:seafood
+11:lobster
+11:steak
+11:apple
+#title: <font class="result_title">Tips for Pairing Fish and Seafood with Wine - Red Lobster ...</font><br>
+#abstract: 
+# This lighter red wine doesn't overpower the lobster, but is still strong enough to complement the 
+# steak. ... The green apple taste of Fume Blanc complements this delicate cooking presentation. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:food
+12:fish
+#title: <font class="result_title">Food and wine pairing, wine food pairing</font><br>
+#abstract: 
+# The old rules - primarily red wine with red meat and white wine with fish and poultry - don't take into consideration 
+# the complexity of today's multi-ethnic and subtly flavored foods and the corresponding wide range of wines from around the world ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:light dry (delicate,moderate)
+13:seafood
+#title: <font class="result_title">Vallarta Wine Fest 2010</font><br>
+#abstract: 
+# If we have a dish rich in flavor, we need a full body wine, on the other hand for a light and delicate dish 
+# we need a light wine. ... For Seafood of more delicate and subtle flavors like oysters or Blue Crab we recommend Chardonnay. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:red
+14:wine
+#title: <font class="result_title">Red Wine Pairing - How to Pair Red Wine With Food Video</font><br>
+#abstract: 
+# Red wines are made with different varieties of grapes giving each a distinct character and flavor. See 
+# how to pair red wines with foods to get the perfect compliment to your meal. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:food
+15:wine
+#title: <font class="result_title">An Expert's Pairing Advice | Food %26 Wine</font><br>
+#abstract: 
+# Wine writers always say things like "a '94 Chianti Classico from Antinori's Guado al Tasso estate is the perfect match for 
+# this pork loin with roasted hen-of-the-woods mushrooms." But are there really perfect wine and food matches? Is there ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:red
+#title: <font class="result_title">Laurel Mountain Vineyard - Wine Flavors</font><br>
+#abstract: 
+# TREASURE LAKE RED (2.5) Earthy style semi-dry red with a fruity flavor and aroma USD10.00 ... 
+# Red wine flavored with mulling spices. Serve hot. USD10.00. CONCORD (4) Nice Native American ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:red
+#title: <font class="result_title">Livo Pavese</font><br>
+#abstract: 
+# An excellent ruby red, wine with a delicate, persistent bouquet of flowers and moss. ... Pre-dinner wine, produced from Pino and Chardonnay grape varieties vines, 
+# it is appreciated for its subtle, persistent froth, its delicate bouquet and its typical harmonious, tasty flavors. It is the result of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:red
+18:wine
+#title: <font class="result_title">Hecker Pass</font><br>
+#abstract: 
+# Created in 1980, Red Velvet may be a the ideal wine for someone new to reds, but wants the flavor characteristics of a full-dry, without the 
+# heavy tannins. ... Combine this with a soft, lush finish and you have the perfect introduction to what red wines have to offer. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:red
+19:wine
+#title: <font class="result_title">WineGlobe.com: Buy Other Red Wines from our selection of Red ...</font><br>
+#abstract: 
+# Red Blend are Jammy and fruity wines with a very delicate character to big, 
+# rich wines full of intense flavors. Buy Red Blend wines at Wineglobe.com 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:food
+20:red
+#title: <font class="result_title">Victoria Wine and Food</font><br>
+#abstract: 
+# Red wine or white wine? Dry or semi-dry? A general guide on the different 
+# types of wine and how to choose one to compliment your meal. 

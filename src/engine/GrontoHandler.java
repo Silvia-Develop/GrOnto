@@ -1,0 +1,192 @@
+package engine;
+
+import java.io.*;
+
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
+import org.w3c.dom.Document;
+
+import com.sun.net.httpserver.HttpExchange;
+import com.sun.net.httpserver.HttpHandler;
+
+public class GrontoHandler implements HttpHandler {
+
+	private HomePageProvider homePage;
+	private RawQueryExecutor baseQuery;
+	private HtmlOutputFormatter htmlOutput;
+	private GrOnto grontoModel;
+	
+	//private static final String ONTO_NAME = "wineOntologyOriginale.txt";
+	private static final String ONTO_NAME = "wineOntology01.txt";
+	private static final String STOP_WORD_LIST = "stopwordsSmall.txt";
+	private static final String ONTO_TERMS_LIST = "vocabulary.txt";
+		
+	public GrontoHandler() throws IOException {
+        homePage = new HomePageProvider();
+        baseQuery = new RawQueryExecutor();
+        htmlOutput = new HtmlOutputFormatter();
+        
+        grontoModel = new GrOnto(ONTO_NAME, STOP_WORD_LIST, ONTO_TERMS_LIST);
+	}
+
+	public void handle(HttpExchange t) throws IOException {
+        
+        String requestBody = read(t.getRequestBody()); // .. read the request body
+        String response = new String();
+        
+        String method = t.getRequestMethod();
+        System.out.println( t.getRequestMethod() );
+        
+        if (method.equals(new String("GET"))){
+        	response = homePage.read();
+                	
+        } else if (method.equals(new String("POST"))){
+        	System.out.print("Read query....");
+        	System.out.println( requestBody );
+
+        	// get the raw query from Yahoo
+        	long iTime = 0;
+        	long eTime = 0;
+        	iTime = System.currentTimeMillis();
+        	Document dYahoo = baseQuery.yahooBossQuery(requestBody);
+        	eTime = System.currentTimeMillis();
+        	System.out.println( "query "+(eTime - iTime));
+        	
+        	iTime = System.currentTimeMillis();
+            Document grontoDoc = grontoModel.applyModel(dYahoo);
+            eTime = System.currentTimeMillis();
+            System.out.println( "model "+(eTime - iTime));
+        	
+        	//String yahooHtml = 
+        	htmlOutput.getQueryOutput(dYahoo); 
+        	
+        	// apply the transformation from Gronto
+        	String grontoMenuHtml = "Test";
+        	try{
+            	iTime = System.currentTimeMillis();
+        		grontoMenuHtml = htmlOutput.getGrontoHtmlMenu(grontoDoc);
+                eTime = System.currentTimeMillis();
+                System.out.println( "menu "+(eTime - iTime));
+        	} catch (Exception e) {
+				e.printStackTrace();
+			}
+            
+        	String grontoResultsHtml = "Test";
+        	try{
+            	iTime = System.currentTimeMillis();
+        		grontoResultsHtml = htmlOutput.getGrontoHtmlResults(grontoDoc);
+        		eTime = System.currentTimeMillis();
+                System.out.println( "results "+(eTime - iTime));
+        	} catch (Exception e) {
+				e.printStackTrace();
+			}
+            
+        	// return
+        	response = homePage.read().replaceAll("<!--menu-->", grontoMenuHtml);
+        	response = response.replaceAll("<!--results-->", grontoResultsHtml);
+        
+            //For measuring metrics
+        	//String responseYahoo = homePage.read().replaceAll("<!--results-->", yahooHtml);
+        	
+        	savePagesResults(
+        			requestBody, 
+        			htmlOutput.getMeasureQueryContent(),
+        			htmlOutput.getMeasureGrontoContent(),
+        			htmlOutput.getMeasureGrontoHierarchy()
+        	);
+        	//
+
+        }                
+        t.sendResponseHeaders(200, response.length());
+        OutputStream os = t.getResponseBody();
+        os.write(response.getBytes());
+        os.close();
+    }
+
+	private String read(InputStream is) throws IOException {
+	    BufferedInputStream bis = new BufferedInputStream(is); 
+	    ByteArrayOutputStream buf = new ByteArrayOutputStream(); 
+	    int result = bis.read(); 
+	    while(result != -1) { 
+	      byte b = (byte)result; 
+	      buf.write(b); 
+	      result = bis.read(); 
+	    }         
+	    return buf.toString(); 
+	}
+
+	
+	private void savePagesResults(String query, String yahoo, String gronto, String grontoHierarchy){
+		/**try {
+			BufferedWriter writer = new BufferedWriter(
+					new FileWriter(new File(query+"_query.txt"))
+			);
+		    writer.write(yahoo.toString());
+		    writer.close();
+		} catch (IOException e) {
+		    e.printStackTrace();
+		} **/
+
+		try {
+			BufferedWriter writer = new BufferedWriter(
+					new FileWriter(new File(query+"_NOGRANULE.txt"))					
+			);
+		    writer.write(gronto.toString());
+		    writer.close();
+		} catch (IOException e) {
+		    e.printStackTrace();
+		} 
+
+		try {
+			BufferedWriter writer = new BufferedWriter(
+					new FileWriter(new File(query+"_NOGRANULE_repetition.txt"))					
+			);
+		    writer.write(grontoHierarchy.toString());
+		    writer.close();
+		} catch (IOException e) {
+		    e.printStackTrace();
+		} 
+
+	}
+	
+	public boolean saveXMLDocument(String fileName, Document doc) {
+	        System.out.println("Saving XML file... " + fileName);
+	        // open output stream where XML Document will be saved
+	        File xmlOutputFile = new File(fileName);
+	        FileOutputStream fos;
+	        Transformer transformer;
+	        try {
+	            fos = new FileOutputStream(xmlOutputFile);
+	        }
+	        catch (FileNotFoundException e) {
+	            System.out.println("Error occured: " + e.getMessage());
+	            return false;
+	        }
+	        // Use a Transformer for output
+	        TransformerFactory transformerFactory = TransformerFactory.newInstance();
+	        try {
+	            transformer = transformerFactory.newTransformer();
+	        }
+	        catch (TransformerConfigurationException e) {
+	            System.out.println("Transformer configuration error: " + e.getMessage());
+	            return false;
+	        }
+	        DOMSource source = new DOMSource(doc);
+	        StreamResult result = new StreamResult(fos);
+	        // transform source into result will do save
+	        try {
+	            transformer.transform(source, result);
+	        }
+	        catch (TransformerException e) {
+	            System.out.println("Error transform: " + e.getMessage());
+	        }
+	        System.out.println("XML file saved.");
+	        return true;
+	    }
+
+}

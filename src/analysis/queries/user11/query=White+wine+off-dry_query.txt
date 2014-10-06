@@ -1,0 +1,182 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:white
+1:wine
+1:medium (delicate,moderate) dry
+#title: <font class="result_title">Best English Wine - Off Dry White</font><br>
+#abstract: 
+# this is the meta tags description of this page for the search engines, please set BEFORE publishing this category ... 
+# A deliciously fragrant, medium dry, white wine, rich in fruit and floral aromas with subtle hints of spice. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:white
+2:wine
+#title: <font class="result_title">- Off Dry White Wine</font><br>
+#abstract: 
+# Wine Shop. Off Dry White Wine. Sort By: Viewing products 1 - 1 of 1 
+# ... Wine Circle News Calendar of Events Wine Shop Employment Opportunities Customer Service ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:white
+3:wine
+#title: <font class="result_title">- Off Dry White Wine</font><br>
+#abstract: 
+# Off Dry White Wine. Sort By: Viewing products 1 - 1 of 1 | One Last ... 
+# Viewing products 1 - 1 of 1 | Privacy Policy Customer Service. Powered by eWinery ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:white
+#title: <font class="result_title">2007 Off Dry Riesling</font><br>
+#abstract: 
+# About This Wine: This wine's delicate floral quality and lush sweetness is balanced by a 
+# ... Off Dry White Wine. Varietal: White Riesling. Appellation: California. Residual Sugar: 2.0 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:white
+5:wine
+#title: <font class="result_title">White Table Wine</font><br>
+#abstract: 
+# White Table Wine - "CRAZY ELK" 2006 White Table Wine This lovely off 
+# dry picnic style wine is simple and easy to drink. The ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:white
+#title: <font class="result_title">Wine Tasting Notes: Fruity Dry White</font><br>
+#abstract: 
+# At present, I fear that a number of great wines of this type are being killed off with heavy-handed oaking and excess alcohol. If the wine 
+# is not essentially dry, it would appear as an off-dry fruity white, if oak shows it would be entered as a dry oaked white. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:white
+7:wine
+#title: <font class="result_title">- Dry White Wine</font><br>
+#abstract: 
+# - Dry White Wine - Dessert Wine / Port - Sparkling Wine - Off Dry White ... Wine Shop. 
+# Dry White Wine. Sort By: Viewing products 1 - 5 of 5 | 2006 Desert Wind 'Bare ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:(page,mill,winery,cabernet,sauvignon)
+8:wine
+8:white
+#title: <font class="result_title">Illinois River Winery, Buy Wine Online from Illinois' Premier ...</font><br>
+#abstract: 
+# An off-dry white wine that pairs well with pasta and sea foods. ... White River Tears. Off dry 
+# white wine made from the traminette grape with a hint of cinnamon, spice, and pear ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:food
+9:white
+#title: <font class="result_title">Riesling Wines - The Other White Wine</font><br>
+#abstract: 
+# Riesling Wines, Germany's greatest grape has made a name for itself in the modern wine market. Easy to pair with a wide-variety 
+# of foods and relatively easy to grow, make this wine a popular choice for wine connoisseurs and wine masters alike. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:white
+10:food
+#title: <font class="result_title">A Trio of Good Off-Dry Whites - Tasting Room | Food %26 Wine</font><br>
+#abstract: 
+# Ray Isle's Wine BlogA Trio of Good Off-Dry Whites ... Maybe it's the odd juxtaposition of snow and the beginning of Spring, but somehow the idea of an 
+# off-dry (lightly sweet) white wine seems like the ideal thing today. Maybe it's the thought that if Spring were actually acting like Spring is supposed ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:white
+#title: <font class="result_title">Cova Off-Dry White</font><br>
+#abstract: 
+# Off-Dry White Wines. These Germanic-styled white wines are generally fruity and easy ... Finished wines will have an off-dry sugar/acid balance and 10 to 12 % alcohol. Use 
+# of Sussreserve is a high probability. We have an ideal wine that we would like to build, but our top two choices are denied to us. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:white
+12:wine
+#title: <font class="result_title">Our Delectable Wine List...</font><br>
+#abstract: 
+# Sparkling Wine | Dry White Wine | Off Dry White Wine | Semi-Sweet White Wine | Rosé | Red Wine | Port | Sherry | 
+# Muscadel ... Monis Full Cream. R 8.50. Monis Medium Cream. R 8.50. Monis Dry. R 8.50. Beskrywing. Koste. KWV Red/White Muscadel. R 10.50 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:white
+13:wine
+#title: <font class="result_title">White Wine from the online wine shop from Affordable Wine ...</font><br>
+#abstract: 
+# White Wine from Affordwine. Affordablewine is a cutting edge UK wine importer, merchant and di stributor, based in Worcester, 
+# England. We import French wine from the Languedoc Roussillon Region a nd distribute to hotels, restaurants, independent ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:white
+14:grape
+#title: <font class="result_title">Dry White Grape Wines</font><br>
+#abstract: 
+# Berrywine Plantations and Linganore Winecellars welcome you to over 230 acres of lush Maryland vineyards. Our full 
+# range of award-winning grape and semi-sweet fruit wines will make the journey worth the effort. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+15:white
+#title: <font class="result_title">Wine Catalog</font><br>
+#abstract: 
+# Our entry level off-dry white wine, made from a blend of wine grapes grown throughout Japan. ... A fresh yet complex wine balancing the red fruit of raspberries 
+# and gentle earthy notes. A perfect partner for many dishes from baked ham to curry and rice, especially well with Chinese dishes and spicy Asian ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:white
+16:wine
+#title: <font class="result_title">White Wines</font><br>
+#abstract: 
+# (from dry to off-dry) 2007 Semillon. Estate Collection VQA (0) The nose on this wine displays a slight herbal note with aromas of pineapple and apricot, 
+# followed by flavours of nectarine, fig and honey on the palate. ... slightly off-dry, unoaked white wine displays lively aromas and flavours of cantaloupe, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:white
+17:low
+#title: <font class="result_title">White Zinfandel - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# White Zinfandel, often abbreviated as White Zin, is an off-dry to sweet, pink-colored blush wine. ... Historically an inexpensive jug wine, White 
+# Zinfandel is a quaffing wine that is sweet, soft, and low in alcohol, making it a popular choice with ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:white
+18:apple
+#title: <font class="result_title">Sawmill Creek Wines</font><br>
+#abstract: 
+# A crisp, dry, medium-bodied white wine exhibiting flavours of citrus and tart green apple. ... DRY WHITE. 750ml, 1.5L, 3L, 16L, 20L. This 
+# wine is an elegant blend of popular grape varieties giving this wine a complex bouquet highlighted by herbal and fig characters. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:white
+19:wine
+#title: <font class="result_title">dry white wine, dry white wine Manufacturers %26 Suppliers - Page 4</font><br>
+#abstract: 
+# Alibaba - dry white wine: dry white wine Manufacturers %26 dry white wine Suppliers. Find a reliable %26 
+# professional dry white wine manufacturer or supplier. Also exporters of wholesale dry white wine. - Page 4 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:(page,mill,winery,cabernet,sauvignon)
+20:dessert
+20:wine
+#title: <font class="result_title">White Wine | Martin-Scott Winery</font><br>
+#abstract: 
+# Great dessert wine with the traditional flavors of mandarin orange, honeysuckle and ... This off 
+# dry (0.6% RS) table wine is a blend predominately of stainless steel Chardonnay ... 

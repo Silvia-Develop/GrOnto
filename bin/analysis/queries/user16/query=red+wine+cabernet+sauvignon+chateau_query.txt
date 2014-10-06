@@ -1,0 +1,185 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:cabernet sauvignon
+1:red
+1:wine
+#title: <font class="result_title">2006 chateau d'Armailhac by Ch%C3%A2teau d'Armailhac (cabernet ...</font><br>
+#abstract: 
+# chateau d'Armailhac (2006) ratings and reviews, winery notes, wine tasting notes and food 
+# pairings for this cabernet, cabernet sauvignon Red Wine by Ch%C3%A2teau d'Armailhac 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:cabernet sauvignon
+2:bordeaux
+2:(napa,valley)
+2:red
+2:wine
+#title: <font class="result_title">Cabernet Sauvignon: Definition from Answers.com</font><br>
+#abstract: 
+# Cabernet Sauvignon ( ) n. A variety of black grape used to 
+# make red wine, notably in Bordeaux and the Napa Valley 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:cabernet sauvignon
+3:red
+3:wine
+#title: <font class="result_title">2006 Ch%C3%A2teau La Freneylle by Ch%C3%A2teau la Freneylle (Merlot ...</font><br>
+#abstract: 
+# Ch%C3%A2teau La Freneylle (2006) ratings and reviews, winery notes, wine tasting notes and food 
+# pairings for this Merlot, Cabernet Sauvignon Red Wine by Ch%C3%A2teau la Freneylle 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:cabernet sauvignon
+4:wine
+4:flavor
+#title: <font class="result_title">1999 Chateau Montelena - Cabernet Sauvignon Estate at ...</font><br>
+#abstract: 
+# Buy 1999 Chateau Montelena - Cabernet Sauvignon Estate from Vinfolio, a 
+# premier wine store for fine wine collectors and enthusiasts. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:cabernet sauvignon
+#title: <font class="result_title">1989 Chateau Montelena - Estate Cabernet Sauvignon and Blends ...</font><br>
+#abstract: 
+# Impressive, showing what happened when the grapes were left to hang after rains and a huge crop. Plenty of ripe, fleshy currant and black cherry 
+# flavors.--Chateau Montelena vertical. Drink now through 2005. %3CI%3E by Wine Spectator %3C/I%3E ... 1989 Chateau Montelena - Estate Cabernet Sauvignon and Blends 750ml ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:cabernet sauvignon
+6:red
+6:wine
+#title: <font class="result_title">Cabernet Sauvignon - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Cabernet Sauvignon is one of the world's most widely recognized red wine grape varieties. ... The First Growth estates of Ch%C3%A2teau Mouton Rothschild and Ch%C3%A2teau 
+# Latour are noted for regularly producing wines with some of the highest percentage of Cabernet- often around 75%.%5B1%5D A common factor affecting ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:cabernet sauvignon
+7:wine
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon - The Wine Cellar</font><br>
+#abstract: 
+# Known for our selections of fine wines in the South Jersey area, our interactive website allows you to take advantage of our 
+# online specials, and a personalized Wine Portfolio helps you keep track of any wines you've purchased. You can also get ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+#title: <font class="result_title">WineChateau.com</font><br>
+#abstract: 
+# Our mission is to provide a level of excellence and low prices on all our products. We strive to 
+# enhance our customers' wine drinking experiences by offering a vast selection of wines from around the world. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:(whitehall,lane,cabernet,franc)
+#title: <font class="result_title">Chateau Margene - Home</font><br>
+#abstract: 
+# Recent Book Reviews on Chateau Margene: Excerpt from Matt Kramer's book, New California Wine. " This tiny producer shows just ... Excellent Cabernet Sauvignon 
+# Reserve (from Paso West grapes) and a superb Cabernet Franc from their estate vineyard in Paso East." Wines and Wineries of California's ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:red
+10:wine
+#title: <font class="result_title">Chateau KSARA | RED WINE</font><br>
+#abstract: 
+# A bright intense ruby red wine with an exotic fruity aroma along with spicy and Licorice notes make it a wine to 
+# remember. ... Superbly balanced, this dark ruby wine, from Cabernet-Sauvignon, Syrah and Carignan combines elegance with a lingering delicacy. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:cabernet sauvignon
+11:wine
+#title: <font class="result_title">VinCellar - Chateau Montelena - Cabernet Sauvignon Estate ...</font><br>
+#abstract: 
+# Find Chateau Montelena - Cabernet Sauvignon Estate 2000 Cabernet Sauvignon wine 
+# reviews, wine scores, drink dates and tasting notes in VinCellar 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cabernet sauvignon
+#title: <font class="result_title">Chateau Ste. Michelle Cabernet Sauvignon 2004</font><br>
+#abstract: 
+# In the blend are Syrah, Merlot, Sangiovese and Cabernet Franc, which makes this more of a proprietary red than a true Cabernet Sauvignon. 
+# Whatever you call it, the wine's soft palate and highlights of cracker, mocha and sandalwood make it easy to enjoy. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:cabernet sauvignon
+13:red
+13:wine
+13:bordeaux
+#title: <font class="result_title">Cabernet</font><br>
+#abstract: 
+# Cabernet Cabernet Sauvignon. This red wine grape, perhaps the most noble of all varieties, is responsible for the great red wines of Bordeaux. It 
+# is the predominant grape in the Medoc where the well-drained soils and suitable climate are so important to its quality of flavors. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:cabernet sauvignon
+14:red
+#title: <font class="result_title">Thoroughbreds Wine - Cabernet Sauvignon</font><br>
+#abstract: 
+# Cabernet Sauvignon. Merlot. Pinot-Noir. Beaujolais-Village. Rhone Wines ... Red Meritage. Red Zinfandel. Red 
+# Wine From Italy. Rioja. 1.5 Liter and 3.0 Liter Selections ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:cabernet sauvignon
+#title: <font class="result_title">Cabernet Sauvignon - New Canaan Wine - Buy Wine Online</font><br>
+#abstract: 
+# We offer a large collection of wine, spirits, beer and wine related merchandise. Our staff has over 50 years of 
+# combined experience in the wine and beverage industry. Offering local delivery, customer loyalty program, wine classes, and charity ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:cabernet sauvignon
+#title: <font class="result_title">Chateau Ste. Michelle Cabernet Sauvignon Ethos 2005</font><br>
+#abstract: 
+# The complete on-line source for quality wines %26 spirits. We offer 
+# a wide selection of wines, spirits, gifts and accessories. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:cabernet sauvignon
+#title: <font class="result_title">Wine details - Chateau Potelle Cabernet Sauvignon - 2001</font><br>
+#abstract: 
+# The combination of her skills and the Estate hillside vineyards have created extremely distinctive and dramatic wines that have brought Chateau Potelle 
+# to the top of the wine world as producers of Zinfandel, Cabernet Sauvignon, Chardonnay and Sauvignon Blanc. Tasting Note ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:red
+18:wine
+18:cabernet sauvignon
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon - Elite Wine - Buy Fine Wine Online</font><br>
+#abstract: 
+# Let EliteWine.com be your globe-trotting, insider wine service. We locate the world's most desirable vintages for you, but also introduces 
+# you to rarer, off-the-radar fruits of the vineyard that will become the cult wines of tomorrow. We look ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:cabernet,sauvignon
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Cabernet Sauvignon wines defined, described and recommended, along with 
+# food pairing suggestions to accompany your favorite Cabs. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:chateau
+20:(napa,valley)
+20:cabernetsauvignon
+#title: <font class="result_title">1999 Chateau Montelena Napa Estate Cabernet Sauvignon Wines ...</font><br>
+#abstract: 
+# Learn about 1999 Chateau Montelena Napa Estate Cabernet Sauvignon ... "The 1999 Cabernet Sauvignon Estate (an 8,600-case cuvee made from yields of 1.98 tons of 
+# fruit per acre) is considered by Bo Barrett to be a "great" year. The wine boasts a saturated inky/purple color as well ... 

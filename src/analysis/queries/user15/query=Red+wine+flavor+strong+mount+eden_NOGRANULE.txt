@@ -1,0 +1,55 @@
+17:red merlot
+13:fruit
+9:fruit
+20:fruit
+4:fruit
+17:white zinfandel
+1:meat
+14:wine grape
+19:unclassified
+8:rose wine
+8:white wine
+17:white wine
+17:white merlot
+14:grape
+14:red wine
+8:red wine
+12:red wine
+2:red wine
+11:red wine
+1:red wine
+9:red wine
+17:red wine
+15:red wine
+7:cabernet sauvignon
+6:cabernet sauvignon
+2:cabernet sauvignon
+3:cabernet sauvignon
+9:cabernet sauvignon
+20:cabernet sauvignon
+17:cabernet sauvignon
+12:mount eden vineyard
+3:mount eden vineyard
+5:mount eden vineyard
+20:mount eden vineyard
+7:wine
+14:wine
+10:wine
+13:wine
+16:wine
+8:wine
+12:wine
+2:wine
+11:wine
+18:wine
+1:wine
+5:wine
+9:wine
+17:wine
+15:wine
+1:red meat
+17:red zinfandel
+12:pinot noir
+1:pinot noir
+17:pinot noir
+4:pinot noir

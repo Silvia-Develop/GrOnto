@@ -1,0 +1,351 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+#title: <font class="result_title">Sauvignon blanc - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Sauvignon blanc is a green-skinned grape variety which originates from the ... The Sauvignon 
+# blanc grape traces its origins to western France in the Loire ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Cabernet Sauvignon is one of the world's most widely recognized red wine 
+# grape varieties. ... Cabernet Sauvignon became internationally recognized through its ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+#title: <font class="result_title">Purchase Cabernet Sauvignon Online at Dean & DeLuca</font><br>
+#abstract: 
+# Indulge your taste buds with Cabernet Sauvignon from Dean & DeLuca, showcasing an 
+# exclusive assortment of the finest gourmet food, gift baskets, wine and more. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+#title: <font class="result_title">Sauvignon Blanc</font><br>
+#abstract: 
+# Characteristics of the Sauvignon Blanc vine, grape and wine. ... The varietal 
+# identity of Sauvignon Blanc is typically similar to grass, bell ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+#title: <font class="result_title">2003 Cabernet Sauvignon Red Wine - TheFind.com</font><br>
+#abstract: 
+# Find products and compare prices at TheFind.com. Shop online for thousands 
+# of great items like the 2003 Cabernet Sauvignon Red Wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon: Definition from Answers.com</font><br>
+#abstract: 
+# Cabernet Sauvignon ( ) n. A variety of black grape used to make red 
+# wine, notably in ... Cabernet Sauvignon's reputation for excellence has made it ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+#title: <font class="result_title">Sauvignon Republic in the News and Press Room</font><br>
+#abstract: 
+# Sauvignon Republic is a boutique winery brand dedicated to crafting sauvignon ... "No 
+# longer chardonnay's weak sister, sauvignon blanc has become a powerhouse, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+#title: <font class="result_title">Sauvignon Blanc: Definition from Answers.com</font><br>
+#abstract: 
+# Sauvignon Blanc ( ) n. In both senses also called Fumé Blanc. ... There 
+# are mutations of Sauvignon Blanc that have darker pink or grayish skins ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+#title: <font class="result_title">Wine, Cabernet Sauvignon Labels 12/02</font><br>
+#abstract: 
+# Cabernet sauvignon Clos Du Bois Sonoma County Rodney Strong Sonoma County Columbia Crest 
+# Grand Estates Concha y Toro Casillero del Diablo Beaulieu Vineyard BV Coastal... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+#title: <font class="result_title">Sauvignon Blanc Wine</font><br>
+#abstract: 
+# Sauvignon Blanc wines from wine.com. ... Sauvignon Blanc's home is the Loire Valley of 
+# France, where it produces the ... In California, Sauvignon Blanc is ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+#title: <font class="result_title">CORISON WINERY - Napa Valley Cabernet Sauvignon - Home Page</font><br>
+#abstract: 
+# Winemaker Cathy Corison hand-crafts estate-grown Napa Valley Cabernet Sauvignon from her estate 
+# Kronos Vineyard in St. Helena, California, and Napa Valley Cabernet ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+#title: <font class="result_title">Showket Vineyards - Cabernet Sauvignon</font><br>
+#abstract: 
+# 2006 Cabernet Sauvignon 750mls USD65.00. 2006 Cabernet Sauvignon 1.5L USD140.00. 2005 
+# Cabernet ... 2005 Showket Vineyards Cabernet Sauvignon Spec Sheet ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+#title: <font class="result_title">Sauvignon Blanc Wine Glasses Set of 4 - Kitchen | Target.com</font><br>
+#abstract: 
+# Shop for a Sauvignon Blanc Wine Glasses Set of 
+# 4 and other Kitchen items from Target.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon - LoveToKnow Wine</font><br>
+#abstract: 
+# Oriel Cabernet Sauvignon Midnight Rambler, Rutherford 2002 Reviews. Excelsior 
+# Cabernet Sauvignon Breede River Valley 2004 Reviews ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+#title: <font class="result_title">EncycloWine: Encyclopedia for Wine Enthusiasts - Cabernet ...</font><br>
+#abstract: 
+# Cabernet Sauvignon is a variety of red grape mainly used for wine production, ... Cabernet 
+# Sauvignon, like all noble wine grape varieties, is of the species Vitis ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+#title: <font class="result_title">Sauvignon Republic Exploring the World for Great Sauvignon</font><br>
+#abstract: 
+# Sauvignon Republic is exploring the world for great sauvignon, dedicated to 
+# crafting sauvignon blanc wines from world-class growing regions. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon Wine 90%2B Rated Wines Under USD20</font><br>
+#abstract: 
+# Cabernet Sauvignon wines from our 90%2B Rated Wines Under USD20 list from wine.com. ... 
+# Many refer to Cabernet Sauvignon as the king of red grapes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+#title: <font class="result_title">Sauvignon Blanc | Wine - Shopping.com</font><br>
+#abstract: 
+# Compare prices for Sauvignon Blanc in Wine at Shopping.com. Shop and 
+# find the lowest prices on products from online merchants. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Characteristics of the Cabernet Sauvignon vine, grape and wine. ... Cabernet sauvignon 
+# berries are small, spherical with black, thick and very tough ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+#title: <font class="result_title">*Northwest White Wine Sauvignon Blanc</font><br>
+#abstract: 
+# Snoqualmie's Sauvignon Blanc has a fresh, just mowed fields note in the scent, ... 
+# Andrew Rich Sauvignon Blanc possesses the Croft Vineyard's signature notes of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#21:<categoria>
+#title: <font class="result_title">ZD Wines</font><br>
+#abstract: 
+# ZD Wines - Napa Valley Winery in California featuring Award-Winning Chardonnay, Cabernet Sauvignon 
+# and Pinot Noir Wines. The de Leuze family continues to produce ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#22:<categoria>
+#title: <font class="result_title">EncycloWine: Encyclopedia for Wine Enthusiasts - Sauvignon Blanc</font><br>
+#abstract: 
+# Along with Riesling, Sauvignon Blanc was one of the first fine wines to be ... 
+# The Sauvignon Blanc grape traces its origins to western France in the Loire ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#23:<categoria>
+#title: <font class="result_title">Unfiltered Cabernet Sauvignon: Accolades</font><br>
+#abstract: 
+# The 2001 Cabernet Sauvignon Unfiltered is made in a typically vin de garde (for ... 
+# The 1996 Cabernet Sauvignon Unfiltered exhibits an opaque purple color, as well ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#24:<categoria>
+#title: <font class="result_title">Wine - How To Information | eHow.com</font><br>
+#abstract: 
+# From growing grapes to pairing wines with foods, eHow's wine experts can raise ... 
+# How to Serve Cabernet Sauvignon ... New Zealand Sauvignon Blanc White Wine ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#25:<categoria>
+#title: <font class="result_title">Spottswoode Winery-Our Wines</font><br>
+#abstract: 
+# Spottswoode is a historic family-owned winery renowned for producing classic, ... Overview 
+# Estate Cabernet Sauvignon Blanc Lyndenhurst Field Book Wine Library ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#26:<categoria>
+#title: <font class="result_title">2008 Sauvignon Blanc</font><br>
+#abstract: 
+# THE BLEND 100% Sauvignon Blanc 100% Rutherford. PRODUCTION 20,500 cases. RELEASE ... Each of 
+# the Sauvignon Blancs Frog's Leap has made during the past few years ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#27:<categoria>
+#title: <font class="result_title">Shop for Gourmet Valley Online from Dean & DeLuca</font><br>
+#abstract: 
+# Indulge your taste buds with Valley from Dean & DeLuca, showcasing an exclusive assortment 
+# of fine gourmet foods, gift baskets, wine and more. Order Valley today. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#28:<categoria>
+#title: <font class="result_title">SAUVIGNON BLANC</font><br>
+#abstract: 
+# California's Sauvignon Blanc history doesn't go back very far. ... A sexy name 
+# for Sauvignon Blanc and now the wine was selling like crazy! ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#29:<categoria>
+#title: <font class="result_title">Sonoma County Sauvignon Blanc | Bay Area California Winery ...</font><br>
+#abstract: 
+# Chalk Hill Estate's Sauvignon Blanc wines are ... Sauvignon Gris provides a lush 
+# texture and Semillon adds fullness and weight to the mouthfeel. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#30:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Sauvignon Blanc " Other Whites " White Imports " Late Harvest ... 75% Cabernet 
+# Sauvignon, 13% Merlot, 7% Cabernet Franc, 5% Malbec. USD59.99 USD52.99 Web Sale! ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#31:<categoria>
+#title: <font class="result_title">Wine: South African Sauvignon Blanc, on StarChefs</font><br>
+#abstract: 
+# South African Sauvignon Blanc: Stellenbosch, Elgin, Walker Bay, Constantia, & Durbanville on 
+# Starchefs.com ... Sauvignon Blanc Remember when this grape was so ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#32:<categoria>
+#title: <font class="result_title">Tag: Sauvignon - Explore content tagged Sauvignon on eHow.com</font><br>
+#abstract: 
+# Discover and explore content tagged Sauvignon on eHow.com ... the difficulty of 
+# choosing the right cabernet sauvignon. ... sauvignon, blanc, zinfandel, grenache ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#33:<categoria>
+#title: <font class="result_title">Buy Sylvester Cabernet Sauvignon 2006 at MyWinesDirect.com</font><br>
+#abstract: 
+# Shop MyWinesDirect.com for Sylvester Cabernet Sauvignon 2006. Enjoy all wines & wine 
+# gifts with no shipping costs. Order Sylvester Cabernet Sauvignon 2006 today. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#34:<categoria>
+#title: <font class="result_title">Downing Family Vineyards Cabernet Sauvignon</font><br>
+#abstract: 
+# Established in 1998, Downing Family Vineyards produces small case lots of ultra-premium 
+# Zinfandel, Cabernet Sauvignon, Shiraz and Petite Sirah. The labels represent ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#35:<categoria>
+#title: <font class="result_title">Mikasa Sauvignon At Replacements.Com</font><br>
+#abstract: 
+# Mikasa Sauvignon at Replacements.com, world's largest inventory of China, Crystal, 
+# Silver, and Collectibles. Over 14 million pieces in stock. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#36:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon Red Wines - Yahoo! Shopping</font><br>
+#abstract: 
+# Find the best price for Cabernet Sauvignon Red Wines at Yahoo! Shopping. 
+# Compare prices, read reviews and ratings for Cabernet Sauvignon Red Wines 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#37:<categoria>
+#title: <font class="result_title">Buttonwood Farm: Wines</font><br>
+#abstract: 
+# You are entering Buttonwood Farm Winery and our sweet corner of cyber heaven. ... 
+# But at Buttonwood, sauvignon blanc is nurtured, manicured and gardened to ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#38:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon at Crazy About Wine</font><br>
+#abstract: 
+# Crazy About Wine features Cabernet Sauvignon wines with ratings, reviews and news 
+# ... 2005 Cabernet Sauvignon. 2008 Santa Cruz Mountains Chardonnay. 2007 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#39:<categoria>
+#title: <font class="result_title">Ahnfeldt Wines Napa Valley handcrafted Carbernet Sauvignon ...</font><br>
+#abstract: 
+# Ahnfeldt Wines produces handcrafted Carbernet Sauvignon and Merlot from Ahnfeldt vineyards 
+# by world class winemaker Craig MacLean in the Napa Valley 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#40:<categoria>
+#title: <font class="result_title">Sauvignon Blanc Wine Fine Wine</font><br>
+#abstract: 
+# Sauvignon Blanc wines from our Fine Wine list from wine.com. ... Sauvignon Blanc's 
+# home is the Loire Valley of France, where it produces the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#41:<categoria>
+#title: <font class="result_title">Sauvignon 5 Drawer Contemporary Chest</font><br>
+#abstract: 
+# Find discount furniture for the home or office at OneWayFurniture with 
+# super fast delivery. Where Smart Shoppers Buy Furniture & Save. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#42:<categoria>
+#title: <font class="result_title">What is Cabernet Sauvignon?</font><br>
+#abstract: 
+# Brief and Straightforward Guide: What is Cabernet Sauvignon? ... The grapes of the 
+# Cabernet Sauvignon vine are tiny and strong, with thick skins ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#43:<categoria>
+#title: <font class="result_title">SAUVIGNON BLANC - Mendocino's Sauvignon Blanc -</font><br>
+#abstract: 
+# Mendocino's Wine Country specializes in Mendocino Sauvignon Blanc - 
+# available online, at the wineries and Mendocino restaurants. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#44:<categoria>
+#title: <font class="result_title">The many faces of Sauvignon Blanc / 'The other white wine ...</font><br>
+#abstract: 
+# Sauvignon Blanc's alcohol level is generally lower than other whites, so it ... Sauvignon 
+# Blanc also has enough incisive acidity to cut through hoisin sauce or ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#45:<categoria>
+#title: <font class="result_title">Sauvignon Republic Stellenbosch Blanc 2007 Wine - Shop.com</font><br>
+#abstract: 
+# Shop for Sauvignon Republic Stellenbosch Blanc 2007 Wine and White Wines at Shop.com. 
+# This Sauvignon incorporates elements of flavor from its surroundings and growing... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#46:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon Grapes - Wine</font><br>
+#abstract: 
+# Cabernet Sauvignon is rarely produced as a straight varietal and under French ... This is 
+# done to soften the high levels of tannin inherent in Cabernet Sauvignon. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#47:<categoria>
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Cabernet Sauvignon wines defined, described and recommended, along with 
+# food pairing suggestions to accompany your favorite Cabs. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#48:<categoria>
+#title: <font class="result_title">South Shore Industries Sereno 5 Drawer Chest - Sauvignon</font><br>
+#abstract: 
+# Buy Sereno 5 Drawer Chest - Sauvignon For the Home online at Sears.com and find 
+# out other great deals in For the Home and more. Act now and save. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#49:<categoria>
+#title: <font class="result_title">Riedel Vitis Riesling/Sauvignon Blanc Set Of 2 At Zappos.com</font><br>
+#abstract: 
+# Order By 1PM PST Dec 23rd and Get Your Gifts By Christmas Guaranteed - Riedel 
+# Vitis Riesling/Sauvignon Blanc Set of 2: These impressive wine glasses stand tall and proud. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#50:<categoria>
+#title: <font class="result_title">Sauvignon Blanc Selections - Winebuys</font><br>
+#abstract: 
+# Home > Advertised Wines > Sauvignon Blanc Selections ... Sancerre is classic Loire Valley Sauvignon at 
+# its best, and Ladoucette is one of ... Go to all Sauvignon Blanc ... 

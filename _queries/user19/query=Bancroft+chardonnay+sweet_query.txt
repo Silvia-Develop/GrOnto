@@ -1,0 +1,204 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:semillon
+1:chardonnay
+1:bancroft
+1:riesling
+#title: <font class="result_title">Semillon Chardonnay 2007</font><br>
+#abstract: 
+# Bancroft Bridge is the exciting, contemporary new label for a range of 
+# premium wines ... Chardonnay, Riesling, Semillon Sauvignon Blanc, Semillon Chardonnay, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:bancroft
+#title: <font class="result_title">Wine Suppliers, Wine Merchants - H %26 H Bancroft Wines</font><br>
+#abstract: 
+# Fine wine merchants in the UK, serving private, trade and corporate clients. Product details and ordering. Based in London. ... The 
+# palate has gorgeous sweet fruit and creamy texture, the cherry ripeness beautifully offset by supple, super-ripe tannins and freshening ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:bancroft
+3:wine
+3:chardonnay
+3:dry
+#title: <font class="result_title">Schild Estate, Barossa Wines - H%26H Bancroft Wines</font><br>
+#abstract: 
+# Buy Schild Estate wines from Barossa Australia from H%26H Bancroft Wines - UK ... a sweet citrus/tropical 
+# spectrum, but a dry finish. Great value. Drink now-2009" 94/100, James Halliday. Chardonnay Reserve, Alma ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:chardonnay
+4:sweet
+4:body
+4:seafood
+#title: <font class="result_title">Chardonnay 2008</font><br>
+#abstract: 
+# Bancroft Bridge o%EF%AC%80 ers generously %EF%AC%82 avoured wines with good varietal de? nition, ? ne texture, structure ... Cuisine. 
+# A wonderful partner to spicy chicken or. seafood dishes. General Characteristics. Dry / Sweet. Body. Chardonnay 2008 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:bancroft
+#title: <font class="result_title">Vin de Pays from H %26 H Bancroft: Vin de Pays d'Oc and more</font><br>
+#abstract: 
+# A tasting of Vin de Pays wines from H%26H Bancroft. A great array 
+# of wines assessed, including Domaine de Bachellery, Predal-Verhaeghe and Domaine de Viranel. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:bancroft
+6:wine
+#title: <font class="result_title">H%26H Bancroft Wines Notes | Facebook</font><br>
+#abstract: 
+# Welcome to the official Facebook Page of H%26H Bancroft Wines. Get exclusive content and interact with H%26H Bancroft 
+# Wines right from Facebook. Join Facebook to create your own Page or to start connecting with friends. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:bancroft
+7:merlot
+7:napa
+7:valley
+#title: <font class="result_title">Beringer Bancroft Ranch Merlot 2002</font><br>
+#abstract: 
+# Beringer Bancroft Ranch Merlot 2002 from Napa Valley, California - Cedar spice, vanilla and smoky toffee 
+# aromas from the barrels integrate well with the sweet dark plum, cassis, cola ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:bancroft
+8:merlot
+8:napa
+8:valley
+8:chardonnay
+#title: <font class="result_title">Tasting Notes for Beringer Bancroft Ranch Merlot 2002</font><br>
+#abstract: 
+# "Cedar spice, vanilla and smoky toffee aromas from the barrels integrate well with the sweet dark plum, cassis, cola berry, minty and 
+# earthy characteristics from the grapes. ... 2003 Bancroft Ranch Merlot (search item no. 94142) 2005 Napa Valley Chardonnay (search ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:vineyard
+9:wine
+#title: <font class="result_title">St. Clement Vineyards - Catalog</font><br>
+#abstract: 
+# The goal of St Clement Vineyards has always been to produce small quantities of noble wines in the tradition of 
+# the classic European wine estate; wines which consistently reflect the unique and enduring characteristics of soil and climate. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:cabernet,sauvignon
+10:wine
+10:bancroft
+#title: <font class="result_title">Beringer Cabernet Sauvignon Bancroft Ran 2004 - Wine Outlet</font><br>
+#abstract: 
+# Beringer Cabernet Sauvignon Bancroft Ran 90%2B points Wine Advocate From another Howell Mountain vineyard, the 2004 Cabernet Sauvignon 
+# Bancroft Ranch possesses more chocolate, espresso roast, and sweet currant fruit in its elegant, stylish ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:vineyard
+11:winery
+11:napa
+11:valley
+#title: <font class="result_title">Dinner Party in a Box!</font><br>
+#abstract: 
+# Beringer Vineyards, the oldest continuously operating winery in Napa Valley and the first to offer public tours, continues its commitment to offer guests 
+# original and inspiring wine country experiences ... Bancroft Ranch Merlot is sizeable, with considerable intensity in addition to big, sweet, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:vineyard
+12:napa
+12:cabernet,sauvignon
+12:bancroft
+12:merlot
+#title: <font class="result_title">TASTING NOTES FROM THE UNDERGROUND - GANG OF POUR</font><br>
+#abstract: 
+# Tasting notes on six recent wines from Beringer Vineyards ... of the '03 Napa Chardonnay, '01 Knights Valley Cabernet Sauvignon and 
+# '01 Bancroft Merlot, and one of her stops was for a luncheon at Forté Restaurant, in Birmingham, MI. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:food
+13:bancroft
+#title: <font class="result_title">News on Foods / Michelle Obama</font><br>
+#abstract: 
+# Articles and slideshows for (First lady Michelle Obama, left, looks on as a girl from Washington's 
+# Bancroft Elementary School jumps as she uses tool to dig for sweet potatoes ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:cabernet,sauvignon
+14:bancroft
+14:napa
+14:valley
+#title: <font class="result_title">2004 Cabernet Sauvignon Bancroft Ranch Howell Mountain</font><br>
+#abstract: 
+# Beringer Vineyards, the oldest continuously operating winery in Napa Valley and the first to offer 
+# public tours, continues its commitment to offer guests original and inspiring wine country experiences 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+15:bancroft
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ... wine-property (one-of sweet off-dry dry))) (cl-populate 'wine-color ' ... 'bancroft-chardonnay '(and chardonnay (fills 
+# body medium) (fills flavor moderate) (fills sugar dry) (fills maker bancroft) (fills ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:chardonnay
+16:bancroft
+#title: <font class="result_title">Tasting notes: other countries</font><br>
+#abstract: 
+# The wine is an unusual but appealing blend of M%C3%BCller Thurgau and Chardonnay, showing an attractive floral nose with some depth and a slight 'boiled 
+# sweets' character. On the palate it is fresh and fruity with good concentration ... 90/100 (H%26H Bancroft) 01/07. Simcic Chardonnay Réserve 2003 Gori%C5%A1ka, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:valley
+17:wine
+#title: <font class="result_title">Beringer - Mid Valley Wine %26 Liquor</font><br>
+#abstract: 
+# The best in wine information and customer service. We find virtually undiscovered gems from small artisanal wineries to wines made by 
+# prestigious producers. Each bottle of wine we sell comes backed with 50 %2B years of experience in the wine trade. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:bancroft
+18:sweet
+#title: <font class="result_title">tasting the wines of H%26H Bancroft</font><br>
+#abstract: 
+# wine-pages.com review of H%26H Bancroft wines ... It has a plummy and spicy nose, much 
+# more fruit than oak-driven, with earthy, autumnal tones of undergrowth and sweet earth. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:bancroft
+19:napa
+19:valley
+19:merlot
+#title: <font class="result_title">Beringer Bancroft Ranch Napa Merlot 2002 Rated 90WA</font><br>
+#abstract: 
+# Buy Rare and Collectible Fine Wine and Spirits, Sake, Beer, Microbrews, Ale from around the world at Liquorama. ... flavors from the 
+# barrels had integrated well with the sweet black plum, blackberry, light orange rind, cocoa and minty characteristics from the grapes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:chardonnay
+20:sauvignon,blanc
+20:bancroft
+#title: <font class="result_title">Bay Country Liquors, Inc.</font><br>
+#abstract: 
+# Largest selection of wine, imports and micro brews in St. Mary's County California) Maryland ... Bully Hill - Sweet Water - 
+# Red. Fox Run - Johannisberg Riesling. NEW ZEALAND. Alpha Domus Chardonnay. Astonvale Sauvignon Blanc. Babich Chardonnay. Bancroft Sauvignon Blanc ... 

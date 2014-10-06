@@ -1,0 +1,203 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:flavor
+1:moderate
+1:beaujolais
+1:strong
+#title: <font class="result_title">wine-varieties.Neo</font><br>
+#abstract: 
+# ... flavor Moderate)) (createConcept MEURSAULT WHITE-BURGUNDY true) (createRule meursault-body MEURSAULT (fills body Full)) ; BEAUJOLAIS (createConcept 
+# BEAUJOLAIS (and WINE (fills region ... (createRule port-flavor PORT (fills flavor Strong)) (createRule ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:grape
+2:cabernet
+2:flavor
+#title: <font class="result_title">(in-package :USER) THE WINE VARIETIES general varieties (by grape)...</font><br>
+#abstract: 
+# ... flavor %40c%7Bsweet-riesling%7D '(all flavor (one-of moderate strong))) (cl-define-concept 'cabernet-sauvignon-wine '(and wine (fills grape cabernet 
+# ... wine (fills region portugal))) (cl-add-rule 'port-body %40c%7Bport%7D '(fills body full)) (cl-add-rule 'port-flavor ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:pinot,noir
+3:burgundy
+3:red
+3:wine
+#title: <font class="result_title">Wine 101: Pinot Noir %26 Red Burgundy | Food %26 Wine</font><br>
+#abstract: 
+# Pinot Noir can be among the most amazing wines you'll ever taste, and it can 
+# be flat-out anticlimactic. It inspires more rhapsodies-and disappointments-among wine lovers than any other grape. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:burgundy
+4:wine
+#title: <font class="result_title">Wines of Burgundy</font><br>
+#abstract: 
+# A wine originating anywhere in Burgundy will indicate "Appellation Bourgogne Controlee. ... The Cote de Nuits 
+# is considered the "best" region, but good wine is available from all across Burgundy. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:cheese
+5:france
+#title: <font class="result_title">Cow cheese French Cheeses by Jean d'Alos, Camembert, Fourme ...</font><br>
+#abstract: 
+# Collection of great French wines, champagne, wine accessories, whisky and many more on our 
+# online wine store finestwine. Visit now and get delivery at your doorstep. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+6:france
+6:burgundy
+#title: <font class="result_title">Wine Regions of France | France Travel Guide</font><br>
+#abstract: 
+# A guide on the different wine regions of France ... The region's proximity to Paris this region developed a strong reputation for producing 
+# some of the country's finest wines. In fact, the Champagne region and Burgundy have a centuries old rivalry and starting ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:burgundy
+7:bordeaux
+#title: <font class="result_title">Burgundy French Wine for You and your Guest's Pleasure</font><br>
+#abstract: 
+# Burgundy Wines have been famous for as long as Bordeaux. It is still unresolved 
+# at to which has the greatest French Wines... Learn about this duel 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:flavor
+8:strong
+8:sweet
+#title: <font class="result_title">Burgundy Wine Guide: Top Wines to Enjoy - Associated Content ...</font><br>
+#abstract: 
+# Here are six leading wines from the region of Burgundy in France. These wines would be wonderful with your holiday meal or any time. ... The flavor is a 
+# strong smooth raspberry that is quite sweet. The tannin balance in the finish is very nice and surprising. I would gladly serve this wine at my holiday ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:chardonnay
+9:body
+9:flavor
+9:moderate
+9:sugar
+9:dry
+9:napa
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# (all flavor (one-of moderate strong))) ;; THE WINE INSTANCES (cl-create-ind 'forman 'winery) (cl-create-ind 'forman-chardonnay '(and chardonnay (fills 
+# body full) (fills flavor moderate) (fills sugar dry) (fills maker forman) (fills region napa) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:burgundy
+10:wine
+#title: <font class="result_title">Burgundy Wine Guide: French Wines Explained - Associated ...</font><br>
+#abstract: 
+# This guide will discuss some of the finest wines produced in the burgundy province. ... This is a great wine producer for several reasons. 
+# Costs are relatively lower compared to other organic wineries, let alone wines from the Burgundy region, which can become quite pricey. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:burgundy
+11:france
+#title: <font class="result_title">Burgundy-canal.com : An introduction to the region of ...</font><br>
+#abstract: 
+# An introduction and information about the 
+# region of Burgundy in France 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:burgundy
+12:france
+12:wine
+#title: <font class="result_title">Burgundy wine</font><br>
+#abstract: 
+# Burgundy is in some ways the most terroir-oriented region on the planet; immense ... a 
+# wine-producing region in France. It is now part of the Burgundy région for ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:burgundy
+13:wine
+13:pinot,noir
+#title: <font class="result_title">Burgundy | The Wine Blokes</font><br>
+#abstract: 
+# Burgundy wine (in French, Bourgogne) is wine made in the Burgundy AOC region of France. 
+# Most wine produced here is either red wine made from Pinot Noir grapes 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:beaujolais
+14:wine
+14:body
+14:full
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... (fills body Full)) ; BEAUJOLAIS (createConcept BEAUJOLAIS (and WINE (fills region Beaujolais)) true) ... WINE (fills region 
+# Portugal)) true) (createRule port-body PORT (fills body Full)) (createRule port-flavor PORT (fills flavor Strong)) (createRule ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:food
+15:tannin
+15:strong
+15:flavor
+#title: <font class="result_title">Tasters Guild Orlando: Glossary of Wine Terms</font><br>
+#abstract: 
+# Tasters Guild Orlando... Orlando's Haven for the Wine and Food Lover. Learn more about WIne Terms; from Acidity to Viura and everything in between. ... white 
+# wine grape from the Loire Valley. Chewy. wine with a lot of tannin and strong flavor. Chiroubles. village in the Beaujolais region. Cistercians ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:burgundy
+#title: <font class="result_title">Burgundy wines place your order</font><br>
+#abstract: 
+# You may buy some of the finest Burgundy wines in the world, white or 
+# red through the Internet and have the best drink delivered to your house. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:strong
+17:red
+#title: <font class="result_title">Falmouth Wine and Spirits: Wine, Specialty Beers, Gift ...</font><br>
+#abstract: 
+# Red wine variety found in Italy, France and surrounding Balkan region. ... This second step usually results 
+# in a "highly extracted" style of wine, deeply colored with strong flavors and tannin. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:flavor
+18:bordeaux
+18:burgundy
+#title: <font class="result_title">GrapeRadio - Wine Talk Show " Wine Terms</font><br>
+#abstract: 
+# ... enhance flavor. At a little less than 0.10% content, the flavor becomes noticeable and the wine is termed acetic. Above 0.10% content is considered a strong 
+# fault. ACETIFICATION. The process of wine turning ... can refer to a region, such as Bordeaux or Burgundy however it often refers to an even ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:grape
+19:flavor
+#title: <font class="result_title">Food and Wine - Wine Enology Grape Chemistry Lab at Virginia Tech</font><br>
+#abstract: 
+# Foods with strong flavors including vinegar, raw onions, sauerkraut, ... a wine's flavor depends upon the grape or grapes used, the region and certainly the age 
+# of the wine. Younger wines are usually coarser in structure and stronger in flavor and combine well with more strongly flavored foods. Older ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:grape
+20:pinot,noir
+20:burgundy
+20:france
+20:red
+#title: <font class="result_title">Wine Grape Varieties-Variatals</font><br>
+#abstract: 
+# There, as in other cool climate regions, the wine made from it is often aged in small oak barrels to produce strong flavors and aromas. ... PINOT 
+# NOIR: The premier grape "cépage" of the Burgundy region of France, producing a red wine that is lighter in color than the Bordeaux reds ... 

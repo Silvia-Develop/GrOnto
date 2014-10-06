@@ -1,0 +1,369 @@
+19:(producer,marker)
+17:(producer,marker)
+18:(producer,marker)
+15:(producer,marker)
+16:(producer,marker)
+13:(producer,marker)
+14:(producer,marker)
+11:(producer,marker)
+12:(producer,marker)
+3:(producer,marker)
+20:(producer,marker)
+2:(producer,marker)
+10:(producer,marker)
+1:(producer,marker)
+7:(producer,marker)
+6:(producer,marker)
+5:(producer,marker)
+4:(producer,marker)
+9:(producer,marker)
+8:(producer,marker)
+19:location
+17:location
+18:location
+15:location
+16:location
+13:location
+14:location
+11:location
+12:location
+3:location
+2:location
+20:location
+10:location
+1:location
+7:location
+6:location
+5:location
+4:location
+9:location
+8:location
+16:(corbans,sauvignon,blanc)
+19:(whitehall,lane,cabernet,franc)
+17:(whitehall,lane,cabernet,franc)
+15:(whitehall,lane,cabernet,franc)
+16:(whitehall,lane,cabernet,franc)
+13:(whitehall,lane,cabernet,franc)
+14:(whitehall,lane,cabernet,franc)
+11:(whitehall,lane,cabernet,franc)
+12:(whitehall,lane,cabernet,franc)
+3:(whitehall,lane,cabernet,franc)
+2:(whitehall,lane,cabernet,franc)
+20:(whitehall,lane,cabernet,franc)
+10:(whitehall,lane,cabernet,franc)
+1:(whitehall,lane,cabernet,franc)
+7:(whitehall,lane,cabernet,franc)
+6:(whitehall,lane,cabernet,franc)
+5:(whitehall,lane,cabernet,franc)
+4:(whitehall,lane,cabernet,franc)
+9:(whitehall,lane,cabernet,franc)
+19:(medium,light) moderate dry
+17:(medium,light) moderate dry
+15:(medium,light) moderate dry
+16:(medium,light) moderate dry
+13:(medium,light) moderate dry
+14:(medium,light) moderate dry
+11:(medium,light) moderate dry
+12:(medium,light) moderate dry
+3:(medium,light) moderate dry
+2:(medium,light) moderate dry
+20:(medium,light) moderate dry
+10:(medium,light) moderate dry
+1:(medium,light) moderate dry
+7:(medium,light) moderate dry
+6:(medium,light) moderate dry
+5:(medium,light) moderate dry
+4:(medium,light) moderate dry
+9:(medium,light) moderate dry
+13:(sean,thackrey,sirius,petite,syrah)
+3:(mount,eden,vineyard,edna,valley,chardonnay)
+5:(mount,eden,vineyard,edna,valley,chardonnay)
+17:(mount,eden,vineyard,edna,valley,chardonnay)
+15:(mount,eden,vineyard,edna,valley,chardonnay)
+20:riesling grape
+16:cabernet sauvignon grape
+20:chardonnay grape
+19:wine
+17:wine
+18:wine
+15:wine
+16:wine
+13:wine
+14:wine
+11:wine
+12:wine
+3:wine
+2:wine
+20:wine
+10:wine
+1:wine
+7:wine
+6:wine
+5:wine
+4:wine
+9:wine
+8:wine
+20:full (strong,moderate) dry
+16:full (strong,moderate) dry
+20:white
+12:(body,medium) flavor (sweet,sugar)
+16:(steerling,cabernet,sauvignon)
+13:(marietta,petite,syrah)
+20:medium (delicate,moderate) dry
+16:medium (delicate,moderate) dry
+19:(tannic,tannin)
+17:(tannic,tannin)
+18:(tannic,tannin)
+15:(tannic,tannin)
+16:(tannic,tannin)
+13:(tannic,tannin)
+14:(tannic,tannin)
+11:(tannic,tannin)
+12:(tannic,tannin)
+3:(tannic,tannin)
+2:(tannic,tannin)
+20:(tannic,tannin)
+10:(tannic,tannin)
+1:(tannic,tannin)
+7:(tannic,tannin)
+6:(tannic,tannin)
+5:(tannic,tannin)
+4:(tannic,tannin)
+9:(tannic,tannin)
+8:(tannic,tannin)
+16:(lane,tanner,pinot,noir)
+12:(lane,tanner,pinot,noir)
+19:(off-dry,sweet) medium moderate
+17:(off-dry,sweet) medium moderate
+18:(off-dry,sweet) medium moderate
+15:(off-dry,sweet) medium moderate
+16:(off-dry,sweet) medium moderate
+13:(off-dry,sweet) medium moderate
+14:(off-dry,sweet) medium moderate
+11:(off-dry,sweet) medium moderate
+12:(off-dry,sweet) medium moderate
+3:(off-dry,sweet) medium moderate
+2:(off-dry,sweet) medium moderate
+20:(off-dry,sweet) medium moderate
+10:(off-dry,sweet) medium moderate
+1:(off-dry,sweet) medium moderate
+7:(off-dry,sweet) medium moderate
+6:(off-dry,sweet) medium moderate
+5:(off-dry,sweet) medium moderate
+4:(off-dry,sweet) medium moderate
+9:(off-dry,sweet) medium moderate
+8:(off-dry,sweet) medium moderate
+20:(corton,montrachet,white,burgundy)
+3:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+5:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+17:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+15:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+16:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+7:food
+5:food
+19:food
+18:food
+8:food
+16:food
+13:food
+11:food
+20:(puligny,montrachet,white,burgundy)
+16:(sterling,cabernet,sauvignon)
+16:(napa,valley)
+13:(napa,valley)
+20:(medium,full) (delicate,strong) dry
+16:(medium,full) (delicate,strong) dry
+2:bordeaux
+5:bordeaux
+16:bordeaux
+11:bordeaux
+19:cabernet sauvignon
+18:cabernet sauvignon
+16:cabernet sauvignon
+13:cabernet sauvignon
+14:cabernet sauvignon
+11:cabernet sauvignon
+12:cabernet sauvignon
+2:cabernet sauvignon
+20:cabernet sauvignon
+10:cabernet sauvignon
+7:cabernet sauvignon
+6:cabernet sauvignon
+5:cabernet sauvignon
+4:cabernet sauvignon
+9:cabernet sauvignon
+8:cabernet sauvignon
+9:medium strong dry
+16:medium strong dry
+13:medium strong dry
+12:medium strong dry
+9:(page,mill,winery,cabernet,sauvignon)
+16:(page,mill,winery,cabernet,sauvignon)
+12:low
+18:(color,colour)
+3:(santa,cruz,montain)
+5:(santa,cruz,montain)
+17:(santa,cruz,montain)
+15:(santa,cruz,montain)
+16:(santa,cruz,montain)
+12:(chianti,classico)
+20:(full,medium) (moderate,strong) dry
+16:(full,medium) (moderate,strong) dry
+16:(corbans,private,bin,sauvignon,blanc)
+16:(selaks,sauvignon,blanc)
+16:(stonleigh,sauvignon,blanc)
+7:grape
+19:grape
+5:grape
+18:grape
+16:grape
+8:grape
+13:grape
+11:grape
+19:(selaks,ice,wine)
+17:(selaks,ice,wine)
+18:(selaks,ice,wine)
+15:(selaks,ice,wine)
+16:(selaks,ice,wine)
+13:(selaks,ice,wine)
+14:(selaks,ice,wine)
+11:(selaks,ice,wine)
+12:(selaks,ice,wine)
+3:(selaks,ice,wine)
+2:(selaks,ice,wine)
+20:(selaks,ice,wine)
+10:(selaks,ice,wine)
+1:(selaks,ice,wine)
+7:(selaks,ice,wine)
+6:(selaks,ice,wine)
+5:(selaks,ice,wine)
+4:(selaks,ice,wine)
+9:(selaks,ice,wine)
+8:(selaks,ice,wine)
+16:(marietta,cabernet,sauvignon)
+16:moderate
+3:(full,medium) strong dry
+5:(full,medium) strong dry
+17:(full,medium) strong dry
+15:(full,medium) strong dry
+16:(full,medium) strong dry
+13:(full,medium) strong dry
+12:(full,medium) strong dry
+16:(forman,cabernet,sauvignon)
+7:(zinfandel,grape)
+19:(zinfandel,grape)
+5:(zinfandel,grape)
+18:(zinfandel,grape)
+16:(zinfandel,grape)
+8:(zinfandel,grape)
+13:(zinfandel,grape)
+11:(zinfandel,grape)
+3:(mount,eden,vineyard,estate,pinot,noir)
+5:(mount,eden,vineyard,estate,pinot,noir)
+17:(mount,eden,vineyard,estate,pinot,noir)
+15:(mount,eden,vineyard,estate,pinot,noir)
+16:(mount,eden,vineyard,estate,pinot,noir)
+12:(mount,eden,vineyard,estate,pinot,noir)
+19:wine_ontology
+17:wine_ontology
+18:wine_ontology
+15:wine_ontology
+16:wine_ontology
+13:wine_ontology
+14:wine_ontology
+11:wine_ontology
+12:wine_ontology
+3:wine_ontology
+2:wine_ontology
+20:wine_ontology
+10:wine_ontology
+1:wine_ontology
+7:wine_ontology
+6:wine_ontology
+5:wine_ontology
+4:wine_ontology
+9:wine_ontology
+8:wine_ontology
+19:red
+18:red
+16:red
+13:red
+14:red
+11:red
+12:red
+20:red
+2:red
+10:red
+7:red
+6:red
+5:red
+4:red
+9:red
+8:red
+19:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+17:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+18:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+15:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+16:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+13:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+14:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+11:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+12:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+3:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+2:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+20:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+10:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+1:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+7:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+6:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+5:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+4:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+9:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+8:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+19:(cabernet,franc,grape)
+17:(cabernet,franc,grape)
+18:(cabernet,franc,grape)
+15:(cabernet,franc,grape)
+16:(cabernet,franc,grape)
+13:(cabernet,franc,grape)
+14:(cabernet,franc,grape)
+11:(cabernet,franc,grape)
+12:(cabernet,franc,grape)
+3:(cabernet,franc,grape)
+2:(cabernet,franc,grape)
+20:(cabernet,franc,grape)
+10:(cabernet,franc,grape)
+1:(cabernet,franc,grape)
+7:(cabernet,franc,grape)
+6:(cabernet,franc,grape)
+5:(cabernet,franc,grape)
+4:(cabernet,franc,grape)
+9:(cabernet,franc,grape)
+8:(cabernet,franc,grape)
+16:(gary,farrell,merlot)
+13:(gary,farrell,merlot)
+16:light dry (delicate,moderate)
+12:light dry (delicate,moderate)
+16:(longridge,merlot)
+13:(longridge,merlot)
+20:(corbans,dry,white,riesling)
+19:semillon grape
+18:semillon grape
+16:semillon grape
+13:semillon grape
+14:semillon grape
+11:semillon grape
+12:semillon grape
+2:semillon grape
+20:semillon grape
+10:semillon grape
+7:semillon grape
+6:semillon grape
+5:semillon grape
+4:semillon grape
+9:semillon grape
+8:semillon grape
+16:(sterling,merlot)
+13:(sterling,merlot)
+16:(mountadam,pinot,noir)
+12:(mountadam,pinot,noir)

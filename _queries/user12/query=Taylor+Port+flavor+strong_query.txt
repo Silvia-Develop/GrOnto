@@ -1,0 +1,191 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:port,taylor
+#title: <font class="result_title">Our Port</font><br>
+#abstract: 
+# In fact, Taylor's can offer. the right glass of port for any occasion, any time of day, around the table, in the garden, out 
+# with ... Its concentrated fruity flavor and firm, full- bodied style make Taylor's LBV the perfect port to accompany. chocolate desserts, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:taylor,port
+2:flavor
+#title: <font class="result_title">De Bierschuur : - No groups</font><br>
+#abstract: 
+# Taylor's Tawny Ports are delicious, delicate old wines which benefit from being slightly chilled, especially in warm weather. ... Its 
+# concentrated fruity flavor and firm, full-bodied style make Taylor's LBV the perfect port to accompany chocolate desserts, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:taylor,port
+#title: <font class="result_title">just-wines.Neo</font><br>
+#abstract: 
+# ... (fills body Medium) (fills flavor Strong) (fills sugar Dry) (fills ... (fills flavor Delicate) (fills 
+# sugar Dry) (fills maker Sea-Ridge))) (createIndividual Taylor-Port (and PORT (fills maker Taylor))) (createIndividual ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:strong
+4:flavor
+4:red
+4:color
+#title: <font class="result_title">Recipe Details :: Strack and Van Til</font><br>
+#abstract: 
+# Since they are aged in barrels for only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... Since 
+# they are aged in barrels for only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:taylor,port
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... (createConcept PORT (and RED-WINE (fills region Portugal)) true) (createRule port-body PORT (fills body Full)) (createRule port-flavor PORT (fills 
+# flavor Strong)) (createRule port-sugar PORT (fills sugar ... (createIndividual Taylor-Port (and PORT (fills maker Taylor))) (createIndividual Chateau ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:taylor
+6:red
+6:color
+#title: <font class="result_title">Recipe Details :: Niemanns County Market</font><br>
+#abstract: 
+# Taylor Fladgate Vintage Port. Attributes: Producer: Taylor Fladgate ... Since they are aged in barrels for only 
+# a short time, they retain their dark red color and full-bodied strong fruit flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:red
+7:wine
+7:taylor,port
+#title: <font class="result_title">Red Carpet Wine | Taylor Fladgate Quinta De Vargellas</font><br>
+#abstract: 
+# Taylor Fladgate. Region: Oporto. Varietal: Vintage Port. Container Size: 750 ML. Flavors: ... single quinta' wine, made in 
+# exactly the same way as Taylor's Vintage Port, but using only the grapes from this individual ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:delicate
+8:moderate
+8:strong
+8:flavor
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ... concept 'wine-flavor '(and wine-property (one-of delicate moderate strong))) (cl-define ... 
+# full)) (cl-populate 'wine-flavor '(delicate moderate strong)) (cl-populate 'wine-sugar ' ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:port
+9:red
+9:color
+#title: <font class="result_title">Recipe Details :: Forest Hills Foods</font><br>
+#abstract: 
+# It is the city that gives its name to the port wine variety. The grapes for port wines are grown in the harsh ... 
+# Since they are aged in barrels for only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:strong
+10:sweet
+10:flavor
+#title: <font class="result_title">WineZap: Vintage Port</font><br>
+#abstract: 
+# Somehow this evolved into stopping the fermentation altogether with the addition of brandy, leaving the wine strong, sweet and very 
+# fruity. ... With a smaller pricetag, but excellent flavor, the 1995 Fonesca Port is another good choice. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:taylor,port
+#title: <font class="result_title">Harbor Liquors | Taylor Fladgate 20-Yr Tawny Port</font><br>
+#abstract: 
+# Taylor Fladgate. Taylor Fladgate 20-Yr Tawny Port - USD56.49. Wine ... Taylor Fladgate. 
+# Region: Portugal. Varietal: Tawny Port. Container Size: 750 ML. Flavors: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:red
+12:color
+12:strong
+12:flavor
+#title: <font class="result_title">Recipe Details :: Tri Town Foods</font><br>
+#abstract: 
+# Since they are aged in barrels for only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... Since 
+# they are aged in barrels for only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:taylor,port
+13:wine
+#title: <font class="result_title">Brix House Wine: Taylor Fladgate Port 1997</font><br>
+#abstract: 
+# We sell well known wines and those of unique boutique vineyards from around the world. Our internet store is easy to use, 
+# has an unparalleled list of imported and domestic wines, offers the best prices and provides convenient delivery to your ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:taylor
+#title: <font class="result_title">Recipe Details :: Dillonvale IGA</font><br>
+#abstract: 
+# fresh, soft. Flavors: raisin. Food Matches: Desserts: Bread Pudding, Cakes, Chocolate, ... port trade and the names 
+# of many port shippers are familiar, including Cockburn, Croft, Dow, Graham, Osborne, Sandeman, Taylor, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:valley
+15:port
+15:strong
+15:sweet
+#title: <font class="result_title">Recipe Details :: Village Market</font><br>
+#abstract: 
+# The grapes for port wines are grown in the harsh conditions of the Douro valley and shipped down river to Oporto to be crushed and vinified into the 
+# uniquely strong and sweet port wines enjoyed around the ... only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:valley
+16:strong
+16:flavor
+#title: <font class="result_title">Recipe Details :: Grand Union Family Markets</font><br>
+#abstract: 
+# The grapes for port wines are grown in the harsh conditions of the Douro valley and shipped down river to Oporto to be crushed ... 
+# It is aged in barrels or tanks for two to three years and bottled young while still ruby in color with strong flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:port
+17:valley
+#title: <font class="result_title">Tawny Port coming on strong - SFGate</font><br>
+#abstract: 
+# When tasting a soft silky aged Tawny Port it's hard to imagine how such a fragile and delicate 
+# fortified wine could be made in a rugged mountainous area like the Douro River Valley in northern 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:port
+18:strong
+18:flavor
+#title: <font class="result_title">Recipe Details :: Tri Town Foods</font><br>
+#abstract: 
+# The grapes for port wines are grown in the harsh conditions of the Douro valley and shipped down river to Oporto to be crushed and vinified into the 
+# uniquely strong and sweet port wines enjoyed around the ... only a short time, they retain their dark red color and full-bodied strong fruit flavor. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:flavor
+19:taylor,port
+#title: <font class="result_title">Wine - Blue Heron Fine Wine %26 Spirits - Buy Wine Online</font><br>
+#abstract: 
+# Shop for wines by taste and flavor. We make shopping for wine easy and fun. Serving wine and hosting wine events for the Greater ... Taylor 
+# Fladgate Quinta de Vargellas Vintage Port 2004. BN#268364. The essence of Taylor Fladgate's vintage wine in declared years, this superbly structure single vineyard ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:port
+#title: <font class="result_title">School of Athens | Port Townsend Extension</font><br>
+#abstract: 
+# The Public gymnasium, in Raphael's fresco, with its strong Renaissance flavor, depicts Plato, Socrates, Zeno and many others. The 
+# School of Athens, Port Townsend Extension, is informally-organized by a group of Port Townsend citizens to provide ... 

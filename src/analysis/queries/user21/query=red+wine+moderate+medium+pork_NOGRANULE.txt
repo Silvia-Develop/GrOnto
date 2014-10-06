@@ -1,0 +1,79 @@
+16:red zinfandel
+3:pork
+1:pork
+11:pork
+19:pork
+5:pork
+10:pork
+18:pork
+8:pork
+16:pork
+15:pork
+12:red wine
+1:red wine
+11:red wine
+13:red wine
+19:red wine
+5:red wine
+9:red wine
+2:red wine
+14:red wine
+10:red wine
+4:red wine
+8:red wine
+20:red wine
+16:red wine
+15:red wine
+2:red merlot
+16:red merlot
+2:fruit
+4:fruit
+3:food
+5:food
+2:food
+8:food
+16:food
+6:food
+9:grape
+8:fish
+3:wine
+12:wine
+1:wine
+11:wine
+13:wine
+19:wine
+5:wine
+9:wine
+2:wine
+7:wine
+14:wine
+10:wine
+4:wine
+8:wine
+20:wine
+17:wine
+16:wine
+6:wine
+15:wine
+16:lamb
+16:pasta
+11:red bordeaux
+1:duck
+8:veal
+8:white meat
+11:white bordeaux
+2:red meat
+8:red meat
+16:red meat
+8:drink
+8:soft drink
+8:pinot noir
+16:pinot noir
+6:pinot noir
+11:white wine
+8:white wine
+2:meat
+8:meat
+16:meat
+9:wine grape
+16:pizza

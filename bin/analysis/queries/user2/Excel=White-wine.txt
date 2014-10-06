@@ -1,0 +1,47 @@
+1:light dry (delicate,moderate)
+1:white
+1:wine
+2:white
+2:wine
+3:light dry (delicate,moderate)
+3:white
+4:light dry (delicate,moderate)
+4:white
+5:(medium,light) moderate dry
+5:peach
+6:white
+6:wine
+7:white
+7:wine
+7:seafood
+8:light dry (delicate,moderate)
+8:white
+8:wine
+9:light dry (delicate,moderate)
+9:white
+9:wine
+10:white
+10:wine
+10:seafood
+11:wine
+11:german
+11:(color,colour)
+12:white
+12:wine
+13:white
+13:wine
+13:(mountadam,pinot,noir)
+14:(mountadam,pinot,noir)
+14:wine
+15:light dry (delicate,moderate)
+15:white
+15:fruit
+16:white
+16:wine
+16:salmon
+17:wine
+18:wine
+18:food
+19:light dry (delicate,moderate)
+19:white
+20:wine

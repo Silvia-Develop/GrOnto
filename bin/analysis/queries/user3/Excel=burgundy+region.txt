@@ -1,0 +1,39 @@
+1:(chateau,morgon,beaujolais)
+1:full (strong,moderate) dry
+2:wine
+2:(forman,cabernet,sauvignon)
+3:(mountadam,pinot,noir)
+3:red
+3:wine
+4:(puligny,montrachet,white,burgundy)
+4:wine
+5:cheese
+6:wine
+6:(puligny,montrachet,white,burgundy)
+7:bordeaux
+8:wine
+9:(full,medium) (moderate,strong) dry
+9:wine
+10:wine
+11:(corton,montrachet,white,burgundy)
+12:(corton,montrachet,white,burgundy)
+12:wine
+13:(corton,montrachet,white,burgundy)
+13:wine
+13:(mountadam,pinot,noir)
+14:(chateau,morgon,beaujolais)
+14:wine
+14:body flavor (sweet,sugar)
+15:food
+15:(tannic,tannin)
+15:wine
+16:wine
+16:red
+16:white
+17:wine
+17:red
+18:bordeaux
+19:food
+19:wine
+20:(mountadam,pinot,noir)
+20:red

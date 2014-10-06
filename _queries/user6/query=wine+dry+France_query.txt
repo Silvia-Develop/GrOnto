@@ -1,0 +1,207 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:france
+1:dry
+1:red
+1:wine
+#title: <font class="result_title">France dry red wine Manufacturers %26 Suppliers</font><br>
+#abstract: 
+# France dry red wine products list, competitive dry red wine offering in 
+# France, reliable France dry red wine Manufacturers and Suppliers at Alibaba.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:france
+2:wine
+2:region
+#title: <font class="result_title">French Wine, France wine regions</font><br>
+#abstract: 
+# Part of France's diversity comes from its unique range of climates. In the north-east is the famous Champagne region with one of the coolest 
+# climates of the wine growing world, while the warm, dry southern Rhone Valley is located 350 miles (560km) away in the south-east. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:france
+3:dry
+3:color
+#title: <font class="result_title">Jurancon Wine in South West France</font><br>
+#abstract: 
+# Jurancon wine information in South West of France with French Wine Guide. ... One of the best wines 
+# in the South West of France. Dry Jurançon has a color drawing towards clear green. The ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:wine
+4:riesling
+4:chardonnay
+4:merlot
+4:pinot
+4:chianti
+4:syrah
+4:cabernet,sauvignon
+#title: <font class="result_title">Buy Wine Online, gift wines, baskets, Riesling, Chardonnay ...</font><br>
+#abstract: 
+# Buy Wine Online, gift wines, baskets, Riesling, Chardonnay, Merlot, Pinot Grigio, Chianti, Champagne, Syrah, Cabernet Sauviginon, California, French ... St. Hilaire Extra 
+# Dry, France. The oldest sparkling wine in the world! Benedictine Monks discovered this in 1531 in the south of France. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:dry
+5:red
+5:wine
+#title: <font class="result_title">Dry Red Wine - Dry Red Wine wholesale,Dry Red Wine on sale</font><br>
+#abstract: 
+# Dry Red Wine catalog and Dry Red Wine manufacturer directory. Import %26 Export Trade Platform for more 
+# than 20,000 Dry Red Wine manufacturers and global Dry Red Wine buyers provided by cheaponsale.com%3E 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:france
+6:region
+#title: <font class="result_title">Shop Online for French Wines from Languedoc-Roussillon ...</font><br>
+#abstract: 
+# The Le Petit Tonneau Wine Boutique is an online shop specializing in wines from 
+# the South of France, including Languedoc-Roussillon, Provence, the Rhone Valley and Southwest regions. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:red
+7:dry
+7:bordeaux
+7:france
+#title: <font class="result_title">Wine Wise - Red Dry Wines</font><br>
+#abstract: 
+# The most widely used red dry type of wine is Claret, which originated in France. In the Department of the Gironde are the 
+# Bordeaux Wine provinces, perhaps the most famous wine district in the world. The best Clarets are made mainly in four ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:dry
+8:sweet
+8:france
+#title: <font class="result_title">French Wine - Wikipedia</font><br>
+#abstract: 
+# French wine is produced in several regions throughout France, in quantities between 50 and 60 million hectolitres per year (7-8 billion bottles) ... 
+# All common styles of wine - red, rosé, white (dry, semi-sweet and sweet), sparkling and fortified - are produced in France. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:dry
+9:red
+9:wine
+#title: <font class="result_title">Dry Red Wine with SILVER AWARD Manufacturer exporting direct ...</font><br>
+#abstract: 
+# Product information for Dry Red Wine with SILVER AWARD from SOCIETE 
+# CIVILE DEXPLOITATION AGRICOLE VIGNOBLES SIGNE. Source what you need here! 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:dry
+10:white
+10:wine
+#title: <font class="result_title">Dry Unoaked White wine: Dry Unoaked White wine and wines of ...</font><br>
+#abstract: 
+# Dry Unoaked White wines: find out more about Dry 
+# Unoaked White wine and Dry Unoaked White wines. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:dry
+#title: <font class="result_title">Vignole Semi Dry To France Lick Indiana - buy this wine.</font><br>
+#abstract: 
+# Find Vignole Semi Dry To France Lick Indiana wine. Discover which of 
+# your local wine stores charges the lowest price for this wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:fruit
+12:cheese
+#title: <font class="result_title">Wine Product Catalog, Buy Wines Online: Fine wines, baskets ...</font><br>
+#abstract: 
+# Buy wine gift on line. Delivery of gourmet wine baskets, wine clubs, Eiswein and icewine. Fast shopping for fine wine of 
+# the month club, gift baskets of fruit and cheese, mail order wine gift certificates. Order on line Germany, Australia, 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:france
+13:sweet
+13:wine
+#title: <font class="result_title">France - Bordeaux Wine</font><br>
+#abstract: 
+# Wines from France - Bordeaux from wine.com. ... Named as such for its gravelly soils, Graves is home to some top white wine regions like Pessac-Léognan (for 
+# dry whites) and the sweet wine regions of Sauternes and Barsac. The right bank of Bordeaux is where Merlot and Cabernet Franc shine best. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:region
+14:france
+14:sweet
+#title: <font class="result_title">Wines of France - USA " Wine Regions</font><br>
+#abstract: 
+# However, this wonderful region in France is also known for producing top-quality white wines - both of the dry and the sweet persuasion. The white wine 
+# production region for Bordeaux is ... Up through the 1970s, Sémillon was extremely important for white wine production for both dry and sweet wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:dry
+15:white
+15:wine
+#title: <font class="result_title">Best Dry White Wine - LoveToKnow Wine</font><br>
+#abstract: 
+# The Best dry white wines are not just for beginning wine drinkers. ... A dry Riesling has the crisp acidity, but with so much more in the nose 
+# of the glass and palate! These wines are best from cool climate areas (Claire Valley Australia, Austria, Alsace region of France, and of course Germany) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:red
+16:wine
+16:dry
+16:bordeaux
+#title: <font class="result_title">the route to all good wine - decanter.com</font><br>
+#abstract: 
+# Red wine dry From Libournais, Bordeaux, France Produced by Vieux-Chateau-Certan ... Red 
+# wine dry From Libournais, Bordeaux, France Produced by Vieux-Chateau-Certan ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:france
+17:wine
+#title: <font class="result_title">Champagne %26 Sparkling France - Other Regions Wine Wines with ...</font><br>
+#abstract: 
+# Champagne %26 Sparkling from France - Other Regions on sale between USD40 and USD80 from wine.com. ... 
+# Extra Brut or Brut Naturale - Bone dry - the driest of the dry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:dry
+18:white
+18:wine
+#title: <font class="result_title">Buy Dry White Wine</font><br>
+#abstract: 
+# Collection of great French wines, champagne, wine accessories, whisky and many more on our 
+# online wine store finestwine. Visit now and get delivery at your doorstep. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:dry
+19:red
+19:wine
+19:bordeaux
+#title: <font class="result_title">Shopzilla - Dry Red Wine Wine, Alsace - France, Bordeaux ...</font><br>
+#abstract: 
+# Comparison shop for dry red wine wine, Alsace - France, Bordeaux Blends Wine in Gifts, Flowers %26 Food. See store ratings and 
+# reviews and find the best prices on dry red wine wine, Alsace - France, Bordeaux Blends Wine with Shopzilla's shopping ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:france
+20:wine
+#title: <font class="result_title">Wine - France - Grenache - Dry rosés - Fine Wine - Majestic Wine</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online ordering with free delivery, award-winning service and market-leading deals. ... France / Grenache / Dry rosés 
+# / Fine Wine. Use the options on the left hand side of the page to refine your search, or to broaden your search you can ... 

@@ -1,0 +1,39 @@
+1:wine
+1:red
+2:wine
+3:(body,medium) flavor (sweet,sugar)
+3:wine
+4:wine
+5:wine
+6:wine
+6:red
+6:white
+7:wine
+7:white
+8:wine
+8:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+9:wine
+9:red
+9:(tannic,tannin)
+10:red
+10:wine
+11:wine
+11:red
+12:red
+13:wine
+13:red
+14:wine
+14:(chianti,classico)
+15:red
+15:wine
+15:(color,colour)
+16:wine
+16:full (strong,moderate) dry
+17:wine
+17:red
+18:wine
+18:red
+19:wine
+19:cabernet sauvignon
+20:wine
+20:red

@@ -1,0 +1,77 @@
+4:fruit
+1:fruit
+13:fruit
+12:red bordeaux
+7:red bordeaux
+4:red meat
+16:red meat
+2:red meat
+4:sweet fruit
+3:grape
+10:grape
+16:grape
+19:grape
+18:grape
+20:grape
+11:dessert
+17:white wine
+20:white wine
+11:sweet dessert
+9:red merlot
+8:red merlot
+5:food
+12:food
+5:red wine
+4:red wine
+9:red wine
+12:red wine
+14:red wine
+3:red wine
+10:red wine
+16:red wine
+1:red wine
+8:red wine
+2:red wine
+7:red wine
+6:red wine
+19:red wine
+18:red wine
+17:red wine
+15:red wine
+13:red wine
+20:red wine
+11:dessert wine
+4:lamb
+10:wine region
+19:wine region
+18:wine region
+9:chianti
+5:wine
+4:wine
+9:wine
+11:wine
+12:wine
+14:wine
+3:wine
+10:wine
+16:wine
+1:wine
+8:wine
+2:wine
+7:wine
+6:wine
+19:wine
+18:wine
+17:wine
+15:wine
+13:wine
+20:wine
+4:meat
+16:meat
+2:meat
+3:wine grape
+10:wine grape
+16:wine grape
+19:wine grape
+18:wine grape
+20:wine grape

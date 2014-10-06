@@ -1,0 +1,39 @@
+4:grape
+10:grape
+9:food
+16:food
+20:food
+3:cabernet sauvignon
+10:margaux
+12:drink
+9:red wine
+13:red wine
+16:red wine
+2:red wine
+3:sauvignon blanc
+7:unclassified
+18:unclassified
+5:unclassified
+17:unclassified
+4:muscadet
+13:fruit
+10:medoc
+19:pinot blanc
+14:wine
+8:wine
+9:wine
+15:wine
+1:wine
+6:wine
+11:wine
+13:wine
+3:wine
+16:wine
+20:wine
+10:wine
+12:wine
+2:wine
+3:chenin blanc
+10:wine grape
+19:chianti
+19:pinot noir

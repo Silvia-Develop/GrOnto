@@ -1,0 +1,207 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:delicate
+1:light
+1:white
+1:wine
+#title: <font class="result_title">Delicate and light - white wine</font><br>
+#abstract: 
+# Look for the taste tags that match your favourite 
+# dishes and create harmoniousfood and wine pairings. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:light
+2:white
+2:wine
+#title: <font class="result_title">Eat Light, Drink White</font><br>
+#abstract: 
+# The harmony between light, white wine and spring's grassy, sassy, fresh flavors is, well, 
+# like...two snow peas in a pod, a spring fling, love at first bite. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:dry
+3:light
+3:white
+#title: <font class="result_title">Our Vinery</font><br>
+#abstract: 
+# A light well balanced white dry wine with a delicate fruit and a lively and 
+# vivid finish.%5BXynistery variety%5D ... An excellent white dry wine, with fruity taste.%5BXynisteri variety%5D ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:light
+4:delicate
+4:white
+#title: <font class="result_title">White Wine</font><br>
+#abstract: 
+# Wine Australia, Australia ... White wines range in style from light and delicate through to rich and 
+# full-bodied. Delicate white wines are vinified gently to keep the most fragile characters intact. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:vineyard
+5:light
+5:medium
+5:body
+5:peach
+#title: <font class="result_title">New Clairvaux Vineyard :: Wine Shop</font><br>
+#abstract: 
+# This medium-to-light-bodied wine has delicate aromas of pear and white peach, but its ... This 
+# medium-to-light-bodied wine has delicate aromas of pear and white peach, but its ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:white
+6:wine
+6:delicate
+#title: <font class="result_title">White Wine - Buy White Wine Online</font><br>
+#abstract: 
+# Search and discover our wonderful white wines - buy wine online. ... Qty: Price: USD23.99. Mont-Ferrant Rosé Brut Cava Girona, Spain Light and 
+# delicate with red fruits and full of verve, this sparkling wine from Spain will make you want to celebrate more often! ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:white
+7:wine
+7:france
+7:seafood
+#title: <font class="result_title">Cook's Thesaurus: White Wines</font><br>
+#abstract: 
+# white wine Notes: White wines are more delicate than red wines and are always served chilled. ... DAY Notes: This 
+# is a district in Brittany, France, that produces a crisp, light white wine that's especially good with seafood. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:light
+8:delicate
+8:white
+8:wine
+#title: <font class="result_title">Rueda Blanco-Castilla y Le%C3%B3n-Majestic Wine</font><br>
+#abstract: 
+# Rueda Blanco Marqués de Riscal ia a light, delicate white wine 
+# with an intensely aromatic bouquet and a crisp finish. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:dry
+9:white
+9:wine
+9:delicate
+#title: <font class="result_title">Mosti Original All Juice White</font><br>
+#abstract: 
+# Produces Italy's most popular dry white wine. It is silky with a soft, pleasant nose and is a versatile wine with delicate aromas of hazelnuts and 
+# almonds. Light, crisp and clean, it should be drunk chilled while still young. TREBBIANO. Light amber in colour, with reflections bordering on golden. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:white
+10:wine
+10:chardonnay
+10:seafood
+#title: <font class="result_title">White wine</font><br>
+#abstract: 
+# "This Chardonnay makes a wonderful accompaniment to cheeses, seafood and white meats. New French oak has given this wine a subtle, almost creamy vanilla 
+# topping to the grape aromas together with an extra dimension of delicate spiciness to the taste" Pouilly Fume "le champ Des Vignes" ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:german
+11:light
+11:color
+#title: <font class="result_title">Brewhaven - Make your own beer and wine</font><br>
+#abstract: 
+# A premium German wine that ages well. Liebfraumilch - Light in colour, soft on the palate, good 
+# fruit flavour. ... fruit %26 almonds. White Zinfandel - Light with a delicate pink hue, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:white
+12:wine
+#title: <font class="result_title">Wine lovers: He's passionate about red she's devoted to white ...</font><br>
+#abstract: 
+# A couple walked into K%26L Wine Merchants in San Francisco recently with a dilemma faced by 
+# many partners: the husband liked red wine and his wife preferred white.Scott Beckerley, assistant 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:dry
+13:white
+13:wine
+13:pinot,noir
+#title: <font class="result_title">Dry White Wine</font><br>
+#abstract: 
+# Known for its fine fruit aroma, light acidity and delicate bouquet, Silvaner is a unique dry white wine that grows exceptionally well 
+# in Rheinhessen. ... If you are a fan of dry white wine and Pinot Noir, this one is for ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:pinot
+14:delicate
+14:wine
+#title: <font class="result_title">Wines By the Case -Pinot Grigio Wine -Pinot Gris Wine -Wine ...</font><br>
+#abstract: 
+# The rise of Pinot Grigio into the British wine drinker's consciousness has been nothing short of meteoric. Generally unoaked with 
+# subtle and delicate flavours, the wine it makes is easy-going. New world examples are often a little less dry. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:light
+15:delicate
+15:white
+15:fruit
+#title: <font class="result_title">Majestic Wine</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online ordering with free delivery, award-winning service and market-leading 
+# deals. ... A light, delicate white wine with an intensely aromatic bouquet and bursting with fruit. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:white
+16:wine
+16:salmon
+#title: <font class="result_title">White Grenache Box Wine</font><br>
+#abstract: 
+# Our White Grenache box wine has a lighter body with enticing flavors of fresh, red berry fruit ... The delicate salmon hue 
+# of Peter Vella White Grenache comes from leaving the wine on its skins for just the right amount of time. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:sweet
+17:delicate
+#title: <font class="result_title">Gateway to America's Most Exciting Romanian Wine</font><br>
+#abstract: 
+# aromawine.com - Home of the world's most exciting wine varities ... Sweet, white wine. A wonderful example of old Romanian wine making skill: late 
+# harvest grapes full of aroma, wonderful balance, with a delicate, flowery perfume. Natural sweetness and fragrance, great for a light, informal meal ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:white
+18:food
+#title: <font class="result_title">The White Stuff | Food %26 Wine</font><br>
+#abstract: 
+# To all the red-wine snobs, editor Lettie Teague says: Get over it! Here, she explains why white wine is so divine. ... Oyster Bar wine 
+# director Mike Garvey admits that sales of red are almost equal to those of white. And not light, delicate, "fish-friendly" reds. " We ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:dry
+19:delicate
+19:white
+#title: <font class="result_title">Fine white wines from Wiederkehr Wine Cellars</font><br>
+#abstract: 
+# Verdelet: A dry, delicate white table wine with a pleasingly crisp, slightly flinty 
+# taste, ... White Muscadine: This flavorful, semisweet wine, delicate yet fruity ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:page
+#title: <font class="result_title">Wine Lovers' Page: The Happy Marriage of Food and Wine</font><br>
+#abstract: 
+# Robin Garr's Wine Lovers' Page is an ideal starting point for wine lovers on the Web! It's a 'snob-free zone' for straight talk 
+# in plain English about wine tasting. Frequently updated notes and advice on wines of good value are backed by an ... 

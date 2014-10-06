@@ -1,0 +1,70 @@
+20:cake
+4:wine
+17:wine
+10:wine
+7:wine
+5:wine
+3:wine
+12:wine
+13:wine
+20:wine
+6:wine
+16:wine
+8:wine
+11:wine
+19:wine
+2:wine
+15:wine
+14:wine
+9:wine
+18:wine
+1:wine
+5:red wine
+2:red wine
+9:red wine
+18:pasta
+2:lobster
+15:lobster
+4:white wine
+7:white wine
+5:white wine
+3:white wine
+12:white wine
+13:white wine
+20:white wine
+16:white wine
+8:white wine
+11:white wine
+19:white wine
+2:white wine
+15:white wine
+14:white wine
+9:white wine
+18:white wine
+1:white wine
+7:sauvignon blanc
+5:rose wine
+7:pinot blanc
+20:fish
+18:fish
+17:food
+7:food
+5:food
+13:food
+6:food
+11:food
+19:food
+2:food
+9:food
+9:pork
+18:white meat
+19:muscadet
+6:drink
+19:drink
+20:sweet fruit
+18:meat
+20:fruit
+15:fruit
+4:chenin blanc
+10:chenin blanc
+9:chenin blanc

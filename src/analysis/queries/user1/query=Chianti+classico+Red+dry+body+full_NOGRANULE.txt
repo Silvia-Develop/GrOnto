@@ -1,0 +1,84 @@
+10:chianti classico
+1:chianti classico
+2:chianti classico
+3:chianti classico
+14:chianti classico
+6:chianti classico
+13:chianti classico
+16:chianti classico
+5:chianti classico
+19:chianti classico
+18:chianti classico
+17:chianti classico
+4:chianti classico
+20:chianti classico
+9:chianti classico
+8:chianti classico
+11:chianti classico
+7:chianti classico
+14:fruit
+16:fruit
+5:fruit
+12:white wine
+9:grape
+2:wine region
+19:wine region
+10:red wine
+1:red wine
+2:red wine
+3:red wine
+14:red wine
+6:red wine
+5:red wine
+19:red wine
+18:red wine
+17:red wine
+9:red wine
+8:red wine
+15:red wine
+11:red wine
+7:red wine
+12:red wine
+10:food
+7:food
+9:wine grape
+16:cabernet sauvignon
+10:wine
+1:wine
+2:wine
+3:wine
+14:wine
+6:wine
+16:wine
+5:wine
+19:wine
+18:wine
+17:wine
+4:wine
+9:wine
+8:wine
+15:wine
+11:wine
+7:wine
+12:wine
+10:chianti
+1:chianti
+2:chianti
+3:chianti
+14:chianti
+6:chianti
+13:chianti
+16:chianti
+5:chianti
+19:chianti
+18:chianti
+17:chianti
+4:chianti
+20:chianti
+9:chianti
+8:chianti
+15:chianti
+11:chianti
+7:chianti
+12:chianti
+12:rose wine

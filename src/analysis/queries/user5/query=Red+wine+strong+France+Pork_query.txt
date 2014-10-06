@@ -1,0 +1,199 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:wine
+#title: <font class="result_title">South of France red wine online - South of france small ...</font><br>
+#abstract: 
+# Expressions-fermières selected all a line of Sud-ouest reds wines online made by independent winemakers. Wine from South-west of France, which 
+# is sold on line, has been selected for its soil representativeness. You could find in this line Cahors... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:red
+2:bordeaux
+2:wine
+#title: <font class="result_title">Cook's Thesaurus: Red Wines</font><br>
+#abstract: 
+# Gives synonyms, equivalents, and substitutions for various red wines. ... Bordeaux wine (red) %3D claret Pronunciation: bore-DOUGH Notes: The Bordeaux 
+# region in France produces excellent red wines, especially in the districts of Médoc, Haut-Médoc, and St. Emilion. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:red
+3:wine
+#title: <font class="result_title">Red wine online - Red wine from small french winemakers</font><br>
+#abstract: 
+# Discover our french red wines online made by independent winegrowers. 
+# Our red wines were selected for gustativ qualities. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:german
+#title: <font class="result_title">France</font><br>
+#abstract: 
+# Learn second language in a foreign country. Study abroad. Full immersion classes. Languages 
+# courses. Summer camps. Spanish, French, Greek, Chinese, Japanese, Russian, Portuguese, German, Italian 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:red
+5:white
+5:wine
+#title: <font class="result_title">Learn About Red Wine | Varietals, Types, Regions | Red Wine ...</font><br>
+#abstract: 
+# Go from wine lover to wine expert! We provide an easy online wealth of wine information to help you go from wine lover to wine 
+# expert in no time at all. From tutorials on red and white wine to how to pronounce difficult wine names, and much more. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+6:food
+#title: <font class="result_title">The different types of wine</font><br>
+#abstract: 
+# A primer on wine styles, districts, varietals, food and wine pairings. ... It is part of the great 
+# red Médoc wines of France, and among the finest reds in Australia, California and Chile. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:red
+7:wine
+#title: <font class="result_title">red wines</font><br>
+#abstract: 
+# red wines ... 85 2006 Darriaud Les Hauts du Mont, Ventoux, France %C2%A35.95. A blend of65% Grenache, 35% 
+# the wine is bottled without filtration to capture the full flavour and character of the wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:(mountadam,pinot,noir)
+8:red
+8:food
+#title: <font class="result_title">Wine 101: Pinot Noir %26 Red Burgundy | Food %26 Wine</font><br>
+#abstract: 
+# Pinot Noir can be among the most amazing wines you'll ever taste, and it can 
+# be flat-out anticlimactic. It inspires more rhapsodies-and disappointments-among wine lovers than any other grape. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:red
+9:wine
+#title: <font class="result_title">Red Wines</font><br>
+#abstract: 
+# This unique corkscrew is handcrafted using 50-year-old, gnarled authentic natural grapevine from Burgundy, France - the wine capital of the world. ... 
+# and with the strong five (5) turn worm (screw) attached, opening your next bottle of wine will be a tactile ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:red
+#title: <font class="result_title">Wine a Day " Wine of the Week - Fizzy Red</font><br>
+#abstract: 
+# Sparkling wine has been made for many centuries. When you think of sparkling 
+# wine, you often related it to expensive French products from the Champagne 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:food
+11:wine
+11:red
+#title: <font class="result_title">Exploring Food and Wine</font><br>
+#abstract: 
+# Learn about food and wine including the different types of wine; both 
+# red wine and white wine. Learn about wine and food pairings. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:red
+12:wine
+12:pork
+12:fruit
+#title: <font class="result_title">Red wine - Morrisons</font><br>
+#abstract: 
+# Red wine ... France. Price: Under %C2%A35. Region: Languedoc Roussillon. This is a Med. Full wine. Morrisons The Best Reserva Rioja "Bright cherry-red with aromas of 
+# ripe fruit, vanilla %26 coffee. Well structured %26 rounded, long in the mouth" Perfect with..."Ideal with pork or poultry, or chorizo based dishes" ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:beef
+13:food
+13:pork
+13:red
+13:wine
+#title: <font class="result_title">Traditional beef bourguignon Recipes - food cooking - Epicurien</font><br>
+#abstract: 
+# Recipes cooking Traditional beef bourguignon,food, Beef recipes , Beef chuck recipes , french food recipes (french cuisine) , Main courses 
+# recipes , Main dishes recipes , Mushrooms recipes , Pearl onions recipes , Pork recipes , Red wine recipes... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:food
+14:wine
+#title: <font class="result_title">Wine Lovers' Page: The Happy Marriage of Food and Wine</font><br>
+#abstract: 
+# Robin Garr's Wine Lovers' Page is an ideal starting point for wine lovers on the Web! It's a 'snob-free zone' for straight talk 
+# in plain English about wine tasting. Frequently updated notes and advice on wines of good value are backed by an ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:red
+15:wine
+#title: <font class="result_title">Red wines from Italy - Morrisons</font><br>
+#abstract: 
+# Red wine ... "Smoky black fruit %26 mocha aromas lead into a ripe, mellow satisfying red" Perfect with..."Ideal with pasta with meat sauce, strong cheese 
+# %26 roast pork" Grape: Primitivo. Country: Italy. Price: %C2%A35 - %C2%A37. Region: Puglia. This is a Med. Full wine. Suitable for vegetarians ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:food
+16:(full,medium) strong dry
+16:pork
+16:salmon
+#title: <font class="result_title">Matching Wine with Food</font><br>
+#abstract: 
+# Get a bottle of Cabernet Sauvignon, preferably a very dry, full, strong one (I recommend Fortant de France) ... excellent in circumstances where the food is strong 
+# enough to justify a fruity red, but would be overwhelmed by a dry, tannic red. I imagine pork, some chicken, some salmon, and the like ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:(mountadam,pinot,noir)
+17:red
+17:pork
+17:pasta
+#title: <font class="result_title">The Common Connoisseur | Wine Styles</font><br>
+#abstract: 
+# The Common Connoisseur's guide to Wine Styles. Red wine and white wine. ... Velvety wine with flavor and aroma of fruit. Chicken, pork, pasta. Pinot 
+# Noir. Light to medium body with berry flavors. Grilled meat, game. Port. Strong red wine, fortified with Brandy. Stilton blue cheese. Sherry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:red
+18:wine
+18:(mountadam,pinot,noir)
+#title: <font class="result_title">Shop red wine, cabernet, merlot, pinot noir, syrah %26 zinfandel</font><br>
+#abstract: 
+# Buying red wine is easy with Wines.com. Shop red wines from our extensive 
+# wine menu, or ask us for free advice on certain red wines. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:food
+19:wine
+19:pork
+19:turkey
+#title: <font class="result_title">Food and Wine</font><br>
+#abstract: 
+# However, many lighter styles of red wine are equally good with white meats such as pork, chicken, turkey etc. ... Classic combinations include good strong cheddar with robust 
+# red wines, port and stilton (both of which I like), and sweet white wines with soft creamy cheeses (which I am not so keen on) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:pork
+20:seafood
+20:red
+#title: <font class="result_title">Wines of France - USA " Pinot Blanc</font><br>
+#abstract: 
+# You've got pork, seafood and shellfish, not to mention the strong flavors of tomatoes, sweet potatoes and ... red selection, I figured that whether or not it ended up 
+# being a Cab, we'd find a good red to enjoy. Not wanting to make the choice without his input, I asked Roger what kind of wine he ... 

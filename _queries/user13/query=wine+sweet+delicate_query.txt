@@ -1,0 +1,189 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:sweet
+#title: <font class="result_title">Wines.com</font><br>
+#abstract: 
+# Personalized wine makes a perfect personal gift, holiday gift, or corporate gift, contact us for a custom wine label ... delicate dishes. 
+# Asti Spumante is an Italian sparkling wine that is on the sweet side and often beloved by novice wine drinkers. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:dessert
+2:dry
+2:white
+#title: <font class="result_title">Wine Styles</font><br>
+#abstract: 
+# Information about Cyprus tasteful wines, including the world-famous Commandaria and Zivania, spirits and brandy. Wine styles vary enormously from 
+# the rich sweet dessert Commandaria to the lightest, crisp dry white and from the delicate rose to ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+#title: <font class="result_title">Semi-sweet to semi-dry wine - Door Peninsula Winery : DC Wine</font><br>
+#abstract: 
+# DC Wine : Semi-sweet to semi-dry wine - Door Peninsula Winery ... A semi-sweet blend of Door County sweet cherry wine and a white grape wine that 
+# offers a soft, delicate, light red wine. Food friendly with... Door County White Christmas USD9.99. Add: A semi-sweet fresh white wine with hints of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:delicate
+4:wine
+#title: <font class="result_title">Vermouth</font><br>
+#abstract: 
+# Cinzano Bianco is a fragrant, full-bodied and delicate aromatised wine prepared according to an original recipe. It is an extrememly versatile sweet vermouth 
+# that can be served either as an apperetif or as a cocktail ingredient, but should always be served well chilled. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:cheese
+5:flavor
+5:wine
+#title: <font class="result_title">Hecker Pass</font><br>
+#abstract: 
+# Serve with a sweet, delicate cheese such a fresh mozzarella or Fontina. ... Rarely made in California, the 
+# depth of flavor and complexities of this wine make it perfect for sweet and savory applications. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:sweet
+6:wine
+#title: <font class="result_title">SWEET WINE 2008 - Brisbane</font><br>
+#abstract: 
+# A sweet delicate blend of Verdelho and Viognier ... This sweet delicate blend of Verdelho and Viognier 
+# has produced a clean fresh light wine showing a hint of pear and citrus. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:sweet
+7:wine
+#title: <font class="result_title">Sweet Wine | Blue Sky Vineyards - Southern Illinois Winery</font><br>
+#abstract: 
+# A sweet Illinois wine with an intensity and depth that you can only get from a Native American variety. ... Sweet Riesling. Distinctive 
+# floral and apple aromas meld with fresh fruit flavors yielding a delicate sweet white wine with a crisp, refreshing finish. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:medium
+8:red
+#title: <font class="result_title">Khvanchkara, Tamada, GWS, Semi-Sweet Red, 750ml</font><br>
+#abstract: 
+# Khvanchkara, Tamada, GWS, Semi-Sweet Red, 750ml - This wine is not currently available. We do, however, have another Khvanchkara produced by Telavi Vineyards in 
+# The ... This mysterious, medium red, naturally semi-sweet wine delivers clean, spicy fruit and delicate tannins complemented by subtle oak tones. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:wine
+9:grape
+#title: <font class="result_title">Wine Collection</font><br>
+#abstract: 
+# A semi-sweet white table wine that has a citrus start %26 a good apple-pear finish. 
+# ... A semi-sweet delicate pink table wine made from the pink catawba grape. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:light
+10:sweet
+10:wine
+#title: <font class="result_title">Light %26 Sweet Club | Wine Gift | Online Wine Store - Vinesse ...</font><br>
+#abstract: 
+# But when the caviar is salty and the wine is delicate, it's not exactly a match made in heaven. One of the best matches 
+# all for Champagne: an "extra dry" (which means slightly sweet) bottling accompanied by sushi seasoned with ginger, wasabi and soy sauce. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:grape
+#title: <font class="result_title">Starved Rock State Park - Wine List</font><br>
+#abstract: 
+# I %26 M Canal - A semi-sweet blend of Illinois grapes; an apple-pear nose, apricot-pineapple ... Catawba 
+# Rediscover Utica - A semi-sweet delicate pink table wine made from the pink catawba grape. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:winery
+#title: <font class="result_title">Special Occasion Wine - Door Peninsula Winery : DC Wine</font><br>
+#abstract: 
+# DC Wine : Special Occasion Wine - Door Peninsula Winery ... A semi-sweet blend of Door County sweet 
+# cherry wine and a white grape wine that offers a soft, delicate, light red wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:white
+13:red
+#title: <font class="result_title">Welcome to Regina Grape Juice</font><br>
+#abstract: 
+# Wine and Wine Grapes. White 
+# Wines. Reds ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:vineyard
+#title: <font class="result_title">Semi-Sweet Pure Fruit Wines</font><br>
+#abstract: 
+# Berrywine Plantations and Linganore Winecellars welcome you to over 230 acres of lush Maryland vineyards. Our full 
+# range of award-winning grape and semi-sweet fruit wines will make the journey worth the effort. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:delicate
+15:medium
+15:sweet
+15:white
+15:wine
+#title: <font class="result_title">Our Vinery</font><br>
+#abstract: 
+# Fresh, delicate, light dry white wine with refreshing taste.%5BXynistery variety%5D A medium sweet white wine with golden colour, freshness and 
+# fruitness.%5BXynistery variety%5D ... A sweet white wine produced from muscat variety with a characteristic aroma and taste. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:sweet
+16:wine
+#title: <font class="result_title">Wine Mall - Castello del Poggio Moscato 750ml, Italy Moscato</font><br>
+#abstract: 
+# Intense bouquet and very inviting, with delicate scents of underbrush, musk and peaches. Sweet. Always a great choice for spicy or italian food! Order Olive garden to 
+# go and a bottle of Moscato! . it is a fantastic wine with any type of food or simply to enjoy on its own. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:sweet
+17:white
+17:wine
+#title: <font class="result_title">Sweet White Wine</font><br>
+#abstract: 
+# An excellent semi-dry Sp%C3%A4tlese of exceptional value, this wine has good viscosity and a nose rich with the ... With a delicate 
+# nose and a great full body, Gutzler has produced an amazing Auslese with complex tropical fruits and great mineral quality. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:dessert
+#title: <font class="result_title">The Wine Country</font><br>
+#abstract: 
+# The most celebrated sweet wine in France should be consumed with Rocquefort cheese, foie gras, steamed lobster or even roast chicken, he said, but never 
+# with a dessert. The reason is that desserts compete with the delicate sweetness and complexity in Yquem, one of the world's greatest wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+#title: <font class="result_title">Wine of the Week Wine Reviews - Gewurztraminer Page - Wine ...</font><br>
+#abstract: 
+# Wine of the Week Wine Reviews - Gewurztraminer tastings and reviews, by Sue Courtney ... A medium-bodied wine, 
+# sweet and juicy, light and gentle in its attack but with a powerful lasting impression. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:sweet
+20:delicate
+#title: <font class="result_title">Wine Tasting - Jason W. Moulder</font><br>
+#abstract: 
+# Sweet wines have a detectable sugar content. There are also varying degrees of semi-dry and semi-sweet which, unfortunately, are almost never noted 
+# on the label. Lesson two: types of wine. ... So, delicate wine should be paired with delicate food; strong, hearty ... 

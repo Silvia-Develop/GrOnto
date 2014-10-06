@@ -1,0 +1,70 @@
+2:wine region
+7:wine region
+2:zinfandel grape
+15:white wine
+17:red bordeaux
+19:wine grape
+4:wine grape
+14:wine grape
+1:wine grape
+2:wine grape
+20:wine grape
+7:wine grape
+17:port
+15:port
+2:red zinfandel
+15:red zinfandel
+15:white zinfandel
+19:grape
+4:grape
+14:grape
+1:grape
+2:grape
+20:grape
+7:grape
+15:dessert wine
+15:pinot noir
+15:chianti
+9:red wine
+19:red wine
+11:red wine
+4:red wine
+5:red wine
+14:red wine
+1:red wine
+12:red wine
+16:red wine
+8:red wine
+17:red wine
+2:red wine
+20:red wine
+3:red wine
+10:red wine
+13:red wine
+18:red wine
+15:red wine
+6:red wine
+7:red wine
+2:food
+20:food
+15:dessert
+9:wine
+19:wine
+11:wine
+4:wine
+5:wine
+14:wine
+1:wine
+12:wine
+16:wine
+8:wine
+17:wine
+2:wine
+20:wine
+3:wine
+10:wine
+13:wine
+18:wine
+15:wine
+6:wine
+7:wine

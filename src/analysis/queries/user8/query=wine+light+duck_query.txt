@@ -1,0 +1,188 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:duck
+1:white
+#title: <font class="result_title">Wine Review Online - Wine With...Duck Breast</font><br>
+#abstract: 
+# Wine With Duck Breast. by Paul Lukacs and Marguerite Thomas. We had some fine duck breasts ... 
+# The only white wine we tried with the grilled duck breasts that really worked, this ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:duck
+#title: <font class="result_title">Best Wine to Pair With Duck Breast | Into Wine</font><br>
+#abstract: 
+# IntoWine recently asked its panel of wine experts to recommend 
+# one wine to pair with breast of duck: 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:duck
+#title: <font class="result_title">Duck Pond Cellars - A N. Willamette Valley winery</font><br>
+#abstract: 
+# Duck Pond Cellars is a treat to visit, not only because of its high-quality, value-priced 
+# wines, but because of its spectacular winery and tasting room in Oregon's Willamette Valley. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:duck
+4:(page,mill,winery,cabernet,sauvignon)
+#title: <font class="result_title">Duck Pond Cellars</font><br>
+#abstract: 
+# Live music, light appetizers, wine, and fresh-shucked oysters by Dan %26 Louis Oyster Bar, ... Join The Wine Club. Duck Pond Wine Club members 
+# receive two shipments of wine annually, special discounts on wine and winery events, and invitations to members-only events. There's no fee to ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:food
+5:red
+#title: <font class="result_title">Wine Pairings at Tommy's Gourmet Market and Wine Emporium ...</font><br>
+#abstract: 
+# The fuller in flavor the food, the more full-bodied the wine, delicate food requires lighter-bodied wine. The following is 
+# a list ... Red Wine Food Pairings (light-bodied) Chianti, Pinot Noir, Burgundy. Salmon, Tuna, Swordfish, Duck, Roast ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:food
+6:wine
+#title: <font class="result_title">Matching Wine and Food - What Wines go with what Foods ...</font><br>
+#abstract: 
+# Matching food and wine, Easy to read chart telling you what wines go with what foods. ... Medium to light-bodied, 
+# dry, little tannin leaves silky texture. Lamb, duck, turkey, game birds, beef, rabbit, semi-soft cheeses. Specialty Wines ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:red
+7:(color,colour)
+#title: <font class="result_title">Wine.com - Our Most Popular Wines This Week</font><br>
+#abstract: 
+# Wine.com - Most Popular Wines This Week - Our top selling list. ... This is how red wine gets its red color. The exact color, which can range 
+# from light red to almost purple, depends on both the color of the particular grape skin and the amount of time it sits with the skins. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:duck
+8:wine
+#title: <font class="result_title">Austrian Wine / The Austrian Wine Adventure Tour / Austrian ...</font><br>
+#abstract: 
+# The ripe fruit harmonizes so well with the light sweetness of the sauce. Especially a slightly mature wine of these kind with only 
+# a touch of barrique flavour (firm vanilla and banana tones) complete the crispy duck just wonderfully. %3E Gemischter Satz, Gr%C3%BCner Veltliner: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:food
+9:wine
+9:(mountadam,pinot,noir)
+#title: <font class="result_title">Food and Wine</font><br>
+#abstract: 
+# There are well tried and tested conventions that will allow you to match food and wine so that you will be able to 
+# get more out of your dining experience... With roasted birds like Peking duck Cabernet, Merlot, Pinot Noir and light Californian Zinfandel. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:duck
+10:red
+10:white
+#title: <font class="result_title">Liquor Outlet Wine Cellars Andre Cold Duck</font><br>
+#abstract: 
+# A Sweet Combination Of Red and White Wines Blended With A Soft Concord Base.Liquor Outlet Wine Cellars | (866) 454-7688 | 289 Myrtle Avenue 
+# Boonton, New Jersey, 07005 ... Fizzy and fine, grapey and easy-to-drink, the light and ethereal Andre Cold Duck is delicious served well-chilled. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:food
+11:wine
+#title: <font class="result_title">Pairing Food and Wine | Choosing a Wine for Dinner</font><br>
+#abstract: 
+# Tips for pairing food and wine. Here are some easy ideas for matching food and wine. ... grilled chicken, salmon, shellfish, and grilled fish, anything 
+# with a cream sauce. Pinot Noir - light meats, chicken, grilled anything, salmon. Merlot - pasta, red meat, duck, smoked or grilled foods ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:beef
+12:duck
+#title: <font class="result_title">Tin Roof Merlot 2005</font><br>
+#abstract: 
+# Tin Roof Merlot 2005 from California - A classic plush texture and delicious black cherry and plum flavors make our sumptuous Merlot both delicious on its own ... 
+# both delicious on its own and a versatile food wine. Enjoy it with beef, lamb, roast duck with cherry sauce, red-sauce pastas, black olive and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:food
+13:wine
+#title: <font class="result_title">Deakin Estate - Food and Wine</font><br>
+#abstract: 
+# Deakin Estate - Food and Wine ... Pan roast breast of duck with cepe jus, celeriac fondant, sour cherries and mulled wine panna 
+# cotta. Rich with juicy dark berry fruits and well-balanced oak, there are lovely light notes of mint and coffee to ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:duck
+#title: <font class="result_title">Irish Wine Contemplations: The Fat Duck</font><br>
+#abstract: 
+# Wine related musings %26 other random thoughts of an Irish wine lover. ... One might imagine that the Fat Duck would provide food 
+# that is difficult to match but I think as long as the wine is of a high quality that is ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+15:duck
+15:pork
+#title: <font class="result_title">Wine: Pairing Wine with Chinese Cuisine: Szechuan, Peking ...</font><br>
+#abstract: 
+# Pairing Wine with Chinese Cuisine: Szechuan, Peking Duck, Pork 
+# Lo Mein, Orange Beef, and Tangerine Pie 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:fruit
+16:red
+16:wine
+#title: <font class="result_title">New York Butcher Shoppe, neighborhood source for Certified ...</font><br>
+#abstract: 
+# Pinot Grigio: A light and dry white wine that is best served with lighter menu items like filet of sole or chicken breasts. ... Rioja: A light-bodied dry 
+# red wine from Spain . Serve it with roast chicken or duck. Shiraz : Generally a richer red with fruit flavors of blackberry and blueberry. It ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:cabernet sauvignon
+17:duck
+17:pork
+17:(color,colour)
+#title: <font class="result_title">Gateway to America's Most Exciting Romanian Wine</font><br>
+#abstract: 
+# aromawine.com - Home of the world's most exciting wine varities ... duck, boar, spicy pork, and lamb dishes. 2001. Cabernet Sauvignon. de Uricani (Vinia) 
+# Dry red wine. A very attractive, medium garnet color with a specific aroma (suggestive of violet perfume), soft tannins, and light aftertaste. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:duck
+18:red
+18:wine
+#title: <font class="result_title">Recipe: Autumn Roast Duck</font><br>
+#abstract: 
+# Add 1/2 cup sugar and let cook until light brown. with great care (it may splatter; very hot stuff) add 1/2 c red wine vinegar to dissolve the caramel you have 
+# made. This is a gastric. It ... is difficult to suggest a wine with a sweet and sour duck. Sour flavors and wine don't work well together. It ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:duck
+19:wine
+#title: <font class="result_title">Wines Tagged with Duck</font><br>
+#abstract: 
+# A page to collect all wines that users have tagged with Duck. Share images and conversation about Duck wines. ... Tour d'Argent, of 
+# pressed duck fame, has been going through some changes and recently auctioned off 18,000 bottles of wine and spirits from the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:duck
+#title: <font class="result_title">Duck Recipes : Recipezaar</font><br>
+#abstract: 
+# Categories. Become a member, post a recipe and get 
+# free nutritional analysis of the dish on Recipezaar.com 

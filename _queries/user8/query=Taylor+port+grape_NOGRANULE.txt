@@ -1,0 +1,114 @@
+8:dessert wine
+17:dessert wine
+11:dessert wine
+5:dessert wine
+8:taylor port
+15:taylor port
+12:taylor port
+18:taylor port
+2:taylor port
+9:taylor port
+1:taylor port
+3:taylor port
+10:taylor port
+19:taylor port
+4:taylor port
+17:taylor port
+6:taylor port
+14:taylor port
+20:taylor port
+7:taylor port
+16:taylor port
+11:taylor port
+5:taylor port
+13:taylor port
+12:grape
+18:grape
+2:grape
+1:grape
+19:grape
+4:grape
+6:grape
+14:grape
+7:grape
+13:grape
+8:sweet dessert
+17:sweet dessert
+11:sweet dessert
+5:sweet dessert
+8:port
+15:port
+12:port
+18:port
+2:port
+9:port
+1:port
+3:port
+10:port
+19:port
+4:port
+17:port
+6:port
+14:port
+20:port
+7:port
+16:port
+11:port
+5:port
+13:port
+8:red wine
+19:red wine
+17:red wine
+11:red wine
+5:red wine
+8:wine
+15:wine
+18:wine
+2:wine
+9:wine
+3:wine
+10:wine
+19:wine
+4:wine
+17:wine
+6:wine
+20:wine
+7:wine
+11:wine
+5:wine
+13:wine
+18:wine grape
+2:wine grape
+19:wine grape
+4:wine grape
+6:wine grape
+7:wine grape
+13:wine grape
+8:taylor
+15:taylor
+12:taylor
+18:taylor
+2:taylor
+9:taylor
+1:taylor
+3:taylor
+10:taylor
+19:taylor
+4:taylor
+17:taylor
+6:taylor
+14:taylor
+20:taylor
+7:taylor
+16:taylor
+11:taylor
+5:taylor
+13:taylor
+18:white wine
+16:fruit
+8:dessert
+17:dessert
+11:dessert
+5:dessert
+7:drink
+19:wine region

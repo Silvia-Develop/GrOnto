@@ -1,0 +1,67 @@
+1:(chianti,classico)
+1:red
+1:medium strong dry
+1:wine
+2:wine
+2:(chianti,classico)
+2:medium strong dry
+3:(chianti,classico)
+3:full (strong,moderate) dry
+4:red
+4:body flavor (sweet,sugar)
+4:full (strong,moderate) dry
+5:(chianti,classico)
+5:full (strong,moderate) dry
+5:red
+6:(chianti,classico)
+6:full (strong,moderate) dry
+6:red
+7:(chianti,classico)
+7:red
+7:(color,colour)
+7:full (strong,moderate) dry
+8:(chianti,classico)
+8:wine
+9:red
+9:white
+9:wine
+9:(body,medium) flavor (sweet,sugar)
+9:Cheese
+9:pasta
+9:fruit
+10:(chianti,classico)
+10:red
+10:wine
+11:wine
+11:red
+11:(medium,full) (delicate,strong) dry
+12:food
+12:(tannic,tannin)
+12:(medium,full) (delicate,strong) dry
+13:red
+13:wine
+13:(medium,full) (delicate,strong) dry
+13:(chianti,classico)
+14:(chianti,classico)
+14:(medium,full) (delicate,strong) dry
+14:food
+15:(chianti,classico)
+15:(medium,full) (delicate,strong) dry
+15:red
+16:(chianti,classico)
+16:(medium,full) (delicate,strong) dry
+17:wine
+17:(chianti,classico)
+17:red
+17:full (strong,moderate) dry
+17:(color,colour)
+18:(chianti,classico)
+18:red
+18:wine
+18:full (strong,moderate) dry
+19:(chianti,classico)
+19:full (strong,moderate) dry
+19:wine
+20:(chianti,classico)
+20:full (strong,moderate) dry
+20:wine

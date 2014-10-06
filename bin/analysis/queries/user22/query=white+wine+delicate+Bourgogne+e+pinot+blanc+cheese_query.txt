@@ -1,0 +1,179 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:wine
+#title: <font class="result_title">French - Red: Burgundy (Terranova Fine Wines - Online Wine ...</font><br>
+#abstract: 
+# French - Red: Burgundy | Wine retailer in Monterey California, offering free delivery on the Monterey Peninsula. Search our inventory 
+# of wines by varietal and state or by keyword. Also features wine samplers, wine accessories and gift baskets. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:red
+2:wine
+#title: <font class="result_title">French - Red (Terranova Fine Wines - Online Wine Shop from ...</font><br>
+#abstract: 
+# French - Red | Wine retailer in Monterey California, offering free delivery on the Monterey Peninsula. Search our inventory of 
+# wines by varietal and state or by keyword. Also features wine samplers, wine accessories and gift baskets. Ships ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+3:food
+#title: <font class="result_title">Victoria Wine and Food</font><br>
+#abstract: 
+# Red wine or white wine? Dry or semi-dry? A general guide on the different types of wine and how to choose one to compliment your meal. ... Delicate 
+# foods- veal, or fillet of sole for example, will be overwhelmed by a full-bodied red wine. By the same token a hearty lasagna will virtually ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:wine
+#title: <font class="result_title">White Wine - Argonaut Liquor - Buy Wine Online - Colorado ...</font><br>
+#abstract: 
+# Argonaut Wine %26 Liquor is Denver's largest wine and liquor supermarket. We serve the the beer lover and the wine 
+# connoisseur. Rocky Mountain News "Readers Choice Award-Best Liquor Store". Fine spirits, sale wines, sale beers. Frequent wine ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:(tannic,tannin)
+5:(mountadam,pinot,noir)
+5:low
+#title: <font class="result_title">US Sommelier Association Wine School</font><br>
+#abstract: 
+# For many meat dishes, a rich full-bodied white wine is a better match ... bodied, 
+# low-tannin red wines such as young Pinot Noir can also be successful. Always ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+#title: <font class="result_title">France " USD10 to USD25 - Bern's Fine Wines %26 Spirits - Buy Wine ...</font><br>
+#abstract: 
+# We maintain a large selection of very special, difficult-to-find wines. These include the best Champagnes, classified growth Bordeaux, 
+# rare Australian and Spanish selections as well as very old Ports. Part of Bern's Family of Legends. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:duck
+#title: <font class="result_title">Wine and Dine B.C. News, Heads-up NEWS about Wine %26 Dine ...</font><br>
+#abstract: 
+# Heads-up NEWS about Wine %26 Dine events, tastings, releases, clubs and gifts in British Columbia ... overwhelming the delicate flavouring of 
+# the chicken. %7E Duck Breast. Light Pinot Noir, from BC, New Zealand or California; Beaujolais. %7E Goats%60 Cheese ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:food
+#title: <font class="result_title">The Wine Tutor</font><br>
+#abstract: 
+# Learn about wines, wine regions, how wine is made, pairing wine with food, 
+# and all the interesting questions about wine you always wanted to know. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:cheese
+9:wine
+9:red
+#title: <font class="result_title">The Cheese and Wine Shop Delicatessen | cheese and wine shop ...</font><br>
+#abstract: 
+# Cheese and Wine Matching Matching food and wine is one of most difficult and subjective 
+# things to get right. Using up the bottle of red with a cheese 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:white
+10:wine
+#title: <font class="result_title">White Wine - Amanti Vino - artisanal wine online - Essex ...</font><br>
+#abstract: 
+# Amanti Vino offers limited production wines, tasting parties, private events, and restaurant delivery. Sommelier Sharon Sevrens selects a distinct 
+# variety of wines with superior quality and exceptional value at any budget. In Essex County, New ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+#title: <font class="result_title">Old School Wines :: Search Results</font><br>
+#abstract: 
+# Bourgogne Blanc, 2002 Tollot Beaut. %C2%A318.99. Tollot-Beaut is a family domaine, based in ... Bourgogne Blanc, Etienne Sauzet. 
+# %C2%A315.99. Sauzet is widely regarded as one of the Burgudian producers and the wines often fetch ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:(chateau,morgon,beaujolais)
+#title: <font class="result_title">Chardonnay: Definition from Answers.com</font><br>
+#abstract: 
+# Chardonnay also chardonnay ( ) n. A variety of grape used to make white wine, including champagne and white Burgundy ... Typically 
+# M%C3%A2con blanc, basic Bourgogne, Beaujolais blanc and Saint-Véran are meant to be consumed within 2 to 3 years of release. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:cheese
+#title: <font class="result_title">The Second Glass Annual Wine Guide - 2010</font><br>
+#abstract: 
+# Major Grapes: Cabernet Sauvignon, Merlot, Chardonnay, Sauvignon Blanc, Pinot Noir, Grenache, Syrah ... known region that cranks out 
+# lots of great wines. Drink this stuff on a weeknight with mac and cheese. 2007 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+#title: <font class="result_title">November 2009 Newsletter</font><br>
+#abstract: 
+# Lett's '07 Pinot Blanc is an instant classic, fusing the golden richness of the finest Alsatian ... On 
+# the palate, the wine fuses Pinot Blanc's natural fleshy pear fruit with a spicy edge, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+#title: <font class="result_title">Wine- Buy Fine Wines and Wine Glasses. Order your Wine Bottle ...</font><br>
+#abstract: 
+# Wine- Buy Fine Wines and Wine Glasses. We have your favorite Wine Bottle online. From Wine 
+# Tasting and Wine Storage, our large selection of Wine Bottles are shipped to your home. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:(mountadam,pinot,noir)
+#title: <font class="result_title">Cellar Estates Quality French Selection - Batleys Cash ...</font><br>
+#abstract: 
+# ... "pear drop" character and fruitiness it is ideal as an aperitif or as an accompaniment to salads, white meats and light cheese. 
+# ... FRANCE Bourgogne Pinot Noir. This wine originates from Burgundy in Northern France. This Pinot Noir has a deep ruby appearance ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:apple
+17:peach
+#title: <font class="result_title">1998 Chassagne Montrachet, 'Chaumeés', 1er Cru, M. Colin ...</font><br>
+#abstract: 
+# Nose of hazelnut, cheese, oak and pear. Very complex: spicy quince/ grapefruit/ apple/peach with secondary honeysuckle and emmenthal flavors. ... Most 
+# famous for its white wines, which are lovely and delicate, Chassagne-Montrachet actually produces more red than white wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:white
+18:wine
+18:light dry (delicate,moderate)
+#title: <font class="result_title">White Wines Austria</font><br>
+#abstract: 
+# White Wines. Austria. 201 Gr%C3%BCner Veltliner, Wieninger 2005 Kamptal. 25. Light, delicate and ... 
+# to Italian wine. 135 Chianti, Fattoria Corzano e Paterno 2004 Toscana ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:white
+19:wine
+#title: <font class="result_title">The Burgundy Report The Burgundy Report</font><br>
+#abstract: 
+# white wine gets. Pinot Blanc is a white wine. producing mutation of Pinot Noir. Pinot ... 
+# to the regional tank-aged Bourgogne Blanc and Bourgogne Passé Tout Grains, Jean Louis ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:red
+20:white
+#title: <font class="result_title">Majestic Wine</font><br>
+#abstract: 
+# All the Special Offers on French Wines at Majestic Wines this season ... Buy any 2 red or white Rh%C3%B4ne wines under %C2%A320 Save 20% %3D %C2%A39.99. Add to Basket. 
+# Qty. La Croisade Réserve Merlot 2008 Vin de Pays d'Oc. Showing a lively bouquet of plum, bluberry and hints of blackcurrant on the nose, the palate is ... 

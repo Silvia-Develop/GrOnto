@@ -1,0 +1,172 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:white
+1:red
+1:wine
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... (createConcept WINE-COLOR (and WINE-PROPERTY (oneOf White Rose Red))) (createConcept WINE-BODY (and WINE-PROPERTY (oneOf Light 
+# Medium Full))) (createConcept WINE-FLAVOR (and WINE-PROPERTY (oneOf Delicate Moderate Strong))) (createConcept WINE ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ( cl-define-concept 'wine-color '(and wine-property (one-of white rose red))) (cl-define-concept 'wine-body '(and wine-property (one-of light ... 
+# (cl-define-concept 'wine-flavor '(and wine-property (one-of delicate moderate strong))) (cl-define-concept 'wine-sugar '(and wine-property (one ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:food
+3:wine
+#title: <font class="result_title">%5BTXT%5D</font><br>
+#abstract: 
+# spicy-red-meat%7D '(all appropriate-drink (all flavor (one-of strong moderate)))) ;(cl-add-rule 'non-spicy-red-meat-wine-sugar %40c%7Bnon-spicy-red-meat%7D ; '(all appropriate-drink 
+# (fills sugar dry))) ;Feb 10 14:13 1994 food-wines.lisp Page 3 ;(cl ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:wine
+#title: <font class="result_title">Red Wine 90%2B Rated Wines Under USD20</font><br>
+#abstract: 
+# Red Wine from our 90%2B Rated Wines 
+# Under USD20 list from wine.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:fruit
+#title: <font class="result_title">Buy Wine, Buy Wine Online - Amazing Grapes Wine Store</font><br>
+#abstract: 
+# Buy wine online at our amazing wine store. Find the best wine online. ... Strong Chardonnay : 2007 : 90 Points! Encouraging malolactic fermentation added additional 
+# character, and in the glass the wine is both creamy and crisp, with abundant fruit character, mineral, and toasty oak flavors USD15.98. Wine ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:red
+6:wine
+#title: <font class="result_title">Wines with a price of USD20 and Below Red Wine California Wine</font><br>
+#abstract: 
+# Red Wine from California on sale for USD20 and below from wine.com. ... Many studies report and winemakers 
+# agree that screw caps protect wine better and preserve its flavor more effectively than cork. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+#title: <font class="result_title">wines.daml</font><br>
+#abstract: 
+# ... DESSERT-WINE"/%3E %3Crdfs:subClassOf rdf:resource%3D"#FULL-BODY-RESTRICTION"/%3E %3Crdfs:subClassOf rdf:resource%3D"#MODERATE-OR-STRONG-FLAVOR-RESTRICTION" ... %3CMAKER 
+# rdf:resource%3D"#WHITEHALL-LANE"/%3E %3CSUGAR rdf:resource%3D"#SWEET"/%3E %3CFLAVOR rdf:resource%3D"#DELICATE" ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+#title: <font class="result_title">Wine Country Tour Shuttle Customer Comments, California Wine ...</font><br>
+#abstract: 
+# Customers comment on the popular Wine Country Tour Shuttle that offers daily wine country tours 
+# from San Francisco. Sonoma Valley tours. Small Group shuttle tours to wine country. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:food
+9:wine
+#title: <font class="result_title">Matching Food and Wine Bruce Zoecklein, Head - Enology-Grape ...</font><br>
+#abstract: 
+# flavor of the food and wine are the basis for a rational understanding of food and wine ... 
+# Red Rh%C3%B4ne and beef - contrast and similarity - Black pepper flavor in the wine ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+#title: <font class="result_title">Wine - Fleming's Prime Steakhouse %26 Wine Bar</font><br>
+#abstract: 
+# Fleming's offers 100 wines by the glass, a unique Wine Flight tasting program 
+# and a world-class list of reserve wines to complement your dining experience. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:(whitehall,lane,cabernet,franc)
+11:(napa,valley)
+#title: <font class="result_title">1999 Whitehall Lane Cabernet Sauvignon (USA, California, Napa ...</font><br>
+#abstract: 
+# It tastes of red berries, cassis, plum, and a bit earthy. There is still more than enough ... 
+# the palate there was an array of red and black fruit bursting forward (chassis, cherry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:(whitehall,lane,cabernet,franc)
+#title: <font class="result_title">White Hall Cabernet Franc 2007 - Salute! Wine Market</font><br>
+#abstract: 
+# White Hall Cabernet Franc 2007: Ruby colors precede a nose of pine and herbs with touches of orange peel. 
+# This leads to a full bodied palate suggesting flavors of earth and oak with a strong, vibrant 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:fruit
+13:wine
+#title: <font class="result_title">Wine%26Spirits Magazine - Top Ten</font><br>
+#abstract: 
+# If you buy merlot for a smooth, bright, seductively silky red, look no further than this Ravenswood grown by the Sangiacomo ... Layered with 
+# scents of cherries, red fruit and earth, this bosky wine has the feel of the cool Carneros soils where it was grown. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:apple
+14:red
+#title: <font class="result_title">WHITE WINE SELECTIONS</font><br>
+#abstract: 
+# Well balanced, oak and ripe apple flavor. A fun wine to drink with friends and very food friendly. White Hall Reserve, VIRGINIA USD32. A beautiful nose of coffee and 
+# caramel carry into a rich, ... Full bodied red wine with a dark brick red rim and a nose of raspberry, chocolate and ginger. The spicy and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+#title: <font class="result_title">Red Wine : Syrah / Shiraz - Salute! Wine Market</font><br>
+#abstract: 
+# Wine, Glassware, Cellars, Wine Tasting and Classes.Specializing in Italian 
+# wine and gourmet foods from around the world. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+#title: <font class="result_title">High Point Wines- Jordan, Plump Jack, Sonoma Cutrer, Monte ...</font><br>
+#abstract: 
+# high point wines, %3Cmeta name%3D"verify-v1" content%3D"PqwGPTVgWPprP/C4GRGIOLRHORkb7d/4EGIhGB9lTVg ... with blackberry, cedar, roasted nut and red currant 
+# aromas/flavors. Four Stars. Restaurant Wine Has fabulous aromas of blackberry, black cherry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:food
+#title: <font class="result_title">Life/Travel: Food | News for Dallas, Texas | Dallas Morning News</font><br>
+#abstract: 
+# See the winners of the 2008 Dallas Morning News wine competition. ... Blush | Fortified | Late Harvest | Low-Alcohol | Non-Alcoholic | Red | Sparkling 
+# | Vermouth | White. Home | Contact Us | HelpCenter | Advertising | Site Map | About Us | Careers | News Feeds ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:cabernet sauvignon
+18:wine
+#title: <font class="result_title">2003 Whitehall Lane Cabernet Sauvignon Reserve (USA ...</font><br>
+#abstract: 
+# Dark red berries with nicely integrated oak and cigar box aromas. The palate falls a little short of the nose. The alcohol is showing 
+# strong now and ... Full, velvety mouth feel that teasingly reveals the depth and richness of the flavors of the wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+#title: <font class="result_title">California - Hartsdale Wine</font><br>
+#abstract: 
+# A great selection of wine at reasonable prices. Serving Westchester County and secure online ordering available. ... Whitehall Lane Merlot 2005. BN#219777. This appealing wine 
+# offers aromas of blackberry, violet and oak. It gains its depth from a combination of plum, wild berries and cola flavors that are ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+#title: <font class="result_title">Red Guitar Navarra Tempranillo | The Good Wine Guru</font><br>
+#abstract: 
+# A strong nose of ripe raspberries, cinammon, and minerals, this wine is quickly becoming a favorite amongst red wine drinkers. 
+# Flavors of blackberry, oak, and tannins make this wine excellent for entertaining or for enjoying by yourself. Recommendation: ... 

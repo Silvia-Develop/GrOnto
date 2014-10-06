@@ -1,0 +1,16 @@
+
+\section{Implementation notes}
+
+The model described in Section \ref{sec:modello} has been implemented through a simple web service adopting the representational state transfer (REST) paradigm \cite{REST}. The web service runs as a stand-alone process on the client machine and interact with web search engine in order to re-rank/enrich (???) the query results. The language chosen for the prototype implementation is Java.
+More in detail, the web service override the behavior of the GET and POST HTTP methods. When the GET method is invoked by the browser the basic GrOntoS User Interface is loaded. The submission of a query through the POST method triggers the interaction with a standard web service. 
+We decided to rely on Yahoo! Search services in order to satisfy the queries. In particular, we use the BOSS REST-full programming interfaces \cite{boss_webRef} in order to collect the raw documents related to the terms provided by users.
+Once the document snippets are returned to the GrOntoS prototype, the ontology-based re-rank is enacted. The whole snippets collection is first passed through the Porter's stemmer, then the set of the stems is intersected with the terms related to the ontology concepts. When an interception is found, this is used to pair the ontology concept with the documents. The navigation of the activated concepts (organised as an n-ary tree) provides the specialization and generalisation operators described previously.
+The activated portion of ontology are transferred back to the client with the document snippets to be rendered in the browser. By clicking on the concepts sub-tree, the GrOntoS service is contacted for results re-ordering according the requested granular view.
+
+A feature, not yet implemented in the first prototype, foresees to use the ontology in order perform query expansion before the Yahoo! Search service is actually contacted. A graphical representation of the flow enacted by the GrOntoS service is reported in Figure \ref{fig:grontos_arch}. 
+The next step of the implementation will include a re-factoring of the architecture as a servlet module for a full fledged HTTP server.
+ 
+\begin{figure}[Ht]
+
+\label{fig:grontos_arch}
+\end{figure}

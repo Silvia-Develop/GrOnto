@@ -1,0 +1,33 @@
+1:(stonleigh,sauvignon,blanc)
+1:(bancroft,chardonnay)
+2:wine
+2:fruit
+3:(bancroft,chardonnay)
+3:wine
+4:body flavor (sweet,sugar)
+4:seafood
+5:wine
+6:wine
+7:(napa,valley)
+8:(bancroft,chardonnay)
+8:(napa,valley)
+9:wine
+10:cabernet sauvignon
+10:wine
+11:(napa,valley)
+12:wine
+12:(napa,valley)
+12:cabernet sauvignon
+13:food
+14:cabernet sauvignon
+14:(napa,valley)
+15:wine
+15:(color,colour)
+15:(body,medium) flavor (sweet,sugar)
+16:wine
+17:valley
+17:wine
+18:wine
+19:(napa,valley)
+20:(bancroft,chardonnay)
+20:(stonleigh,sauvignon,blanc)

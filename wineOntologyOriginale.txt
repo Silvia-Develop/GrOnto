@@ -1,0 +1,225 @@
+# original wine ontology
+[nodes]
+0 0 @ wine_ontology
+1 0 @ consumable thing
+2 1 @ drink
+3 1 @ food
+4 2 @ soft drink
+5 2 @ wine
+6 5 @ dessert wine
+7 5 @ red wine
+8 5 @ rose wine
+9 5 @ white wine
+10 6 @ ice wine
+11 6 @ port
+12 6 @ sweet reisling
+13 7 @ beaujolais
+14 7 @ cabernet franc
+15 7 @ cabernet sauvignon
+16 7 @ chianti
+17 7 @ petite syrah
+18 7 @ pinot noir
+19 7 @ port
+20 7 @ red bordeaux
+21 7 @ red burgundy
+22 7 @ red merlot
+23 7 @ red zinfandel
+24 20 @ graves
+25 20 @ medoc
+26 20 @ st emillion
+27 25 @ margaux
+28 25 @ pauillac
+29 21 @ cotes chalonnaise
+30 21 @ cotes d or
+31 8 @ white merlot
+32 8 @ white zinfandel
+33 9 @ chardonnay
+34 9 @ chenin blanc
+35 9 @ ice wine
+36 9 @ muscadet
+37 9 @ pinot blanc
+38 9 @ riesling
+39 9 @ sancerre
+40 9 @ sauterne
+41 9 @ sauvignon blanc
+42 9 @ semillon
+43 9 @ white bordeaux
+44 9 @ white burgundy
+45 38 @ dry riesling
+46 38 @ sweet riesling
+47 44 @ chablis
+48 44 @ pouilly-fuisse
+49 3 @ dessert
+50 3 @ fowl
+51 3 @ fruit
+52 3 @ meat
+53 3 @ pasta
+54 3 @ seafood
+55 3 @ tomato-based food
+56 49 @ cheese/nuts dessert
+57 49 @ sweet dessert
+58 50 @ dark meat fowl
+59 50 @ light meat fowl
+60 51 @ non-sweet fruit
+61 51 @ sweet fruit
+62 52 @ red meat
+63 52 @ white meat
+64 62 @ non-spicy red meat
+65 62 @ spicy red meat
+66 53 @ pasta with red sauce
+67 53 @ pasta with white sauce
+68 66 @ pasta with non-spicy red sauce
+69 66 @ pasta with spicy red sauce
+70 67 @ pasta with heavy cream sauce
+71 67 @ pasta with light cream sauce
+72 54 @ fish
+73 54 @ shellfish
+74 72 @ bland fish
+75 72 @ non-bland fish
+76 1 @ meal course
+77 1 @ wine grape
+78 1 @ wine region
+79 1 @ winery
+[leaves]
+A 6 @ Whitehall Lane Primavera
+B 10 @ Selaks Ice Wine
+C 11 @ Taylor Port
+D 12 @ Schloss Rothermel Trochenbierenauslese Riesling
+E 12 @ Schloss Volrad Trochenbierenauslese Riesling
+F 13 @ Chateau Morgon Beaujolais
+G 14 @ Whitehall Lane Cabernet Franc
+H 15 @ Forman Cabernet Sauvignon
+I 15 @ Marietta Cabernet Sauvignon
+L 15 @ Page Mill Winery Cabernet Sauvignon
+M 15 @ Santa Cruz Mountain Vineyard Cabernet Sauvignon
+N 16 @ chianti classico
+O 17 @ Marietta Petite Syrah
+P 17 @ Sean Thackrey Sirius Petite Syrah
+Q 18 @ Lane Tanner Pinot Noir
+R 18 @ Mount Eden Vineyard Estate Pinot Noir
+S 18 @ Mountadam Pinot Noir
+T 19 @ taylor port
+U 21 @ Clos De Vougeot Cotes D Or
+V 22 @ Gary Farrell Merlot
+Z 22 @ Longridge Merlot
+W 23 @ Cotturi Zinfandel
+Y 23 @ Elyse Zinfandel
+J 23 @ Marietta Zinfandel
+K 23 @ Saucelito Canyon Zinfandel
+AA 26 @ Chateau Cheval Blanc St Emilion
+AB 27 @ Chateau Margaux
+AC 28 @ Chateau Lafite Rothschild Pauillac
+AD 33 @ Bancroft Chardonnay
+AC 33 @ Forman Chardonnay
+AD 33 @ Mount Eden Vineyard Edna Valley Chardonnay
+AE 33 @ Mountadam Chardonnay
+AF 33 @ Peter Mccoy Chardonnay
+AG 34 @ Foxen Chenin Blanc
+AH 34 @ Ventana Chenin Blanc
+AI 35 @ Selaks Ice Wine
+AL 36 @ Sevre Et Maine Muscadet
+AM 39 @ Clos De La Poussie Sancerre
+AN 40 @ Chateau D Ychem Sauterne
+AO 41 @ Corbans Private Bin Sauvignon Blanc
+AP 41 @ Corbans Sauvignon Blanc
+AQ 41 @ Selaks Sauvignon Blanc
+AR 41 @ Stonleigh Sauvignon Blanc
+AS 42 @ Congress Springs Semillon
+AT 42 @ Kalin Cellars Semillon
+AU 44 @ Chateau De Meursault Meursault
+AV 44 @ Corton Montrachet White Burgundy
+AZ 44 @ Puligny Montrachet White Burgundy
+AW 45 @ Corbans Dry White Riesling
+AY 45 @ Mountadam Riesling
+AJ 46 @ Schloss Rothermel Trochenbierenauslese Riesling
+AK 46 @ Schloss Volrad Trochenbierenauslese Riesling
+BA 55 @ pizza
+BB 56 @ cheese
+BC 56 @ nuts
+BD 57 @ cake
+BE 57 @ pie
+BF 58 @ duck
+BG 58 @ goose
+BH 59 @ grilles chicken
+BI 59 @ turkey
+BL 60 @ apple
+BM 61 @ banana
+BN 61 @ grape
+BO 61 @ mixed fruit
+BP 61 @ peach
+BQ 62 @ lamb
+BR 63 @ pork
+BS 64 @ roasr beef
+BT 64 @ steak
+BU 64 @ veal
+BV 65 @ beef curry
+BZ 65 @ garlicky roast
+BW 68 @ spaghetti with tomato sauce
+BY 69 @ fra diavolo
+BJ 70 @ fettuccine alfredo
+BK 71 @ pasta with white clam sauce
+CA 73 @ clams
+CB 73 @ crabs
+CC 73 @ lobster
+CD 73 @ mussels
+CE 73 @ oysters
+CF 74 @ flounder
+CG 74 @ halibut
+CH 74 @ scrod
+CI 75 @ salmon
+CL 75 @ swordfish
+CM 75 @ tuna
+CN 77 @ Cabernet Franc grape
+CO 77 @ Cabernet Sauvignon grape
+CP 77 @ Chardonnay grape
+CQ 77 @ Chenin Blanc grape
+CR 77 @ Gamay grape
+CS 77 @ Malbec grape
+CT 77 @ Merlot grape
+CU 77 @ Petite Syrah grape
+CV 77 @ Petite Verdot grape
+CZ 77 @ Pinot Blanc grape
+CW 77 @ Pinot Noir grape
+CY 77 @ Riesling grape
+CJ 77 @ Sauvignon Blanc grape
+CK 77 @ Semillon grape
+DA 77 @ Zinfandel grape
+DB 79 @ Bancroft
+DC 79 @ Chateau D Ychem
+DD 79 @ Chateau Lafite Rothschild
+DE 79 @ Chateau Margaux
+DF 79 @ Chateau Morgon
+DG 79 @ Clos De La Poussie
+DH 79 @ Clos De Vougeot
+DI 79 @ Congress Springs
+DL 79 @ Corbans
+DM 79 @ Corton Montrachet
+DN 79 @ cotturi
+DO 79 @ D Anjou
+DP 79 @ Elyse
+DQ 79 @ forman
+DR 79 @ foxen
+DS 79 @ Gary Farrell
+DT 79 @ handley
+DU 79 @ Kalin Cellars
+DV 79 @ Kathryn Kennedy
+DZ 79 @ Lane Tanner
+DW 79 @ Longridge
+DY 79 @ marietta
+DJ 79 @ Mount Eden Vineyard
+DK 79 @ Mountadam
+EA 79 @ Page Mill Winery
+EB 79 @ Peter Mccoy
+EC 79 @ Puligny Montrachet
+ED 79 @ Santa Cruz Mountain Vineyard
+EE 79 @ Saucelito Canyon
+EF 79 @ Schloss Rothermel
+EG 79 @ Schloss Volrad
+EH 79 @ Sean Thackrey
+EI 79 @ selaks
+EL 79 @ Sevre Et Maine
+EM 79 @ Sterling Vineyards
+EN 79 @ Stonleigh
+EO 79 @ taylor
+EP 79 @ ventana
+EQ 79 @ Whitehall Lane

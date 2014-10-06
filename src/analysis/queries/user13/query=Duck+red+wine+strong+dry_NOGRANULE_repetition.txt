@@ -1,0 +1,393 @@
+19:red wine
+17:red wine
+18:red wine
+15:red wine
+16:red wine
+13:red wine
+11:red wine
+12:red wine
+3:red wine
+20:red wine
+2:red wine
+1:red wine
+7:red wine
+6:red wine
+5:red wine
+4:red wine
+9:red wine
+8:red wine
+6:fish
+19:taylor
+15:taylor
+16:taylor
+13:taylor
+12:taylor
+2:taylor
+20:taylor
+1:taylor
+10:taylor
+5:taylor
+9:taylor
+8:taylor
+2:halibut
+15:wine grape
+17:red bordeaux
+7:red meat
+6:red meat
+5:red meat
+4:red meat
+15:red meat
+11:red meat
+12:red meat
+10:wine region
+1:wine region
+5:wine region
+15:wine region
+14:wine region
+11:wine region
+19:drink
+17:drink
+18:drink
+15:drink
+16:drink
+13:drink
+14:drink
+11:drink
+12:drink
+3:drink
+20:drink
+2:drink
+1:drink
+10:drink
+7:drink
+6:drink
+5:drink
+4:drink
+9:drink
+8:drink
+3:cabernet sauvignon grape
+5:cabernet sauvignon grape
+15:cabernet sauvignon grape
+11:cabernet sauvignon grape
+12:cabernet sauvignon grape
+2:duck
+7:duck
+5:duck
+4:duck
+17:duck
+9:duck
+16:duck
+13:duck
+14:duck
+11:duck
+12:duck
+2:dark meat fowl
+7:dark meat fowl
+5:dark meat fowl
+4:dark meat fowl
+17:dark meat fowl
+9:dark meat fowl
+16:dark meat fowl
+13:dark meat fowl
+14:dark meat fowl
+11:dark meat fowl
+12:dark meat fowl
+19:taylor port
+15:taylor port
+16:taylor port
+13:taylor port
+12:taylor port
+2:taylor port
+20:taylor port
+1:taylor port
+10:taylor port
+5:taylor port
+9:taylor port
+8:taylor port
+19:winery
+15:winery
+16:winery
+13:winery
+12:winery
+2:winery
+20:winery
+1:winery
+10:winery
+5:winery
+9:winery
+8:winery
+5:white merlot
+16:white merlot
+13:white merlot
+2:dessert
+1:dessert
+4:dessert
+2:tuna
+19:wine
+17:wine
+18:wine
+15:wine
+16:wine
+13:wine
+14:wine
+11:wine
+12:wine
+3:wine
+20:wine
+2:wine
+10:wine
+1:wine
+7:wine
+6:wine
+5:wine
+4:wine
+9:wine
+8:wine
+15:cake
+7:fruit
+5:fruit
+15:fruit
+12:fruit
+2:fowl
+7:fowl
+5:fowl
+4:fowl
+17:fowl
+9:fowl
+16:fowl
+13:fowl
+14:fowl
+11:fowl
+12:fowl
+19:consumable thing
+17:consumable thing
+18:consumable thing
+15:consumable thing
+16:consumable thing
+13:consumable thing
+14:consumable thing
+11:consumable thing
+12:consumable thing
+3:consumable thing
+20:consumable thing
+2:consumable thing
+1:consumable thing
+10:consumable thing
+7:consumable thing
+6:consumable thing
+5:consumable thing
+4:consumable thing
+9:consumable thing
+8:consumable thing
+6:non-bland fish
+7:pasta
+4:pasta
+16:forman
+4:sweet dessert
+1:merlot grape
+13:merlot grape
+17:medoc
+19:pinot blanc
+6:seafood
+19:food
+17:food
+18:food
+15:food
+16:food
+13:food
+14:food
+11:food
+12:food
+3:food
+20:food
+2:food
+1:food
+10:food
+7:food
+6:food
+5:food
+4:food
+9:food
+11:pizza
+19:chianti classico
+17:chianti classico
+18:chianti classico
+16:chianti classico
+13:chianti classico
+14:chianti classico
+11:chianti classico
+3:chianti classico
+2:chianti classico
+20:chianti classico
+1:chianti classico
+10:chianti classico
+7:chianti classico
+6:chianti classico
+5:chianti classico
+4:chianti classico
+9:chianti classico
+8:chianti classico
+7:pork
+4:pork
+18:pork
+11:pork
+16:cabernet sauvignon
+11:cabernet sauvignon
+6:salmon
+5:cabernet franc grape
+15:cabernet franc grape
+7:veal
+4:veal
+13:red zinfandel
+19:port
+17:port
+15:port
+16:port
+13:port
+14:port
+11:port
+12:port
+2:port
+20:port
+1:port
+10:port
+7:port
+6:port
+5:port
+4:port
+9:port
+8:port
+2:swordfish
+1:swordfish
+7:swordfish
+6:swordfish
+4:swordfish
+18:swordfish
+15:swordfish
+9:swordfish
+8:swordfish
+13:swordfish
+3:pinot noir grape
+9:pinot noir grape
+3:sauvignon blanc
+11:tomato-based food
+3:shellfish
+1:shellfish
+10:shellfish
+7:shellfish
+6:shellfish
+5:shellfish
+4:shellfish
+17:shellfish
+8:shellfish
+14:shellfish
+15:grape
+7:meat
+6:meat
+5:meat
+4:meat
+18:meat
+15:meat
+14:meat
+11:meat
+12:meat
+12:margaux
+1:muscadet
+10:chenin blanc grape
+6:chenin blanc grape
+17:chenin blanc grape
+9:chenin blanc grape
+2:bland fish
+4:pinot noir
+13:pinot noir
+15:steak
+15:sweet fruit
+12:sweet fruit
+17:semillon
+17:zinfandel grape
+16:sauvignon blanc grape
+7:white meat
+6:white meat
+5:white meat
+4:white meat
+18:white meat
+11:white meat
+12:chateau margaux
+12:peach
+3:lobster
+1:lobster
+10:lobster
+7:lobster
+6:lobster
+5:lobster
+4:lobster
+17:lobster
+8:lobster
+14:lobster
+7:lamb
+5:lamb
+4:lamb
+11:lamb
+20:pie
+13:white zinfandel
+3:chenin blanc
+6:cabernet franc
+5:cabernet franc
+12:banana
+19:chianti
+19:dessert wine
+17:dessert wine
+15:dessert wine
+16:dessert wine
+13:dessert wine
+14:dessert wine
+11:dessert wine
+12:dessert wine
+20:dessert wine
+2:dessert wine
+1:dessert wine
+10:dessert wine
+7:dessert wine
+6:dessert wine
+5:dessert wine
+4:dessert wine
+9:dessert wine
+8:dessert wine
+5:red merlot
+4:red merlot
+18:red merlot
+16:red merlot
+13:red merlot
+11:red merlot
+19:wine_ontology
+17:wine_ontology
+18:wine_ontology
+15:wine_ontology
+16:wine_ontology
+13:wine_ontology
+14:wine_ontology
+11:wine_ontology
+12:wine_ontology
+3:wine_ontology
+20:wine_ontology
+2:wine_ontology
+1:wine_ontology
+10:wine_ontology
+7:wine_ontology
+6:wine_ontology
+5:wine_ontology
+4:wine_ontology
+9:wine_ontology
+8:wine_ontology
+15:non-spicy red meat
+5:rose wine
+16:rose wine
+13:rose wine
+1:white wine
+6:white wine
+19:white wine
+5:white wine
+17:white wine
+16:white wine
+13:white wine
+10:white bordeaux

@@ -1,0 +1,13 @@
+#nomecategoria:2,4,2
+bordeaux:7
+cabernet:2
+cabernet,sauvignon:1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20
+delicate:4,19
+merlot:2
+napa:1,18
+napa,valley:7,16
+sweet:19
+syrah:19
+tannin:10
+vineyard:6,9,13
+wine:3

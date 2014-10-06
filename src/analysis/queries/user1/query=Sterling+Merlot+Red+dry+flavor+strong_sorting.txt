@@ -1,0 +1,51 @@
+#nomecategoria:2,4,2
+#body:10,19
+#cabernet:12
+#cabernet sauvignon:4
+#chardonnay:3
+#cheese:1
+#chianti:17
+#chianti,classico:8
+#color:17
+#dry:1,5,8,9,10,11,12
+#flavor:2,4,8,15
+#france:1
+#fruit:1
+#full:4,15
+#grape:1
+#light:14
+#medium:9,10,19
+#merlot:1,2,3,5,7,10,11,12,13,15,17,19
+#napa,valley:17
+#pinot,noir:9
+#red:1,2,3,4,5,14,15,17,18,19
+#sterling,cabernet:6
+#sterling,merlot:6,9,18,20
+#strong:2,4,8,19
+#valley:4,15
+#vineyard:11
+#white:12
+#wine:1,5,7,12,14,16,18,20
+#winery:4
+(body,medium) flavor (sweet,sugar):2
+(chianti,classico):8
+(color,colour):17
+(full,medium) strong dry:1
+(medium,full) (delicate,strong) dry:19
+(medium,light) moderate dry:12
+(mountadam,pinot,noir):9
+(napa,valley):17
+(page,mill,winery,cabernet,sauvignon):4
+(sterling,cabernet,sauvignon):6
+(sterling,chardonnay):3
+(sterling,merlot):3,5,6,7,9,10,18,20
+cheese:1
+fruit:1
+full (strong,moderate) dry:4,5,8,15
+light dry (delicate,moderate):14
+medium (delicate,moderate) dry:9,10
+red:1,2,3,4,5,11,14,15,17,18,19
+semillon grape:12
+white:12
+wine:1,5,7,12,13,14,16,18,20
+

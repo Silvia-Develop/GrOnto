@@ -1,0 +1,180 @@
+Apple
+Banana
+bancroft
+beaujolais
+Beef curry
+bin
+blanc
+Bland
+body
+bordeaux
+burgundy
+cabernet
+cabernet sauvignon grape
+Cake
+canyon
+cellars
+chardonnay
+chardonnay grape
+chateau
+Cheese dessert
+chenin
+cheval
+chianti
+Clams
+classico
+clos
+color
+colour
+congress
+corbans
+corton
+cotes
+cotturi
+Crabs
+cream
+cruz
+Dark
+delicate
+Dessert
+d'or
+dry
+Duck
+eden
+edna
+emilion
+estate
+farrell
+Fettucine Alfredo
+Fish
+flavor
+Flounder
+food
+forman
+Fowl
+foxen
+Fra Diavolo
+franc
+Fruit
+full
+gamay grape
+Garlicky roast
+gary
+german
+Goose
+Grape
+Grilled chicken
+Halibut
+ice
+kalin
+lafite
+Lamb
+lane
+light
+Lobster
+location
+longridge
+low
+maine
+margaux
+marietta
+marker
+mccoy
+Meat
+medium
+merlot
+meursault
+mill
+Mixed fruit
+moderate
+montrachet
+morgon
+mount
+mountadam
+mountain
+muscadet
+Mussels
+napa
+noir
+Non-bland
+Non-spicy
+Non-sweet
+Nuts dessert
+off-dry
+Oysters
+page
+Pasta
+Pasta clam sauce
+pauillac
+Peach
+peter
+petite
+Pie
+pinot
+Pork
+port
+poussie
+primavera
+private
+producer
+puligny
+red
+riesling
+riesling grape
+Roast beef
+rothermel
+rothschils
+Salmon
+sancerre
+santa
+santa cruz montain
+sauce
+saucelito
+sauterne
+sauvignon
+schloss
+Scrod
+Seafood
+sean
+selaks
+semillon
+semillon grape
+sevre
+Shellfish
+sirius
+slese
+Spaghetti
+Spicy
+springs
+st
+Steak
+sterling
+sterling merlot
+stonleigh
+strong
+sugar
+sweet
+Swordfish
+syrah
+tanner
+tannic
+tannin
+taylor
+thackrey
+Tomato
+trochenbierenau
+Tuna
+Turkey
+valley
+Veal
+ventana
+vineyard
+volrad
+vougeoy
+white
+whitehall
+wine
+winery
+ychem
+ychem sauterne
+zinfandel

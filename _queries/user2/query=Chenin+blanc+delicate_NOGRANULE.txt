@@ -1,0 +1,52 @@
+10:sauvignon blanc grape
+14:fruit
+7:fruit
+10:sauvignon blanc
+9:chenin blanc grape
+10:chenin blanc grape
+17:chenin blanc grape
+6:chenin blanc grape
+9:wine grape
+10:wine grape
+17:wine grape
+17:food
+9:white wine
+12:white wine
+10:white wine
+2:white wine
+11:unclassified
+9:grape
+10:grape
+17:grape
+6:grape
+9:chenin blanc
+12:chenin blanc
+10:chenin blanc
+16:chenin blanc
+13:chenin blanc
+17:chenin blanc
+18:chenin blanc
+5:chenin blanc
+8:chenin blanc
+15:chenin blanc
+4:chenin blanc
+14:chenin blanc
+7:chenin blanc
+2:chenin blanc
+20:chenin blanc
+1:chenin blanc
+3:chenin blanc
+6:chenin blanc
+19:chenin blanc
+9:wine
+12:wine
+10:wine
+16:wine
+13:wine
+17:wine
+18:wine
+4:wine
+14:wine
+2:wine
+20:wine
+19:wine

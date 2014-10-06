@@ -1,0 +1,57 @@
+#nomecategoria:2,4,2
+1:red
+1:wine
+1:vineyard
+2:red
+2:colour
+2:full
+2:body
+3:roast beef
+4:red
+4:bordeaux
+4:cabernet,sauvignon
+5:wine
+5:delicate
+5:roast beef
+6:wine
+6:dry
+6:red
+7:wine
+7:roast beef
+8:food
+8:full
+8:body
+8:roast beef
+9:food
+9:wine
+9:medium
+9:body
+10:food
+10:wine
+10:riesling
+11:grape
+12:full
+12:body
+12:red
+12:wine
+13:bordeaux
+13:cabernet,sauvignon
+13:tannin
+14:wine
+14:red
+15:roast beef
+15:red
+15:cabernet,sauvignon
+16:food
+16:wine
+17:bordeaux
+17:roast beef
+18:red
+18:bordeaux
+18:full
+18:body
+19:red
+19:wine
+20:bordeaux
+20:red
+20:wine

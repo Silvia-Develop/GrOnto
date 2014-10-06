@@ -1,0 +1,23 @@
+#nomecategoria:2,4,2
+#cabernet:6
+#cabernet,sauvignon:13
+#france:8,15
+#grape:1,6,11,14,20
+#light:7
+#merlot:17
+#red:1,2,3,4,6,7,10,11,12,14,15,19,20
+#sauvignon,blanc:4
+#syrah:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20
+#valley:19
+#white:16
+#wine:1,2,3,4,5,6,8,9,10,14,15,19,20
+#winery:13
+#zinfandel:6
+(page,mill,winery,cabernet,sauvignon):13
+(stonleigh,sauvignon,blanc):4
+(zinfandel,grape):6
+cabernet sauvignon:13
+grape:11,14,20
+red:1,2,3,4,6,7,10,11,12,14,15,17,18,19,20
+white:16
+wine:1,2,3,4,5,6,8,9,10,14,15,17,19,20

@@ -1,0 +1,194 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:wine
+1:duck
+1:pork
+#title: <font class="result_title">Red Wines - Wine</font><br>
+#abstract: 
+# Red wines come in many different styles and varieties. - Red Wines - Wine is a personally written site at BellaOnline ... These wines 
+# offer a lighter touch and often fruity flavors that are perfect for duck or pork dishes. Medium-Bodied--These wines have moderate tanins. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:red
+2:tannin
+#title: <font class="result_title">Epicurean: Wine Tastings - Miscellaneous Red Wines</font><br>
+#abstract: 
+# A medium-bodied wine packed with dried prune and jammy boysenberry fruit, medium body, moderate tannin, and a spicy finish. ... A blend 
+# of two Portuguese varieties, Tinta Roriz and Touriga Nacional, this is a red wine with soft tannins and plum-like flavors. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+3:medium
+3:body
+#title: <font class="result_title">D'Vine Wine :: Wine List</font><br>
+#abstract: 
+# A medium bodied red, easy to drink, that can be slightly chilled. Savory fruit aromas combine blueberries with hints of cedar and pepper notes - flavor follow suit 
+# with a hint of oak. This wine pairs well with chicken, pork, and lamb, as well as with a variety of pastas with light sauces. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:pork
+4:red
+4:wine
+4:food
+#title: <font class="result_title">Pot-Roasted Pork Loin in Red Wine Recipe - Nancy Harmon ...</font><br>
+#abstract: 
+# A recipe for Pot-Roasted Pork Loin in Red Wine. Dishes 
+# created by Food %26 Wine Magazine and top chefs. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:pork
+#title: <font class="result_title">Recipes - Thai Red Pork Curry - Dean %26 DeLuca</font><br>
+#abstract: 
+# 2. In a heavy Dutch oven over moderate heat add 1/4 cup red curry paste and the pork and cook for 2 minutes, until pork is evenly 
+# coated. 3. Add the coconut milk, bring to a boil, and cook at a medium boil for 10 minutes. Bring to a simmer, add ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:light
+6:medium
+6:body
+#title: <font class="result_title">Food and Wine Pairing</font><br>
+#abstract: 
+# Subtle to moderate. Texture. Light to medium-bodied, silky, generally soft tannins. ... Merlot pairs well 
+# with red meats. It has the weight and fruit to match wine-braised stews ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+#title: <font class="result_title">Channing Daughters Winery</font><br>
+#abstract: 
+# The website of Channing Daughters, an organization committed to the care of 
+# our grapevines and the quality of wine in the bottle 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:medium
+8:full
+8:body
+#title: <font class="result_title">Village VQA Wines - Pairing Wine Varietals</font><br>
+#abstract: 
+# Village VQA Wines features the best of BC VQA wines at Government Liquor store prices ... Intensity: Moderate to assertive. Texture: Medium to full-boded; can be tannic. 
+# Sweetness: Dry. Merlot is the red wine for red meats. It has the weight and fruit to match wine-braised stews and roasts, and the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:pinot,noir
+9:food
+#title: <font class="result_title">Pinot Noir Food Pairings Wine Education Tastings Tips Gayot</font><br>
+#abstract: 
+# The latest information for the wine and spirits enthusiast, including rating new releases, wine of the week 
+# selections, wine, beer and spirit recommendations, news, reviews, recipes, products, accessories, books and feature articles. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:pork
+#title: <font class="result_title">Tuscan Pork Stew with Polenta Recipe - Joe Sponzo | Food %26 Wine</font><br>
+#abstract: 
+# Il Palagio's forests are home to packs of wild boar, which Paolo hunts and Sponzo turns into a rustic, wine-based stew that gets 
+# served on top of buttery polenta. For cooks who don't have easy access to this "gamey beast," as Sponzo calls it, 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:red
+11:wine
+11:grape
+#title: <font class="result_title">The Remarkable Health Benefits of Red Wine</font><br>
+#abstract: 
+# Some researchers claim that the positives of drinking red wine go beyond cardiovascular benefits. A number of studies have discovered 
+# that an antioxidant concentrated in the skin of the grape, resveratrol, may actually help inhibit the growth of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cheese
+12:pork
+12:red
+12:wine
+#title: <font class="result_title">Recipe | Goat Cheese Stuffed Pork Tenderloin With Red Wine ...</font><br>
+#abstract: 
+# Recipe for Goat Cheese Stuffed Pork Tenderloin With 
+# Red Wine Balsamic Cherry Sauce on NatalieMaclean.com 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:food
+13:red
+13:wine
+#title: <font class="result_title">LearnVino - Food Pairings</font><br>
+#abstract: 
+# It's a red wine, with moderate degrees of tannin (the stuff derived from the skins and ... But the tannin of Pinot Noir is also very soft, very 
+# tender, making this usually a very sleek, smooth, easy drinking red wine that goes just as well with white meats like fish, veal, pork and chicken. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:food
+14:body
+14:medium
+14:full
+#title: <font class="result_title">Highlander Wine %26 Spirits</font><br>
+#abstract: 
+# Medium. Food Pairings: Meat of vegetable lasagna, lamb, chicken, duck, baked ham, pork ... 
+# Low to moderate. Body: Medium to full. Food Pairings: Pork, lamb chops ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+15:tannin
+#title: <font class="result_title">Select Wines</font><br>
+#abstract: 
+# Red fruit (strawberry, red berry), vegetal (cedar), medium acid, higher tannins (moderate 
+# ... cherry), vegetal (mushroom), medium/high acidity, low/medium tannins (moderate climate) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:red
+#title: <font class="result_title">Frequently Asked Questions about Rias Baixas Wines</font><br>
+#abstract: 
+# Indeed, Spain has many famous red wine regions. However, it is in this cool, maritime ... red 
+# wine from R%C3%ADas Baixas? While some red varieties are grown, almost 99% of the wines ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:zinfandel
+17:red
+#title: <font class="result_title">Beginner's Wine Guide | Callifornia Wine</font><br>
+#abstract: 
+# The beginners guide to wine. All the wine facts a beginner needs to know on just one page. ... Pinot Noir - Red wine, 
+# goes with moderate to heavy foods. Zinfandel - Red wine, pizza, pastas, red meats. Merlot - Red wine, beef, pork, lamb. Cabernet ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:syrah
+#title: <font class="result_title">Epicurean: Wine Tastings - Syrah / Shiraz</font><br>
+#abstract: 
+# A magazine for Food and Wine Lovers on the Internet ... Plummy fruity with spicy cinnamon 
+# and red licorice tones, medium body, moderate tannin, and an extremely long warm finish. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:flavor
+19:strong
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# body NON-SPICY-RED-MEAT (all appropriate-drink (fills body Medium))) (createRule non-spicy-red-meat-wine-flavor NON-SPICY-RED-MEAT (all 
+# appropriate-drink (all flavor (oneOf Strong Moderate)))) (createRule non-spicy-red-meat-wine-sugar NON-SPICY ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:food
+#title: <font class="result_title">Good Food Nelson - Mediterranean Foods Nelson</font><br>
+#abstract: 
+# We offer specialty foods, from Europe and the world, at competitive prices to customers in Nelson and the Tasman, Marlborough and West Coast regions. ... 3 lb boneless 
+# pork loin. 1 medium yellow onion, finely chopped. 2 lb thinly sliced red cabbage. 2 lb small new potatoes. 3 medium tart green apples. 2 ... 

@@ -1,0 +1,189 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:sweet
+1:dessert
+1:wine
+1:food
+#title: <font class="result_title">Sweet Dessert Wines</font><br>
+#abstract: 
+# Alexander Hadleigh stock a wide range of Sweet Dessert Wines that are a perfect food and wine companions made in heaven, Dessert 
+# Wines are back in vogue and rightly so, browse through our selection online and find the right one for you 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:dessert
+2:wine
+#title: <font class="result_title">Dessert Wines %3D Potions for Adults "</font><br>
+#abstract: 
+# All are very sweet, but the craft of creating luscious desserts is lost on kids, even if they enjoy the flavors. ... The finest have delicate, enjoyable 
+# qualities or powerfully deep flavors. Many have historical significance. To ignore them as a wine drinker is to deny yourself some of the most unique ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:dessert
+3:wine
+#title: <font class="result_title">Dessert Wines - Non-Fortified Wine Production</font><br>
+#abstract: 
+# Musings on the Vine was conceived with a few very simple goals. One, to share my passion and excitement of wine with anyone 
+# who cares to listen, and by doing so engender similar excitement in others. Two, to strip away the mysteries surrounding ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:sweet
+4:riesling
+4:dessert
+4:wine
+#title: <font class="result_title">wine-varieties.Neo</font><br>
+#abstract: 
+# ... sweet-riesling-dessert-wine SWEET-RIESLING DESSERT-WINE) ;(createRule ... Delicate)) ;LOIRE (createConcept LOIRE (and WINE 
+# (fills region Loire))) (createConcept WHITE-LOIRE (and LOIRE WHITE-WINE)) (createRule white-loire ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:sweet
+5:dessert
+#title: <font class="result_title">EWGA Wine Merchant | Wine Gifts, Fine Wine Storage ...</font><br>
+#abstract: 
+# Independent Wine Merchant, Corporate Wine Gifts, Fine Wine Storage, Riedel Glassware ... Coteaux du Layon, Domaine Langlois Chateau, Loire. This wine is not a typical 
+# sweet dessert wine and can be very successfully served chilled as an aperitif, with foie gras, or with starters such as fish in ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:dessert
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# fruit-wine-flavor NON-SWEET-FRUIT (all appropriate-drink (fills flavor Delicate))) (createRule non-sweet-fruit-wine-sugar NON-SWEET-FRUIT (all 
+# appropriate-drink (fills sugar Off-Dry))) ; DESSERTS (createRule dessert-appropriate-drink-body DESSERT ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:dessert
+7:wine
+7:food
+#title: <font class="result_title">Dessert : Wine and Food - a guideline : How to Enjoy Wine ...</font><br>
+#abstract: 
+# The Wine Society : Explore Wine : How to Enjoy Wine : Wine and Food - a guideline : Dessert ... 
+# Strawberries and cream Sweet Champagne, Sparkling Red Loire, Sauternes, Vouvray Moelleux. Summer pudding Setubal, Australian Liqueur Muscat, Austrian ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:sweet
+8:dessert
+8:wine
+#title: <font class="result_title">-SWEET / DESSERT WINES-</font><br>
+#abstract: 
+# Succulent dessert wine with a touch of sparkle, lush with Lemon Tart. Giardini Arimei, Ischia, Campania. N.V. %C2%A338.00 (500ml) Made on the island of Ischia this 
+# medium sweet wine offers incredible elegant and complex flavours, packed ... of Philip Germain, the very best dessert wines from the Loire, Chenin ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:dessert
+9:wine
+9:loire
+9:valley
+#title: <font class="result_title">Moncontour - Dessert wines</font><br>
+#abstract: 
+# Vouvray wine description and description of Chateau moncontour, its cellar and wine museum ... The Nectar of Moncontour is the king of Moncontour's dessert wines. It is 
+# produced only during the best vintages of the Loire Valley like 1990, 1997, 2003 or 2005. 2005's Nectar has been harvested the 23rd and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:cabernet
+#title: <font class="result_title">Wine.com - Our Most Popular Wines This Week</font><br>
+#abstract: 
+# Wine.com - Most Popular Wines This Week - Our top selling list. ... In the same district, Cabernet Franc makes delicious, delicate and elegant reds from 
+# Bourguil and Chinon. Finally, in the Upper Loire area, Sancerre and Pouilly Fumé turn out Sauvignon Blancs of razor sharp acidity and minerality. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:food
+11:wine
+#title: <font class="result_title">Gourmet Food - THE NIBBLE - Wines for Thanksgiving Dinner</font><br>
+#abstract: 
+# This article recommends wines for Thanksgiving dinner. THE NIBBLE(tm), Great Food Finds, is an online magazine and opt-in newsletter 
+# about gourmet foods that reports on the best specialty foods. Opt-in newsletter delivers a weekly top gourmet ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:sweet
+12:chateau
+12:wine
+#title: <font class="result_title">The sweet and lowdown - Telegraph</font><br>
+#abstract: 
+# If fabulously expensive Sauternes is beyond your reach, France has many other dessert wines to offer. Andrew Catchpole reports ... 1999 Bonnezeaux, Loire, France (50cl, 
+# %C2%A323.49, Oddbins) Ah yes, the price. But the sweet wines of Chateau de Fesles are simply sublime. At once delicate and full of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ... wine-property (one-of sweet off-dry dry))) (cl-populate 'wine-color '(white rose red) ... 
+# populate 'wine-flavor '(delicate moderate strong)) (cl-populate 'wine-sugar '(sweet off ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+#title: <font class="result_title">Tony Aspler: The Wine Guy</font><br>
+#abstract: 
+# Tony Aspler dot com (The Wine Guy) is the world's most comprehensive and practical wine web site from one of the worlds 
+# most recognized wine authorities. We provide a wine database with wine ratings and descriptions for wines that are currently ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+15:food
+#title: <font class="result_title">Wine Lovers' Page: The Happy Marriage of Food and Wine</font><br>
+#abstract: 
+# Robin Garr's Wine Lovers' Page is an ideal starting point for wine lovers on the Web! It's a 'snob-free zone' for straight talk 
+# in plain English about wine tasting. Frequently updated notes and advice on wines of good value are backed by an ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:red
+16:dessert
+16:wine
+#title: <font class="result_title">Pineau des Charentes, Red Dessert Wine,</font><br>
+#abstract: 
+# Products " Wines Online " Dessert Wine " Pineau des Charentes, Red Dessert Wine, ... Cognac,France. Delicate with distinguished aromas of blackberry,blackcurrant,honey. 
+# Round and rich with deep intense colour. Back to Previous Page %C2%A92009 Alexander Hadleigh Wine Merchants %26 Importers Ltd. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:france
+17:loire
+17:valley
+#title: <font class="result_title">France - Loire Valley (Anjou %26 Saumur) - Christopher Piper ...</font><br>
+#abstract: 
+# Gorgeous and outstanding sweet wine that's perfectly balanced. Victor and Vincent Lebreton have won first and second places in the Decanter magazine sweet Loire wine 
+# competitions and it is easy to see why. ... gentle, delicate acidity. Drink now until 2020. The complexity of these sweet Chenin ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:grape
+#title: <font class="result_title">(in-package :USER) THE WINE VARIETIES general varieties (by grape)...</font><br>
+#abstract: 
+# ... riesling%7D '(fills flavor delicate)) (cl-define-concept 'sweet-riesling '(and riesling (fills sugar 
+# sweet))) (cl-add-rule 'sweet-riesling-dessert-wine %40c%7Bsweet-riesling%7D 'dessert-wine) ;(cl-add-rule 'sweet-riesling-color %40c%7Bsweet-riesling%7D '(fills ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:sweet
+#title: <font class="result_title">The Wine Country</font><br>
+#abstract: 
+# The most celebrated sweet wine in France should be consumed with Rocquefort cheese, foie gras, steamed lobster or even roast chicken, he said, but never 
+# with a dessert. The reason is that desserts compete with the delicate sweetness and complexity in Yquem, one of the world's greatest wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+#title: <font class="result_title">Light %26 Sweet Club | Wine Gift | Online Wine Store - Vinesse ...</font><br>
+#abstract: 
+# Find a Wine Club, Wine Gift, or a variety of Wine. Buy Wine online with 
+# Vinesse, the better way to discover and learn about the fabulous world of wine. 

@@ -1,0 +1,114 @@
+6:white
+14:white
+8:white
+7:white
+11:(sterling,merlot)
+11:(longridge,merlot)
+1:(corbans,dry,white,riesling)
+12:(corbans,dry,white,riesling)
+6:(corbans,dry,white,riesling)
+14:(corbans,dry,white,riesling)
+9:(corbans,dry,white,riesling)
+11:(corbans,dry,white,riesling)
+8:(corbans,dry,white,riesling)
+16:(corbans,dry,white,riesling)
+3:(corbans,dry,white,riesling)
+7:(corbans,dry,white,riesling)
+15:(corbans,dry,white,riesling)
+17:(corbans,dry,white,riesling)
+4:(saucelito,canyon,zinfandel)
+15:(full,medium) strong dry
+17:(full,medium) strong dry
+1:bordeaux
+15:full (strong,moderate) dry
+17:full (strong,moderate) dry
+18:(selaks,ice,wine)
+4:(selaks,ice,wine)
+2:(selaks,ice,wine)
+1:(selaks,ice,wine)
+10:(selaks,ice,wine)
+12:(selaks,ice,wine)
+6:(selaks,ice,wine)
+14:(selaks,ice,wine)
+19:(selaks,ice,wine)
+9:(selaks,ice,wine)
+11:(selaks,ice,wine)
+20:(selaks,ice,wine)
+16:(selaks,ice,wine)
+5:(selaks,ice,wine)
+3:(selaks,ice,wine)
+7:(selaks,ice,wine)
+15:(selaks,ice,wine)
+17:(selaks,ice,wine)
+13:(selaks,ice,wine)
+2:red
+1:red
+10:red
+12:red
+6:red
+14:red
+9:red
+11:red
+20:red
+5:red
+3:red
+15:red
+17:red
+13:red
+4:(body,medium) flavor (sweet,sugar)
+19:(body,medium) flavor (sweet,sugar)
+4:moderate
+19:moderate
+8:moderate
+4:body flavor (sweet,sugar)
+19:body flavor (sweet,sugar)
+4:(zinfandel,grape)
+20:(zinfandel,grape)
+19:(taylor,port)
+20:(taylor,port)
+11:(color,colour)
+15:(color,colour)
+20:grape
+6:(puligny,montrachet,white,burgundy)
+14:(puligny,montrachet,white,burgundy)
+8:(puligny,montrachet,white,burgundy)
+7:(puligny,montrachet,white,burgundy)
+18:wine
+4:wine
+2:wine
+1:wine
+10:wine
+12:wine
+6:wine
+14:wine
+19:wine
+9:wine
+11:wine
+20:wine
+16:wine
+5:wine
+3:wine
+7:wine
+15:wine
+17:wine
+13:wine
+9:(tannic,tannin)
+20:(cabernet,franc,grape)
+11:(gary,farrell,merlot)
+6:(corton,montrachet,white,burgundy)
+14:(corton,montrachet,white,burgundy)
+8:(corton,montrachet,white,burgundy)
+7:(corton,montrachet,white,burgundy)
+12:(medium,full) (delicate,strong) dry
+15:(medium,full) (delicate,strong) dry
+17:(medium,full) (delicate,strong) dry
+4:(marietta,zinfandel)
+4:(cotturi,zinfandel)
+7:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+15:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+17:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+4:body moderate sugar
+19:body moderate sugar
+11:(chianti,classico)
+15:(full,medium) (moderate,strong) dry
+17:(full,medium) (moderate,strong) dry

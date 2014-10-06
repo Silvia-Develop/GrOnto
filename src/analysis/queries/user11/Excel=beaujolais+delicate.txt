@@ -1,0 +1,32 @@
+1:(chateau,morgon,beaujolais)
+1:medium (delicate,moderate) dry
+1:(tannic,tannin)
+2:(mountadam,pinot,noir)
+3:medium (delicate,moderate) dry
+3:wine
+4:(chateau,morgon,beaujolais)
+5:(chateau,morgon,beaujolais)
+5:medium (delicate,moderate) dry
+6:(chateau,morgon,beaujolais)
+7:(chateau,morgon,beaujolais)
+7:red
+7:wine
+8:(chateau,morgon,beaujolais)
+8:light dry (delicate,moderate)
+9:wine
+10:(chateau,morgon,beaujolais)
+10:light dry (delicate,moderate)
+11:(chateau,morgon,beaujolais)
+11:gamay grape
+12:wine
+12:cabernet sauvignon
+13:(chateau,morgon,beaujolais)
+14:red
+14:wine
+15:(chateau,morgon,beaujolais)
+16:(stonleigh,sauvignon,blanc)
+17:(color,colour)
+18:(color,colour)
+18:food
+19:(stonleigh,sauvignon,blanc)
+20:(stonleigh,sauvignon,blanc)

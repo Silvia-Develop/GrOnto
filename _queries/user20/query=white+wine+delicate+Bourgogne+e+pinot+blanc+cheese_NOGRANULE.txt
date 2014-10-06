@@ -1,0 +1,82 @@
+19:fruit
+6:wine
+11:wine
+18:wine
+5:wine
+10:wine
+4:wine
+2:wine
+8:wine
+15:wine
+20:wine
+1:wine
+17:wine
+3:wine
+7:wine
+9:wine
+14:wine
+13:wine
+19:wine
+16:wine
+12:wine
+10:pinot noir
+2:pinot noir
+1:pinot noir
+2:white zinfandel
+4:pinot blanc grape
+6:white wine
+11:white wine
+18:white wine
+2:white wine
+20:white wine
+1:white wine
+3:white wine
+9:white wine
+14:white wine
+19:white wine
+4:pinot blanc
+2:pinot blanc
+1:pinot blanc
+7:pinot blanc
+14:pinot blanc
+18:grape
+5:grape
+4:grape
+11:red wine
+18:red wine
+10:red wine
+2:red wine
+20:red wine
+13:red wine
+16:red wine
+12:red wine
+18:wine grape
+5:wine grape
+4:wine grape
+8:wine region
+18:meat
+2:white bordeaux
+2:red zinfandel
+2:red bordeaux
+18:fish
+19:fish
+18:white meat
+18:red meat
+7:peach
+11:veal
+10:pork
+19:pork
+6:sauvignon blanc
+5:sauvignon blanc
+2:sauvignon blanc
+14:sauvignon blanc
+11:food
+18:food
+5:food
+8:food
+15:food
+17:food
+14:food
+19:food
+12:food
+5:sauvignon blanc grape

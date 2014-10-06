@@ -1,0 +1,17 @@
+#nomecategoria:2,4,2
+beef:15
+cabernet sauvignon:11
+cheese:1,2,12
+(chianti,classico):8
+(color,colour):13
+dessert:9
+fish:9
+fruit:6
+german:20
+grape:4,7
+pasta:1
+(mountadam,pinot,noir):2
+pork:1
+red:2,3,6,11,13,15,16,17,18,20
+(tannic,tannin):6
+wine:1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19

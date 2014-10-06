@@ -1,0 +1,209 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:red
+1:dry
+1:france
+#title: <font class="result_title">Wine Wise - Red Dry Wines</font><br>
+#abstract: 
+# The most widely used red dry type of wine is Claret, which originated in France. In the Department of the Gironde are the 
+# Bordeaux Wine provinces, perhaps the most famous wine district in the world. The best Clarets are made mainly in four ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:full
+2:body
+2:strong
+#title: <font class="result_title">FONKO WINES - Wines</font><br>
+#abstract: 
+# Its exquisite structure and full body with tasteful complex include as well hues of red fruits, oak, vanilla 
+# and chocolate. ... alive, rich and full. The wine is with strong body, yet soft and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:sweet
+3:red
+3:medium
+3:body
+3:wine
+#title: <font class="result_title">Sweet Red Medium Body Red Wine</font><br>
+#abstract: 
+# Sweet red medium body red wine Dry ruby red wine with an elegant fruity aftertaste of an engaging medium-bodied wine with 
+# a spicy, newborn cardigan nitting patterns free robustly fruity and a full sparkling, sumana sex naturally sweet wine made ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:zinfandel
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... (createRule zinfandel-body ZINFANDEL (all body (oneOf Full Medium))) (createRule zinfandel-flavor ZINFANDEL (all flavor (oneOf 
+# Moderate Strong))) (createRule zinfandel-sugar ZINFANDEL (fills sugar Dry)) (createConcept MERLOT-WINE (and WINE (fills ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:full
+5:body
+#title: <font class="result_title">DOLUCA, World Famous Turkish Wine</font><br>
+#abstract: 
+# A full, strong body mellowed in oak, soft and homogenous yet still ... A full bodied red wine, with strong varietal character made from the "Cinsault" and 
+# "Karasakiz" grapes grown in the Marmara region. A certain amount of "Bogazkere" from eastern Anatolia is added to make it more rich and robust. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:flavor
+6:wine
+6:red
+6:white
+#title: <font class="result_title">Wine tips: choosing wines for meals</font><br>
+#abstract: 
+# A guide to selecting the correct bottle to match your dinner choice. Information on vintage and flavor. ... Were you a 
+# wine connoisseur, you'd always know whether to serve red or white wine, have full knowledge of their characteristics ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:sweet
+7:full
+7:body
+#title: <font class="result_title">Winexpert wine kits</font><br>
+#abstract: 
+# Gewrztraminer is quite full-bodied, more so than most any other white wine type and the combination of its strong and heady perfume, exotic lychee flavour 
+# and rich texture make it a powerful wine with an intense and memorable finish. Sweetness: Off-Dry | Body: Medium | Oak Intensity: None ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:flavor
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ( cl-define-concept 'wine-color '(and wine-property (one-of white rose red))) (cl-define-concept 'wine-body '(and wine-property (one-of 
+# light medium full))) (cl-define-concept 'wine-flavor '(and wine-property (one-of delicate moderate strong))) (cl ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:wine
+9:red
+9:full
+9:body
+#title: <font class="result_title">Musca Wine Pressing and Supplies Limited: Vintage Reserve Reds</font><br>
+#abstract: 
+# Barolo Style - is slightly fruity, with masses of tannin and body. Barolo remains a serious, solid mouthful of wine. This variety will be a full bodied, dry 
+# wine, that with some age will develop a nice smooth finish. Optional ... Red wines are considered to be full bodied, dry red dinner wines with ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:red
+10:wine
+10:flavor
+10:body
+#title: <font class="result_title">How To Learn About Types of Red Wine | How To Do Things.com</font><br>
+#abstract: 
+# Red wine goes with beef, right? If I stick to that rule my wine choice will be fine, won't it? To simplify wine in this 
+# way is to ignore the vast complexity and variety of flavor, body and bouquet. Wine by itself is complex enough to intimidate ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:full
+11:dry
+11:red
+11:body
+#title: <font class="result_title">GIANBIAZ Restaurant - Wine List</font><br>
+#abstract: 
+# Full, soft and spicy. Chianti Flask - %C2%A310.95 (%2B1/2) %C2%A319.95 (Medium dry) Toscana A dry lively but soft ruby red wine. Barbera - 
+# %C2%A317.95 (Dry) Piemonte A smooth and extremely palatable dry red, rich in colour and body. Merlot - %C2%A319.95 (Dry) Friuli. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:delicate
+12:red
+#title: <font class="result_title">Vintner's Cellar Franchising Intl.</font><br>
+#abstract: 
+# (Sweetness: Dry * Body: Full * Oak: Heavy *addition: R Aging: 12-18 months) BERGAMAIS (Beaujolais) This supple, fruity and delicate red wine is 
+# best consumed young. Cherries and plums fill the nose and the sweet cherry follows through the mouth where it lingers. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:full
+13:body
+13:red
+#title: <font class="result_title">Dejazar Wine Bar, Kusadasi - Wine List</font><br>
+#abstract: 
+# A full, strong body mellowed in oak, soft and homogenous yet still reflecting the varietal characters of the grapes used. ... A full bodied red 
+# wine, with strong varietal character made from the "Cinsault" and "Karasakiz" grapes grown in the Marmara region. A certain amount of "Bogazkere" from ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:chianti
+#title: <font class="result_title">Italian Flavor Consortium: Italian Wine, Italian Wine Forum ...</font><br>
+#abstract: 
+# Italian Flavor Consortium, Italian Wine Forum, Italian wine, Italian Wine Forum, wine, red wine, white wine, DOC 
+# wines, chianti, amarone, brunello, brunello di Montalcino, primitivo, montepulciano d'Abruzzo, barolo, barbera, Taurasi, salice ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:red
+15:wine
+15:full
+15:strong
+15:body
+#title: <font class="result_title">Great Italian Red Wines</font><br>
+#abstract: 
+# The Barolo Bricco Rocche Ceretto has a grananulated red color and a aroma that is strong and long-lasting. Dry and harmonic, this wine is quite subdued and 
+# goes quite well with a great variety of dishes. ... The wine has a full and strong body with good substance, but is soft, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:dry
+16:strong
+16:body
+#title: <font class="result_title">Weinkellerei Lenz Moser - Lenz Moser litre wines</font><br>
+#abstract: 
+# Quality wine, dry. Wine growing area Burgenland. Dark ruby red, fine fragrance of black 
+# ... strong body. Pleasently fine acidity with characteristicalle soft tanginess and dry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:strong
+17:body
+17:red
+#title: <font class="result_title">I vigneti con i loro</font><br>
+#abstract: 
+# A strong ruby red wine with a pleasantly intense and winey fragrance and a dry round taste. Velvety harmonic with a 
+# full body. Suitable for aging, ... A strong ruby red fragrance and a dry round taste. Velvety harmonic ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:red
+#title: <font class="result_title">(in-package :USER) THE WINE VARIETIES general varieties (by grape)...</font><br>
+#abstract: 
+# ... body %40c%7Bcabernet-sauvignon-wine%7D '(all body (one-of medium full) ... red-wine (fills region portugal))) (cl-add-rule 
+# 'port-body %40c%7Bport%7D '(fills body full)) (cl-add-rule 'port-flavor %40c%7Bport%7D '(fills flavor strong) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:sugar
+19:dry
+19:cabernet,sauvignon
+#title: <font class="result_title">wine-varieties.Neo</font><br>
+#abstract: 
+# ... WINE (all flavor (oneOf Moderate Strong))) (createRule cabernet-sauvignon-body CABERNET-SAUVIGNON-WINE (all body (oneOf Medium Full))) (createRule cabernet-sauvignon-sugar 
+# CABERNET-SAUVIGNON-WINE (fills sugar Dry)) (createConcept ... Dry)) ; PORTUGUESE (createConcept PORT (and RED-WINE (fills region ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:france
+#title: <font class="result_title">Bandol Wine in Provence France</font><br>
+#abstract: 
+# With Marseille's port close-by and because of the special characteristics of its full body red wine, Bandol wine bottles could be found in India or Brazil 
+# already 2 centuries ago. Mourvèdre grape is a strong base of any Bandol red wines. Mourvèdre gives to the wine body and spice. ... 

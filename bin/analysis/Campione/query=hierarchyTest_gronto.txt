@@ -1,0 +1,595 @@
+19:(producer,marker)
+17:(producer,marker)
+36:(producer,marker)
+33:(producer,marker)
+15:(producer,marker)
+34:(producer,marker)
+39:(producer,marker)
+14:(producer,marker)
+11:(producer,marker)
+12:(producer,marker)
+38:(producer,marker)
+21:(producer,marker)
+42:(producer,marker)
+47:(producer,marker)
+46:(producer,marker)
+23:(producer,marker)
+24:(producer,marker)
+25:(producer,marker)
+3:(producer,marker)
+2:(producer,marker)
+30:(producer,marker)
+6:(producer,marker)
+5:(producer,marker)
+32:(producer,marker)
+9:(producer,marker)
+19:location
+17:location
+36:location
+15:location
+33:location
+34:location
+39:location
+14:location
+11:location
+38:location
+12:location
+21:location
+42:location
+40:location
+47:location
+46:location
+22:location
+23:location
+24:location
+25:location
+27:location
+3:location
+2:location
+1:location
+10:location
+30:location
+6:location
+5:location
+32:location
+4:location
+31:location
+9:location
+50:location
+19:(medium,light) moderate dry
+17:(medium,light) moderate dry
+36:(medium,light) moderate dry
+33:(medium,light) moderate dry
+15:(medium,light) moderate dry
+34:(medium,light) moderate dry
+39:(medium,light) moderate dry
+14:(medium,light) moderate dry
+37:(medium,light) moderate dry
+11:(medium,light) moderate dry
+12:(medium,light) moderate dry
+38:(medium,light) moderate dry
+21:(medium,light) moderate dry
+42:(medium,light) moderate dry
+47:(medium,light) moderate dry
+46:(medium,light) moderate dry
+23:(medium,light) moderate dry
+24:(medium,light) moderate dry
+25:(medium,light) moderate dry
+29:(medium,light) moderate dry
+3:(medium,light) moderate dry
+2:(medium,light) moderate dry
+30:(medium,light) moderate dry
+7:(medium,light) moderate dry
+6:(medium,light) moderate dry
+5:(medium,light) moderate dry
+32:(medium,light) moderate dry
+9:(medium,light) moderate dry
+20:riesling grape
+30:riesling grape
+45:riesling grape
+44:riesling grape
+24:riesling grape
+20:chardonnay grape
+30:chardonnay grape
+45:chardonnay grape
+44:chardonnay grape
+24:chardonnay grape
+19:wine
+17:wine
+18:wine
+36:wine
+33:wine
+15:wine
+16:wine
+34:wine
+13:wine
+39:wine
+14:wine
+11:wine
+37:wine
+38:wine
+12:wine
+21:wine
+20:wine
+43:wine
+42:wine
+40:wine
+49:wine
+45:wine
+44:wine
+47:wine
+46:wine
+22:wine
+23:wine
+24:wine
+25:wine
+26:wine
+27:wine
+28:wine
+29:wine
+3:wine
+2:wine
+10:wine
+1:wine
+7:wine
+30:wine
+6:wine
+5:wine
+32:wine
+4:wine
+31:wine
+9:wine
+8:wine
+50:wine
+17:white
+18:white
+33:white
+15:white
+16:white
+13:white
+39:white
+14:white
+37:white
+11:white
+38:white
+21:white
+20:white
+43:white
+40:white
+49:white
+45:white
+44:white
+46:white
+22:white
+24:white
+25:white
+26:white
+27:white
+28:white
+29:white
+3:white
+2:white
+10:white
+1:white
+30:white
+7:white
+5:white
+4:white
+31:white
+9:white
+8:white
+50:white
+9:(body,medium) flavor (sweet,sugar)
+19:(tannic,tannin)
+17:(tannic,tannin)
+36:(tannic,tannin)
+18:(tannic,tannin)
+33:(tannic,tannin)
+15:(tannic,tannin)
+34:(tannic,tannin)
+16:(tannic,tannin)
+13:(tannic,tannin)
+39:(tannic,tannin)
+14:(tannic,tannin)
+37:(tannic,tannin)
+11:(tannic,tannin)
+38:(tannic,tannin)
+12:(tannic,tannin)
+21:(tannic,tannin)
+20:(tannic,tannin)
+43:(tannic,tannin)
+42:(tannic,tannin)
+40:(tannic,tannin)
+49:(tannic,tannin)
+45:(tannic,tannin)
+44:(tannic,tannin)
+47:(tannic,tannin)
+46:(tannic,tannin)
+22:(tannic,tannin)
+23:(tannic,tannin)
+24:(tannic,tannin)
+25:(tannic,tannin)
+26:(tannic,tannin)
+27:(tannic,tannin)
+28:(tannic,tannin)
+29:(tannic,tannin)
+3:(tannic,tannin)
+2:(tannic,tannin)
+1:(tannic,tannin)
+10:(tannic,tannin)
+30:(tannic,tannin)
+7:(tannic,tannin)
+6:(tannic,tannin)
+5:(tannic,tannin)
+32:(tannic,tannin)
+4:(tannic,tannin)
+31:(tannic,tannin)
+9:(tannic,tannin)
+8:(tannic,tannin)
+50:(tannic,tannin)
+49:medium (delicate,moderate) dry
+45:medium (delicate,moderate) dry
+44:medium (delicate,moderate) dry
+22:medium (delicate,moderate) dry
+18:medium (delicate,moderate) dry
+24:medium (delicate,moderate) dry
+25:medium (delicate,moderate) dry
+16:medium (delicate,moderate) dry
+26:medium (delicate,moderate) dry
+13:medium (delicate,moderate) dry
+37:medium (delicate,moderate) dry
+28:medium (delicate,moderate) dry
+29:medium (delicate,moderate) dry
+20:medium (delicate,moderate) dry
+1:medium (delicate,moderate) dry
+10:medium (delicate,moderate) dry
+30:medium (delicate,moderate) dry
+43:medium (delicate,moderate) dry
+7:medium (delicate,moderate) dry
+4:medium (delicate,moderate) dry
+31:medium (delicate,moderate) dry
+40:medium (delicate,moderate) dry
+8:medium (delicate,moderate) dry
+50:medium (delicate,moderate) dry
+17:(off-dry,sweet) medium moderate
+18:(off-dry,sweet) medium moderate
+33:(off-dry,sweet) medium moderate
+15:(off-dry,sweet) medium moderate
+16:(off-dry,sweet) medium moderate
+13:(off-dry,sweet) medium moderate
+14:(off-dry,sweet) medium moderate
+37:(off-dry,sweet) medium moderate
+38:(off-dry,sweet) medium moderate
+20:(off-dry,sweet) medium moderate
+43:(off-dry,sweet) medium moderate
+40:(off-dry,sweet) medium moderate
+49:(off-dry,sweet) medium moderate
+45:(off-dry,sweet) medium moderate
+44:(off-dry,sweet) medium moderate
+46:(off-dry,sweet) medium moderate
+22:(off-dry,sweet) medium moderate
+24:(off-dry,sweet) medium moderate
+25:(off-dry,sweet) medium moderate
+26:(off-dry,sweet) medium moderate
+27:(off-dry,sweet) medium moderate
+28:(off-dry,sweet) medium moderate
+29:(off-dry,sweet) medium moderate
+3:(off-dry,sweet) medium moderate
+2:(off-dry,sweet) medium moderate
+10:(off-dry,sweet) medium moderate
+1:(off-dry,sweet) medium moderate
+30:(off-dry,sweet) medium moderate
+7:(off-dry,sweet) medium moderate
+5:(off-dry,sweet) medium moderate
+4:(off-dry,sweet) medium moderate
+31:(off-dry,sweet) medium moderate
+8:(off-dry,sweet) medium moderate
+50:(off-dry,sweet) medium moderate
+2:food
+1:food
+6:food
+19:food
+4:food
+31:food
+22:food
+15:food
+19:(napa,valley)
+17:(napa,valley)
+36:(napa,valley)
+33:(napa,valley)
+15:(napa,valley)
+34:(napa,valley)
+39:(napa,valley)
+14:(napa,valley)
+11:(napa,valley)
+12:(napa,valley)
+38:(napa,valley)
+21:(napa,valley)
+42:(napa,valley)
+47:(napa,valley)
+46:(napa,valley)
+23:(napa,valley)
+24:(napa,valley)
+25:(napa,valley)
+3:(napa,valley)
+2:(napa,valley)
+30:(napa,valley)
+6:(napa,valley)
+5:(napa,valley)
+32:(napa,valley)
+9:(napa,valley)
+49:(medium,full) (delicate,strong) dry
+45:(medium,full) (delicate,strong) dry
+44:(medium,full) (delicate,strong) dry
+22:(medium,full) (delicate,strong) dry
+18:(medium,full) (delicate,strong) dry
+24:(medium,full) (delicate,strong) dry
+25:(medium,full) (delicate,strong) dry
+16:(medium,full) (delicate,strong) dry
+26:(medium,full) (delicate,strong) dry
+13:(medium,full) (delicate,strong) dry
+37:(medium,full) (delicate,strong) dry
+28:(medium,full) (delicate,strong) dry
+29:(medium,full) (delicate,strong) dry
+20:(medium,full) (delicate,strong) dry
+1:(medium,full) (delicate,strong) dry
+10:(medium,full) (delicate,strong) dry
+30:(medium,full) (delicate,strong) dry
+43:(medium,full) (delicate,strong) dry
+7:(medium,full) (delicate,strong) dry
+4:(medium,full) (delicate,strong) dry
+31:(medium,full) (delicate,strong) dry
+40:(medium,full) (delicate,strong) dry
+8:(medium,full) (delicate,strong) dry
+50:(medium,full) (delicate,strong) dry
+19:cabernet sauvignon
+47:cabernet sauvignon
+46:cabernet sauvignon
+17:cabernet sauvignon
+23:cabernet sauvignon
+36:cabernet sauvignon
+24:cabernet sauvignon
+33:cabernet sauvignon
+15:cabernet sauvignon
+34:cabernet sauvignon
+25:cabernet sauvignon
+14:cabernet sauvignon
+11:cabernet sauvignon
+38:cabernet sauvignon
+12:cabernet sauvignon
+21:cabernet sauvignon
+3:cabernet sauvignon
+2:cabernet sauvignon
+30:cabernet sauvignon
+42:cabernet sauvignon
+6:cabernet sauvignon
+32:cabernet sauvignon
+5:cabernet sauvignon
+9:cabernet sauvignon
+19:medium strong dry
+17:medium strong dry
+36:medium strong dry
+33:medium strong dry
+15:medium strong dry
+34:medium strong dry
+39:medium strong dry
+14:medium strong dry
+11:medium strong dry
+12:medium strong dry
+38:medium strong dry
+21:medium strong dry
+42:medium strong dry
+47:medium strong dry
+46:medium strong dry
+23:medium strong dry
+24:medium strong dry
+25:medium strong dry
+3:medium strong dry
+2:medium strong dry
+30:medium strong dry
+6:medium strong dry
+5:medium strong dry
+32:medium strong dry
+9:medium strong dry
+18:body flavor (sweet,sugar)
+16:body flavor (sweet,sugar)
+13:body flavor (sweet,sugar)
+37:body flavor (sweet,sugar)
+20:body flavor (sweet,sugar)
+43:body flavor (sweet,sugar)
+40:body flavor (sweet,sugar)
+49:body flavor (sweet,sugar)
+45:body flavor (sweet,sugar)
+44:body flavor (sweet,sugar)
+22:body flavor (sweet,sugar)
+24:body flavor (sweet,sugar)
+25:body flavor (sweet,sugar)
+26:body flavor (sweet,sugar)
+28:body flavor (sweet,sugar)
+29:body flavor (sweet,sugar)
+10:body flavor (sweet,sugar)
+1:body flavor (sweet,sugar)
+7:body flavor (sweet,sugar)
+30:body flavor (sweet,sugar)
+31:body flavor (sweet,sugar)
+4:body flavor (sweet,sugar)
+9:body flavor (sweet,sugar)
+8:body flavor (sweet,sugar)
+50:body flavor (sweet,sugar)
+19:(santa,cruz,montain)
+47:(santa,cruz,montain)
+46:(santa,cruz,montain)
+17:(santa,cruz,montain)
+23:(santa,cruz,montain)
+36:(santa,cruz,montain)
+24:(santa,cruz,montain)
+15:(santa,cruz,montain)
+33:(santa,cruz,montain)
+25:(santa,cruz,montain)
+34:(santa,cruz,montain)
+14:(santa,cruz,montain)
+11:(santa,cruz,montain)
+38:(santa,cruz,montain)
+12:(santa,cruz,montain)
+21:(santa,cruz,montain)
+3:(santa,cruz,montain)
+2:(santa,cruz,montain)
+30:(santa,cruz,montain)
+42:(santa,cruz,montain)
+6:(santa,cruz,montain)
+32:(santa,cruz,montain)
+5:(santa,cruz,montain)
+9:(santa,cruz,montain)
+45:(full,medium) (moderate,strong) dry
+44:(full,medium) (moderate,strong) dry
+24:(full,medium) (moderate,strong) dry
+39:(full,medium) (moderate,strong) dry
+27:(full,medium) (moderate,strong) dry
+14:(full,medium) (moderate,strong) dry
+11:(full,medium) (moderate,strong) dry
+29:(full,medium) (moderate,strong) dry
+21:(full,medium) (moderate,strong) dry
+20:(full,medium) (moderate,strong) dry
+10:(full,medium) (moderate,strong) dry
+30:(full,medium) (moderate,strong) dry
+40:(full,medium) (moderate,strong) dry
+9:(full,medium) (moderate,strong) dry
+50:(full,medium) (moderate,strong) dry
+19:(full,medium) strong dry
+17:(full,medium) strong dry
+36:(full,medium) strong dry
+33:(full,medium) strong dry
+15:(full,medium) strong dry
+34:(full,medium) strong dry
+39:(full,medium) strong dry
+14:(full,medium) strong dry
+11:(full,medium) strong dry
+12:(full,medium) strong dry
+38:(full,medium) strong dry
+21:(full,medium) strong dry
+42:(full,medium) strong dry
+47:(full,medium) strong dry
+46:(full,medium) strong dry
+23:(full,medium) strong dry
+24:(full,medium) strong dry
+25:(full,medium) strong dry
+3:(full,medium) strong dry
+2:(full,medium) strong dry
+30:(full,medium) strong dry
+6:(full,medium) strong dry
+5:(full,medium) strong dry
+32:(full,medium) strong dry
+9:(full,medium) strong dry
+19:wine_ontology
+17:wine_ontology
+36:wine_ontology
+18:wine_ontology
+15:wine_ontology
+33:wine_ontology
+16:wine_ontology
+34:wine_ontology
+39:wine_ontology
+13:wine_ontology
+14:wine_ontology
+37:wine_ontology
+11:wine_ontology
+38:wine_ontology
+12:wine_ontology
+21:wine_ontology
+20:wine_ontology
+43:wine_ontology
+42:wine_ontology
+40:wine_ontology
+49:wine_ontology
+45:wine_ontology
+44:wine_ontology
+47:wine_ontology
+46:wine_ontology
+22:wine_ontology
+23:wine_ontology
+24:wine_ontology
+25:wine_ontology
+26:wine_ontology
+27:wine_ontology
+28:wine_ontology
+29:wine_ontology
+3:wine_ontology
+2:wine_ontology
+1:wine_ontology
+10:wine_ontology
+30:wine_ontology
+7:wine_ontology
+6:wine_ontology
+5:wine_ontology
+32:wine_ontology
+4:wine_ontology
+31:wine_ontology
+9:wine_ontology
+8:wine_ontology
+50:wine_ontology
+19:red
+47:red
+46:red
+17:red
+23:red
+36:red
+24:red
+15:red
+33:red
+25:red
+34:red
+14:red
+11:red
+38:red
+12:red
+21:red
+3:red
+2:red
+30:red
+42:red
+6:red
+32:red
+5:red
+9:red
+17:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+18:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+33:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+15:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+16:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+13:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+14:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+37:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+38:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+20:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+43:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+40:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+49:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+45:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+44:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+46:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+22:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+24:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+25:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+26:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+27:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+28:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+29:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+3:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+2:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+10:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+1:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+30:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+7:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+5:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+4:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+31:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+8:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+50:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+21:light dry (delicate,moderate)
+39:light dry (delicate,moderate)
+2:semillon grape
+6:semillon grape
+5:semillon grape
+17:semillon grape
+36:semillon grape
+15:semillon grape

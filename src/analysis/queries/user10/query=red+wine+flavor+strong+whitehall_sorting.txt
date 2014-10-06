@@ -1,0 +1,27 @@
+#nomecategoria:2,4,2
+#cabernet,franc:12
+#cabernet,sauvignon:18
+#flavor:3
+#food:9,17
+#fruit:5
+#full:14,18
+#merlot:13
+#napa:11
+#red:1,4,6,14
+#strong:18
+#sugar:3
+#syrah:15
+#valley:8
+#white:1
+#whitehall:12,19
+#whitehall,lane,cabernet:11
+#wine:1,2,4,5,6,7,8,9,10,15,16,20
+(napa,valley):11
+(whitehall,lane,cabernet,franc):11,12
+apple:14
+cabernet sauvignon:18
+food:3,9,17
+fruit:5
+red:1,4,6,14
+white:1
+wine:1,2,3,4,5,6,7,8,9,10,13,15,16,18,19,20

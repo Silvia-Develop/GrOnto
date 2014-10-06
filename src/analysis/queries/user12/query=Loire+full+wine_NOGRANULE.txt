@@ -1,0 +1,45 @@
+10:red bordeaux
+10:white bordeaux
+13:grape
+19:grape
+20:grape
+10:red wine
+13:red wine
+8:red wine
+14:wine
+18:wine
+2:wine
+5:wine
+10:wine
+13:wine
+19:wine
+17:wine
+3:wine
+20:wine
+1:wine
+9:wine
+6:wine
+7:wine
+8:wine
+15:wine
+12:wine
+16:wine
+4:wine
+11:wine
+12:chateau margaux
+13:wine grape
+19:wine grape
+20:wine grape
+20:drink
+14:wine region
+5:wine region
+10:wine region
+1:wine region
+15:wine region
+11:wine region
+1:muscadet
+12:margaux
+20:fruit
+5:white wine
+10:white wine
+7:white wine

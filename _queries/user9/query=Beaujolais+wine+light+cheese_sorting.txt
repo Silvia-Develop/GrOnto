@@ -1,0 +1,11 @@
+#nomecategoria:2,4,2
+beaujolais:1,2,3,4,5,6,7,8,10,12,13,14,15,16,18,19,20
+burgundy:6,7
+cheese:1,2,3,9,11,12,17,19
+food:13,20
+gamay grape:3,16
+grape:14
+light:1,4,7,10,16
+red:1,6,13
+white:14
+wine:2,5,6,9,12,18

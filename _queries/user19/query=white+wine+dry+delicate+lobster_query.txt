@@ -1,0 +1,212 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:winery
+1:dry
+1:white
+1:wine
+1:flavor
+#title: <font class="result_title">Messina Hof Winery %26 Resort - About Our Wines</font><br>
+#abstract: 
+# dry white wines. Our Dry White Wines are classically made. Rich, Round and True to their ... The wine has developed 
+# a clean, crisp, aromatic flavor and is wonderfully balanced with fresh, tropical fruit. It pairs nicely with lobster, shrimp, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:lobster
+2:white
+2:tannin
+#title: <font class="result_title">What wine goes with lobster and why ?</font><br>
+#abstract: 
+# What wine goes with lobster and why ? Answer provided by the French Wine Guide ... A red wine has tannins while there is almost no tannin in white wine. 
+# Tannic wines are not suitable for delicate and/or salty dishes as they will kill the subtle flavor of the food. Lobster is a delicate and flavorful dish. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+3:medium
+3:dry
+3:white
+3:lobster
+#title: <font class="result_title">OMTIS - Fine Wine %26 Spirits</font><br>
+#abstract: 
+# Medium dry white wines: Graves, Meursault, Barsac, Cerons, dry champagne. Lobster, ... wines: 
+# Red Graves, Pomerol, Medoc, or Medium dry white wines: Graves, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:wine
+4:dry
+4:riesling
+4:delicate
+#title: <font class="result_title">December/January Citibank Net News - Red Wine with Turkey ...</font><br>
+#abstract: 
+# It's no longer written in stone that white wine goes with white meat and red 
+# with red. ... Dry, with powerful flavor. Sushi. Dry Riesling (white) Delicate and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:page
+5:food
+5:wine
+#title: <font class="result_title">Wine Lovers' Page: The Happy Marriage of Food and Wine</font><br>
+#abstract: 
+# Robin Garr's Wine Lovers' Page is an ideal starting point for wine lovers on the Web! It's a 'snob-free zone' for straight talk 
+# in plain English about wine tasting. Frequently updated notes and advice on wines of good value are backed by an ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:delicate
+6:light
+6:white
+6:wine
+#title: <font class="result_title">Delicate and light - white wine</font><br>
+#abstract: 
+# Look for the taste tags that match your favourite 
+# dishes and create harmoniousfood and wine pairings. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:food
+7:wine
+#title: <font class="result_title">Food and Wine Matching</font><br>
+#abstract: 
+# Natalie MacLean's Free Wine E-Newsletter: Wine reviews, food and wine pairing, recipe matching, humor, articles, restaurant lists and wine 
+# cellars from Natalie MacLean, named the World's Best Drink Writer at the World Food Media Awards. Visit ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:white
+#title: <font class="result_title">Biltmore Wine - White Wines</font><br>
+#abstract: 
+# America's most visited winery, at Biltmore in Asheville, N.C., produces award-winning red, white, rosé and sparkling wines 
+# that can be purchased during a visit, online or in select grocers, wine store and restaurants. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:riesling
+9:dessert
+9:delicate
+9:sweet
+#title: <font class="result_title">2007 Off Dry Riesling</font><br>
+#abstract: 
+# White Wines. Rieslings. Chardonnay. Dry White Wines. Fruity Whites. Rosé Wines. Red Wines. Dessert Wines. Sparkling Wines. Italian 
+# Wines ... Subtotal: USD0.00. About This Wine: This wine's delicate floral quality and lush sweetness ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:dry
+10:riesling
+10:white
+10:wine
+10:body
+#title: <font class="result_title">2006 Dry Johannisberg Riesling</font><br>
+#abstract: 
+# Our Dry Riesling a most versatile white wine has excellent body and supple acidity. Much like a German halbtrocken (half-dry), it has aromas of peaches 
+# and tangerines that fill the nose with a delicate fruitiness. Serve chilled. Case discount taken at checkout. Subtotal: USD0.00. About This Wine: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:dry
+11:white
+11:wine
+#title: <font class="result_title">Beat the winter blahs with some Hot suggestions by your ...</font><br>
+#abstract: 
+# Dry White Wines. Dry Red Wines. Sparkling Wines. Spirits. Everything Wine Express recommends ... Very dry, 
+# crisp Riesling with a dash of white grapefruit-melon and a hint of tropical ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:dry
+12:white
+12:wine
+#title: <font class="result_title">Dry White Wine</font><br>
+#abstract: 
+# Home - Oct 27 - 2009Sherry wine vs Dry white wine for crab or lobster? ... Dry White WineKnown for its fine 
+# fruit aroma - light acidity and delicate bouquet - Silvaner is a unique dry white wine that grows exceptionally ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:light
+13:wine
+13:fish
+13:cheese
+13:apple
+#title: <font class="result_title">Vallarta Wine Fest 2010</font><br>
+#abstract: 
+# Semisweet light alcoholic white wines: Quiche, Fish with light sauce, Chicken, Dry Fruits, Fresh Salads, Almond cake. -Sweet white wines with strong 
+# alcohol content: Cold or Hot Foie Gras, Fine and Delicate Fish, Blue Cheese, Dry Fruits, Apple Tart and Fruitcakes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:white
+14:wine
+14:food
+#title: <font class="result_title">Wine/Food Pairing Chart: White Wines</font><br>
+#abstract: 
+# White Wine Wine/Food Pairing Chart, from Lisa Shea. What to know what 
+# food goes well with white wine? Click here to find out! 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:food
+15:wine
+#title: <font class="result_title">Food and Wine</font><br>
+#abstract: 
+# There are well tried and tested conventions that will allow you to match food and wine 
+# so that you will be able to get more out of your dining experience... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:flavor
+16:wine
+#title: <font class="result_title">Italian Flavor Consortium: Italian Wine, Italian Wine Forum ...</font><br>
+#abstract: 
+# Italian Flavor Consortium, Italian Wine Forum, Italian wine, Italian Wine Forum, wine, red wine, white wine, DOC wines, vino italiano, 
+# vino rosso, vino bianco, vino DOC, greco di tufo, fiano di Avellino, coda di volpe, fiano di avellino, 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:food
+17:light
+17:medium
+17:red
+#title: <font class="result_title">General Wine and Food Combinations</font><br>
+#abstract: 
+# A delicate breast needs a white, but grilling or roasting with skin on calls for a red. ROAST HAM, PORK - Rosé or off-dry white (Chenin Blanc, 
+# Vouvray, German) are traditional, but ham is neutral enough to serve as a foil for any good flavorful white or light to medium red. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:winery
+18:wine
+18:grape
+#title: <font class="result_title">Photo Gallery: Domaine Berrien Cellars and Winery</font><br>
+#abstract: 
+# It makes a full-bodied white wine with delicate aromas of honeysuckle. ... with lobster, shellfish, or try some 
+# BBQ pork chops. 2008 Viognier - Viognier is an exotic and rare French white wine grape. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:winery
+19:off-dry
+19:lobster
+#title: <font class="result_title">Rossignol Estate Winery</font><br>
+#abstract: 
+# A fresh, light, off-dry wine showing an elegant balance of crisp acidity and delicate flavours. ... 
+# Island Blue mussels, Malpeque Bay oysters or steamed lobster. %7EDry (01) 12% alcohol (LCC ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:white
+#title: <font class="result_title">Whites: Italy's Delicious Other Wines | Italy</font><br>
+#abstract: 
+# Soave, Italy's best selling white wine, is best consumed young, no longer than three years from the vintage. 
+# ... Little known in The United States, Gavi is very dry, delicate wine with pronounced acidity. ... 

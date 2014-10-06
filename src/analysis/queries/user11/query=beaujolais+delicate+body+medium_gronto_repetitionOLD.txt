@@ -1,0 +1,198 @@
+2:(producer,marker)
+5:(producer,marker)
+14:(producer,marker)
+12:(producer,marker)
+5:(medium,light) moderate dry
+19:(medium,light) moderate dry
+15:(medium,light) moderate dry
+13:(medium,light) moderate dry
+14:(medium,light) moderate dry
+19:riesling grape
+17:riesling grape
+18:riesling grape
+15:riesling grape
+16:riesling grape
+13:riesling grape
+14:riesling grape
+11:riesling grape
+12:riesling grape
+3:riesling grape
+2:riesling grape
+20:riesling grape
+1:riesling grape
+10:riesling grape
+7:riesling grape
+6:riesling grape
+5:riesling grape
+4:riesling grape
+9:riesling grape
+8:riesling grape
+19:chardonnay grape
+17:chardonnay grape
+18:chardonnay grape
+15:chardonnay grape
+16:chardonnay grape
+13:chardonnay grape
+14:chardonnay grape
+11:chardonnay grape
+12:chardonnay grape
+3:chardonnay grape
+2:chardonnay grape
+20:chardonnay grape
+1:chardonnay grape
+10:chardonnay grape
+7:chardonnay grape
+6:chardonnay grape
+5:chardonnay grape
+4:chardonnay grape
+9:chardonnay grape
+8:chardonnay grape
+19:wine
+17:wine
+18:wine
+15:wine
+16:wine
+13:wine
+14:wine
+12:wine
+20:wine
+2:wine
+1:wine
+10:wine
+7:wine
+5:wine
+20:(off-dry,sweet) medium moderate
+10:(off-dry,sweet) medium moderate
+1:(off-dry,sweet) medium moderate
+7:(off-dry,sweet) medium moderate
+5:(off-dry,sweet) medium moderate
+17:(off-dry,sweet) medium moderate
+18:(off-dry,sweet) medium moderate
+15:(off-dry,sweet) medium moderate
+14:(off-dry,sweet) medium moderate
+12:(off-dry,sweet) medium moderate
+5:(napa,valley)
+14:(napa,valley)
+10:low
+1:low
+7:low
+6:low
+19:low
+4:low
+17:low
+8:low
+11:low
+5:(full,medium) strong dry
+19:(full,medium) strong dry
+17:(full,medium) strong dry
+15:(full,medium) strong dry
+13:(full,medium) strong dry
+14:(full,medium) strong dry
+19:wine_ontology
+17:wine_ontology
+18:wine_ontology
+15:wine_ontology
+16:wine_ontology
+13:wine_ontology
+14:wine_ontology
+11:wine_ontology
+12:wine_ontology
+3:wine_ontology
+2:wine_ontology
+20:wine_ontology
+1:wine_ontology
+10:wine_ontology
+7:wine_ontology
+6:wine_ontology
+5:wine_ontology
+4:wine_ontology
+9:wine_ontology
+8:wine_ontology
+20:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+10:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+1:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+7:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+5:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+17:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+18:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+15:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+14:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+12:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+5:red
+14:red
+1:body moderate sugar
+2:location
+5:location
+17:location
+14:location
+12:location
+5:full (strong,moderate) dry
+15:full (strong,moderate) dry
+14:full (strong,moderate) dry
+20:white
+10:white
+1:white
+7:white
+5:white
+17:white
+18:white
+15:white
+14:white
+12:white
+2:(body,medium) flavor (sweet,sugar)
+5:(body,medium) flavor (sweet,sugar)
+15:(body,medium) flavor (sweet,sugar)
+19:(tannic,tannin)
+17:(tannic,tannin)
+18:(tannic,tannin)
+15:(tannic,tannin)
+16:(tannic,tannin)
+13:(tannic,tannin)
+14:(tannic,tannin)
+12:(tannic,tannin)
+20:(tannic,tannin)
+2:(tannic,tannin)
+10:(tannic,tannin)
+1:(tannic,tannin)
+7:(tannic,tannin)
+5:(tannic,tannin)
+5:medium (delicate,moderate) dry
+15:medium (delicate,moderate) dry
+14:medium (delicate,moderate) dry
+2:food
+10:food
+7:food
+12:food
+5:(medium,full) (delicate,strong) dry
+15:(medium,full) (delicate,strong) dry
+14:(medium,full) (delicate,strong) dry
+10:cabernet sauvignon
+7:cabernet sauvignon
+5:cabernet sauvignon
+14:cabernet sauvignon
+19:medium strong dry
+5:medium strong dry
+15:medium strong dry
+13:medium strong dry
+14:medium strong dry
+10:gamay grape
+1:gamay grape
+7:gamay grape
+6:gamay grape
+19:gamay grape
+4:gamay grape
+17:gamay grape
+8:gamay grape
+11:gamay grape
+5:(santa,cruz,montain)
+17:(santa,cruz,montain)
+14:(santa,cruz,montain)
+5:(full,medium) (moderate,strong) dry
+15:(full,medium) (moderate,strong) dry
+14:(full,medium) (moderate,strong) dry
+19:light dry (delicate,moderate)
+15:light dry (delicate,moderate)
+13:light dry (delicate,moderate)
+10:semillon grape
+7:semillon grape
+14:semillon grape

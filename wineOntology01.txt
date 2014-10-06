@@ -1,0 +1,164 @@
+# a granular perspective of the wine ontology
+[nodes]
+0 0 @ wine_ontology
+1 0 @ moderate
+2 1 @ cabernet sauvignon grape
+3 0 @ low
+4 3 @ gamay grape
+5 0 @ (tannic,tannin)
+6 5 @ chardonnay grape
+7 6 @ white
+8 5 @ semillon grape
+9 8 @ red
+10 5 @ wine
+11 10 @ red
+12 11 @ (full,medium) strong dry
+13 11 @ body flavor (sweet,sugar)
+14 11 @ (body,medium) flavor (sweet,sugar)
+15 11 @ medium strong dry
+16 11 @ (medium,light) moderate dry
+17 16 @ light dry (delicate,moderate)
+22 0 @ food
+23 10 @ (color,colour)
+18 5 @ cabernet sauvignon
+19 18 @ red
+20 5 @ riesling grape
+21 20 @ white
+24 10 @ white
+25 24 @ (off-dry,sweet) medium moderate
+26 25 @ (medium,full) (moderate,strong) (sweet,off-dry,dry)
+27 24 @ (medium,full) (delicate,strong) dry
+28 27 @ medium (delicate,moderate) dry
+29 24 @ (full,medium) (moderate,strong) dry
+30 29 @ full (strong,moderate) dry
+31 24 @ body moderate sugar
+32 0 @ location
+33 32 @ (producer,marker)
+34 32 @ german
+35 34 @ (producer,marker)
+36 32 @ bordeaux
+37 36 @ (producer,marker)
+38 32 @ (napa,valley)
+39 38 @ (producer,marker)
+40 32 @ (santa,cruz,montain)
+41 40 @ (producer,marker)
+[leaves]
+A 2 @ (chateau,lafite,rothschils,pauillac)
+B 4 @ (chateau,morgon,beaujolais)
+C 7 @ (sterling,chardonnay)
+D 9 @ (chateau,ychem,sauterne)
+E 12 15 @ (forman,cabernet,sauvignon)
+F 12 @ (cotturi,zinfandel)
+G 12 @ (sterling,merlot)
+H 12 @ (mount,eden,vineyard,estate,pinot,noir)
+I 12 @ (santa,cruz,mountain,vineyard,cabernet,sauvignon)
+L 12 @ (sean,thackrey,sirius,petite,syrah)
+M 13 @ (taylor,port)
+N 14 @ (chianti,classico)
+O 13 14 @ (clos,vougeoy,cotes,d'or)
+P 13 14 @ (chateau,margaux)
+Q 13 14 @ (chateau,cheval,blanc,emilion)
+R 13 14 @ (sevre,maine,muscadet)
+S 13 14 @ (clos,poussie,sancerre)
+T 15 16 @ (whitehall,lane,cabernet,franc)
+U 15 16 @ (saucelito,canyon,zinfandel)
+V 15 16 @ (gary,farrell,merlot)
+Z 15 16 @ (mountadam,pinot,noir)
+Y 15 17 @ (longridge,merlot)
+W 17 @ (lane,tanner,pinot,noir)
+J 15 16 @ (marietta,zinfandel)
+AA 15 16 @ (marietta,petite,syrah)
+AB 15 16 @ (marietta,cabernet,sauvignon)
+AC 15 16 @ (page,mill,winery,cabernet,sauvignon)
+AD 23 @ (whitehall,lane,primavera)
+AE 19 @ (sterling,cabernet,sauvignon)
+AF 21 @ (schloss,rothermel,trochenbierenau,slese,riesling)
+AG 21 @ (schloss,volrad,trochenbierenau,slese,riesling)
+AH 22 @ Dessert
+AI 22 @ Fowl
+AL 22 @ Fruit
+AM 22 @ Meat
+AN 22 @ Pasta
+AO 22 @ Seafood
+AP 22 @ Tomato
+AQ 22 @ (Cheese,Nuts) dessert
+AS 22 @ Dark meat fowl
+AT 22 @ meat fowl
+AU 22 @ Non-sweet fruit
+AY 22 @ Non-spicy meat
+AJ 22 @ Spicy meat
+BA 22 @ Pasta sauce
+BB 22 @ Pasta sauce
+BC 22 @ Pasta non-spicy sauce
+BD 22 @ Pasta spicy sauce
+BE 22 @ Pasta cream sauce
+BF 22 @ Pasta cream sauce
+BG 22 @ Fish
+BH 22 @ Shellfish
+BI 22 @ Bland fish
+BL 22 @ Non-bland fish
+BM 22 @ Cheese
+BN 22 @ Nuts
+BO 22 @ Cake
+BP 22 @ Pie
+BQ 22 @ Duck
+BR 22 @ Goose
+BS 22 @ Grilled chicken
+BT 22 @ Turkey
+BU 22 @ Apple
+BV 22 @ Banana
+BZ 22 @ Grape
+BW 22 @ Mixed fruit
+BY 22 @ Peach
+BJ 22 @ Lamb
+CA 22 @ Pork
+CB 22 @ Roast beef
+CC 22 @ Steak
+CD 22 @ Veal
+CE 22 @ Beef curry
+CF 22 @ Garlicky roast
+CG 22 @ Spaghetti
+CH 22 @ Fra Diavolo
+CI 22 @ Fettucine Alfredo
+CL 22 @ Pasta clam sauce
+CM 22 @ Clams
+CN 22 @ Crabs
+CO 22 @ Lobster
+CP 22 @ Mussels
+CQ 22 @ Oysters
+CR 22 @ Flounder
+CS 22 @ Halibut
+CT 22 @ Scrod
+CU 22 @ Salmon
+CV 22 @ Swordfish
+CZ 22 @ Tuna
+AZ 26 @ (ventana,chenin,blanc)
+AW 26 @ (selaks,ice,wine)
+AV 26 @ (corbans,dry,white,riesling)
+AR 28 @ (mountadam,riesling)
+DA 28 29 @ (stonleigh,sauvignon,blanc)
+DB 26 28 29 @ (puligny,montrachet,white,burgundy)
+DC 26 28 29 @ (congress,springs,semillon)
+DD 26 28 29 @ (selaks,sauvignon,blanc)
+DE 26 28 29 @ (peter,mccoy,chardonnay)
+DF 26 28 29 @ (mount,eden,vineyard,edna,valley,chardonnay)
+DG 26 28 29 @ (bancroft,chardonnay)
+DH 26 28 29 @ (corbans,sauvignon,blanc)
+DI 27 30 @ (kalin,cellars,semillon)
+DL 27 30 @ (corton,montrachet,white,burgundy)
+DM 27 30 @ (corbans,private,bin,sauvignon,blanc)
+DN 27 30 @ (mountadam,chardonnay)
+DO 25 26 30 @ (forman,chardonnay)
+DP 26 30 @ (foxen,chenin,blanc)
+DQ 31 @ (chateau,meursault)
+DR 33 @ (cabernet,franc,grape)
+DS 33 @ (zinfandel,grape)
+DT 33 @ bancroft
+DU 33 @ (whitehall,lane)
+DV 35 @ (schloss,rothermel)
+DZ 35 @ (schloss,volrad)
+DW 37 @ (chateau,ychem,sauterne)
+DY 39 @ (sterling,merlot)
+DJ 39 @ (sterling,chardonnay)
+EA 39 @ (steerling,cabernet,sauvignon)
+EB 41 @ (santa,cruz,mountain,vineyard,cabernet,sauvignon)

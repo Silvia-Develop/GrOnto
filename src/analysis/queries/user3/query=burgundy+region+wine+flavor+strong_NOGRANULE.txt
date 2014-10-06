@@ -1,0 +1,57 @@
+3:unclassified
+9:wine grape
+11:wine grape
+19:wine grape
+18:wine grape
+9:wine
+11:wine
+12:wine
+13:wine
+15:wine
+16:wine
+4:wine
+7:wine
+5:wine
+1:wine
+6:wine
+14:wine
+17:wine
+19:wine
+18:wine
+2:wine
+10:wine
+8:wine
+14:drink
+2:drink
+20:food
+19:food
+9:grape
+11:grape
+19:grape
+18:grape
+2:dessert wine
+2:dessert
+12:red wine
+1:red wine
+14:red wine
+18:red wine
+10:red wine
+12:white wine
+13:white wine
+14:white wine
+18:white wine
+16:forman
+9:wine region
+11:wine region
+12:wine region
+15:wine region
+16:wine region
+4:wine region
+7:wine region
+5:wine region
+1:wine region
+6:wine region
+17:wine region
+19:wine region
+18:wine region
+8:wine region

@@ -1,0 +1,90 @@
+13:cabernet sauvignon
+15:cabernet sauvignon
+2:cabernet sauvignon
+11:cabernet sauvignon
+12:cabernet sauvignon
+20:cabernet sauvignon
+7:cabernet sauvignon
+8:cabernet sauvignon
+14:cabernet sauvignon
+1:cabernet sauvignon
+10:cabernet sauvignon
+19:cabernet sauvignon
+5:cabernet sauvignon
+17:cabernet sauvignon
+4:cabernet sauvignon
+18:cabernet sauvignon
+9:cabernet sauvignon
+1:lamb
+11:fruit
+8:fruit
+14:fruit
+15:cabernet sauvignon grape
+20:cabernet sauvignon grape
+8:cabernet sauvignon grape
+1:cabernet sauvignon grape
+5:cabernet sauvignon grape
+5:medoc
+12:cabernet franc
+20:cabernet franc
+20:malbec grape
+15:red bordeaux
+20:red bordeaux
+5:red bordeaux
+16:wine
+13:wine
+15:wine
+2:wine
+11:wine
+3:wine
+12:wine
+20:wine
+7:wine
+8:wine
+14:wine
+1:wine
+10:wine
+6:wine
+19:wine
+5:wine
+17:wine
+4:wine
+18:wine
+9:wine
+8:merlot grape
+13:red meat
+1:red meat
+15:wine grape
+20:wine grape
+8:wine grape
+1:wine grape
+5:wine grape
+8:red merlot
+19:red merlot
+16:red wine
+13:red wine
+15:red wine
+11:red wine
+3:red wine
+20:red wine
+7:red wine
+8:red wine
+14:red wine
+1:red wine
+10:red wine
+6:red wine
+19:red wine
+5:red wine
+17:red wine
+18:red wine
+9:red wine
+20:cabernet franc grape
+15:grape
+20:grape
+8:grape
+1:grape
+5:grape
+13:meat
+1:meat
+12:wine region
+5:wine region

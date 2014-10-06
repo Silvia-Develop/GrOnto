@@ -1,0 +1,21 @@
+#nomecategoria:2,4,2
+#color:4,6,9,12
+#delicate:8
+#flavor:2,4,8,10,12,16,18,19
+#moderate:8
+#port:9,15,17,18,20
+#red:4,6,7,9,12
+#strong:4,8,10,12,15,16,18
+#sweet:10,15
+#taylor:6,14
+#taylor,port:1,2,3,5,7,11,13,19
+#valley:15,16,17
+#wine:7,10,13,19
+(body,medium) flavor (sweet,sugar):8
+(color,colour):4,6,9,12,15,16
+(medium,full) (moderate,strong) (sweet,off-dry,dry):10
+(taylor,port):1,2,3,5,6,7,9,11,13,14,15,17,18,19,20
+body flavor (sweet,sugar):18
+falvor:2
+red:2,4,6,7,9,12
+wine:7,8,10,13,19

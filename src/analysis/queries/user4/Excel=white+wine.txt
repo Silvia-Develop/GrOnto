@@ -1,0 +1,55 @@
+1:white
+1:wine
+1:red
+1:(stonleigh,sauvignon,blanc)
+2:light dry (delicate,moderate)
+2:white
+2:wine
+3:white
+3:german
+3:red
+4:wine
+4:white
+4:dessert
+4:peach
+5:light dry (delicate,moderate)
+5:wine
+6:light dry (delicate,moderate)
+6:white
+6:wine
+7:wine
+7:white
+8:light dry (delicate,moderate)
+8:white
+9:wine
+9:light dry (delicate,moderate)
+10:(color,colour)
+10:wine
+11:white
+11:wine
+11:body flavor (sweet,sugar)
+11:low
+12:dessert
+12:wine
+13:wine
+13:white
+13:seafood
+14:wine
+14:white
+15:chardonnay
+15:fruit
+15:cheese
+15:seafood
+15:apple
+16:white
+16:(zinfandel,grape)
+17:white
+17:wine
+18:white
+18:wine
+18:fruit
+19:wine
+19:white
+20:white
+20:red
+20:apple

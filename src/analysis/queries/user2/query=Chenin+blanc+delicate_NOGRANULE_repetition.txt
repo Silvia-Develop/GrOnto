@@ -1,0 +1,206 @@
+19:wine
+17:wine
+18:wine
+15:wine
+16:wine
+13:wine
+14:wine
+12:wine
+3:wine
+20:wine
+2:wine
+10:wine
+1:wine
+7:wine
+6:wine
+5:wine
+4:wine
+9:wine
+8:wine
+10:sweet fruit
+6:sweet fruit
+17:sweet fruit
+9:sweet fruit
+10:fruit
+7:fruit
+6:fruit
+17:fruit
+9:fruit
+14:fruit
+10:sauvignon blanc grape
+19:red wine
+17:red wine
+18:red wine
+15:red wine
+16:red wine
+13:red wine
+14:red wine
+11:red wine
+12:red wine
+3:red wine
+2:red wine
+20:red wine
+1:red wine
+10:red wine
+7:red wine
+6:red wine
+5:red wine
+4:red wine
+9:red wine
+8:red wine
+19:consumable thing
+17:consumable thing
+18:consumable thing
+15:consumable thing
+16:consumable thing
+13:consumable thing
+14:consumable thing
+12:consumable thing
+3:consumable thing
+20:consumable thing
+2:consumable thing
+10:consumable thing
+1:consumable thing
+7:consumable thing
+6:consumable thing
+5:consumable thing
+4:consumable thing
+9:consumable thing
+8:consumable thing
+10:wine grape
+6:wine grape
+17:wine grape
+9:wine grape
+10:sauvignon blanc
+19:chenin blanc
+17:chenin blanc
+18:chenin blanc
+15:chenin blanc
+16:chenin blanc
+13:chenin blanc
+14:chenin blanc
+12:chenin blanc
+3:chenin blanc
+2:chenin blanc
+20:chenin blanc
+10:chenin blanc
+1:chenin blanc
+7:chenin blanc
+6:chenin blanc
+5:chenin blanc
+4:chenin blanc
+9:chenin blanc
+8:chenin blanc
+19:chianti
+17:chianti
+18:chianti
+15:chianti
+16:chianti
+13:chianti
+14:chianti
+11:chianti
+12:chianti
+3:chianti
+2:chianti
+20:chianti
+1:chianti
+10:chianti
+7:chianti
+6:chianti
+5:chianti
+4:chianti
+9:chianti
+8:chianti
+19:wine_ontology
+17:wine_ontology
+18:wine_ontology
+15:wine_ontology
+16:wine_ontology
+13:wine_ontology
+14:wine_ontology
+12:wine_ontology
+3:wine_ontology
+20:wine_ontology
+2:wine_ontology
+10:wine_ontology
+1:wine_ontology
+7:wine_ontology
+6:wine_ontology
+5:wine_ontology
+4:wine_ontology
+9:wine_ontology
+8:wine_ontology
+10:food
+7:food
+6:food
+17:food
+9:food
+14:food
+2:wine region
+19:wine region
+10:grape
+6:grape
+17:grape
+9:grape
+19:chianti classico
+17:chianti classico
+18:chianti classico
+16:chianti classico
+13:chianti classico
+14:chianti classico
+11:chianti classico
+3:chianti classico
+2:chianti classico
+20:chianti classico
+1:chianti classico
+10:chianti classico
+7:chianti classico
+6:chianti classico
+5:chianti classico
+4:chianti classico
+9:chianti classico
+8:chianti classico
+19:drink
+17:drink
+18:drink
+15:drink
+16:drink
+13:drink
+14:drink
+12:drink
+3:drink
+20:drink
+2:drink
+10:drink
+1:drink
+7:drink
+6:drink
+5:drink
+4:drink
+9:drink
+8:drink
+12:rose wine
+16:cabernet sauvignon
+19:white wine
+17:white wine
+18:white wine
+15:white wine
+16:white wine
+13:white wine
+14:white wine
+12:white wine
+3:white wine
+20:white wine
+2:white wine
+10:white wine
+1:white wine
+7:white wine
+6:white wine
+5:white wine
+4:white wine
+9:white wine
+8:white wine
+10:chenin blanc grape
+6:chenin blanc grape
+17:chenin blanc grape
+9:chenin blanc grape

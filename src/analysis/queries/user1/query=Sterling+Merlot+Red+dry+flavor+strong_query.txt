@@ -1,0 +1,192 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:(full,medium) strong dry
+1:red
+1:wine
+1:cheese
+1:fruit
+#title: <font class="result_title">Merlot: Definition from Answers.com</font><br>
+#abstract: 
+# Merlot or merlot n. A variety of grape originating in southern France and Italy. A dry red wine made from this grape ... 
+# Merlot tends not to go well with strong and blue veined cheeses that can overwhelm the fruit flavors of the wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:(body,medium) flavor (sweet,sugar)
+2:red
+#title: <font class="result_title">Wine%26Spirits Magazine - Top Ten</font><br>
+#abstract: 
+# Almost completely black in color and completely blackberry in flavor, this is a tender, sweet and flavorful merlot that's built to last. The structure is strong 
+# though the tannins remain tender and elastic. ... If you buy merlot for a smooth, bright, seductively silky red, look no further than this ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:red
+3:(sterling,merlot)
+3:(sterling,chardonnay)
+#title: <font class="result_title">RockBassGrillWine List</font><br>
+#abstract: 
+# regions, some Chardonnays have lots of oak flavor, some have very little. ... Red 
+# Rock Merlot, CA. Rodney Strong, SONOMA. Sebastiani, SONOMA. Chalone, MONTEREY. Wente ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:(page,mill,winery,cabernet,sauvignon)
+4:red
+4:full (strong,moderate) dry
+#title: <font class="result_title">WineZap</font><br>
+#abstract: 
+# The winery is home to the classic cabernet sauvignon, merlot and the Columbia Valley red. ... opens with 
+# a bright red hue and a strong nose of tobacco. The flavors are full of fruit ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:red
+5:wine
+5:full (strong,moderate) dry
+5:(sterling,merlot)
+#title: <font class="result_title">Red wine dry red wines merlot Wine at bizrate - Shop online ...</font><br>
+#abstract: 
+# Buy Red wine dry red wines merlot Wine from Gifts, Flowers %26 Food stores. Compare prices 
+# %26 shop online for gifts at bizrate. Check store ratings before you buy Wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:(sterling,merlot)
+6:(sterling,cabernet,sauvignon)
+#title: <font class="result_title">Don's Lighthouse Wines List</font><br>
+#abstract: 
+# Sterling Merlot, CA-Fruit forward, soft tannins from one of CA's finest producers ... berry, spice %26 clove 
+# flavors. 27. Sterling Cabernet, CA-Elegant wine that pairs well with red meats and game ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:(sterling,merlot)
+7:wine
+#title: <font class="result_title">Best Price Merlot Wine</font><br>
+#abstract: 
+# PriceWatch.com compares prices on Merlot Wine and more. You can find the latest Tech and 
+# Computer products at the best prices. Our comparison shopping makes online shopping easy. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:full (strong,moderate) dry
+8:(chianti,classico)
+#title: <font class="result_title">Matteo's Ristorante Italinao Wine List</font><br>
+#abstract: 
+# Dried fruit flavor, very full bodied, flavors of fig, black fruit and minerality; DOC ... 
+# strong dry fruit. Monsanto Chianti Classico Riserva (Tuscany) Famous 95 vintage: red plum, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:(sterling,merlot)
+9:(mountadam,pinot,noir)
+9:medium (delicate,moderate) dry
+#title: <font class="result_title">Matteo's</font><br>
+#abstract: 
+# 18. Sterling Merlot. Soft and rich with bing cherry and plum, dry. 19. Chandon Pinot Noir 
+# ... Placido Merlot. Medium bodied, cherry flavors, dry. Placido Chianti. Fruity, dry, medium ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:(sterling,merlot)
+10:medium (delicate,moderate) dry
+#title: <font class="result_title">Pavinci Italian Grill - Merlot</font><br>
+#abstract: 
+# ... Red | American Red | Merlot | Cellar Selections %7E Merlot %7E Deep color, full body, and low tannin are the characteristics of wines made from 
+# the Merlot Grape. The aromas and flavors can ... Merlot, Rodney Strong. Dry wine, medium body with soft tannins, outstanding balance. USD26.00. 150. Merlot, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:red
+#title: <font class="result_title">American Merlot Wines - Shoppers Vineyard</font><br>
+#abstract: 
+# In Red Rock Winery's Reserve Merlot, lush concentrations of red and black jammy flavors including briary blackberry and raspberr... Appealing black 
+# cherry and spice notes lead to soft, elegant plum and cedar flavors that end on a dry, dusty note. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:(medium,light) moderate dry
+12:white
+12:wine
+12:semillon grape
+#title: <font class="result_title">Welcome to the Butcher Block</font><br>
+#abstract: 
+# ... a bit of Semillon to add appealing melon flavor. Gavi, Princepessa Gavi. This dry white wine is light and easy drinking with a ... 
+# bouquet well-suited to all red meats and game. Cabernet/Merlot, Greg Norman Estate. The blend of Cabernet and Merlot grapes makes this wine fruity ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+#title: <font class="result_title">California - Merlot Page 1</font><br>
+#abstract: 
+# The complete on-line source for quality wines %26 spirits. We offer a wide selection of wines, spirits, gifts and accessories. ... Merlot that 
+# delivers layers of fruit flavors and aromas. The Stone Cellars Merlot is luscious and well-balanced with ripe strawberry and red cherry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:light dry (delicate,moderate)
+14:red
+#title: <font class="result_title">Pearl of the Orient - Drinks, Wine by the Bottle</font><br>
+#abstract: 
+# Pearl of the Orient carry out menu caters Rocky River and Cleveland areas. ... Montecillo Rioja, Spain - Fresh and 
+# light, lively fruit flavor. Five Rivers, Merlot, California - Rich and fruity red, not too dry. Pepperwood Grove, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:flavor
+15:full (strong,moderate) dry
+15:red
+#title: <font class="result_title">AmericanWinery.com: Buy Wine direct from American wineries</font><br>
+#abstract: 
+# The 2005 TEIRA Dry Creek Valley Merlot exhibits strong notes of wet earth, saddle leather, ... The light ruby 
+# red color of this Merlot disguises the true robust flavor and incredibly full mouthfeel of this wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+#title: <font class="result_title">Gianna Italian Kitchen - Wine List</font><br>
+#abstract: 
+# Located in Tomball, Texas, Gianna Italian Kitchen serves food, spirits, and lasting memories to friends 
+# of the Tomball community, the neighboring 1960 area, and the beautiful Woodlands community. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:(napa,valley)
+17:red
+17:(color,colour)
+#title: <font class="result_title">Camp McClellan Cellars</font><br>
+#abstract: 
+# CHICKEN RANCH MERLOT - TRINCHERO - NAPA VALLEY, CA. This Merlot offers a lovely aroma of ... Merlot 
+# grapes this Chianti has a very intense ruby purple red color and a fresh almond ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:(sterling,merlot)
+18:red
+18:wine
+#title: <font class="result_title">54 Main Bar and Grille | Red Wine | Restaurant Madison, NJ 07940</font><br>
+#abstract: 
+# 29.00. Hahn Merlot ( California ) Ripe dark fruits, sweet aromas USD35.00. Sterling Merlot 
+# ... ( California ) Spicy herb and vanilla, strong dark fruit, chocolate ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:(medium,full) (delicate,strong) dry
+19:red
+#title: <font class="result_title">Cal's Wood-Fired Grill %26 Bar - Wine List</font><br>
+#abstract: 
+# Cal's Wood-Fired Grill %26 Bar serves traditional American-style cuisine in West Springfield, Massachusetts ... A well-balanced medium-bodied 
+# merlot with a deep ruby red color. Strong flavors of plum, blackberry, raspberry, and boysenberry ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:(sterling,merlot)
+#title: <font class="result_title">Don's Lighthouse Wine List</font><br>
+#abstract: 
+# Trinchero Family Selection Merlot, CA- Rich, lush, smooth, plum, cherry and cedar flavors. 26. Sterling Merlot, CA- Fruit forward, soft tannins from 
+# one of CA's finest ... bodied, hints of black cherry, cinnamon %26 spice. 6. 23. Niebaum Coppola Red Zinfandel, CA-L ... 

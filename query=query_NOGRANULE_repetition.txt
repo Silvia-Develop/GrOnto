@@ -1,0 +1,8 @@
+18:wine
+18:wine_ontology
+12:wine_ontology
+18:red
+18:(medium,light) moderate dry
+18:(page,mill,winery,cabernet,sauvignon)
+12:low
+18:(tannic,tannin)

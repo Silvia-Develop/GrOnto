@@ -1,0 +1,197 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:wine
+1:vineyard
+#title: <font class="result_title">Red Wines</font><br>
+#abstract: 
+# Shop Wines: All Reds Discover hidden gems from small vineyards, all winners from our expert and customer 
+# panels. Choose from a full range of red wine - styles of old-world, versatile %26 vel 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:red
+2:colour
+2:full
+2:body
+#title: <font class="result_title">Fine red French wines, London, London City, UK</font><br>
+#abstract: 
+# Taste: Deep dark red colour. Full body red wine. Cherry flavour. Serving Suggestion: 
+# ... with traditional Burgundian gastronomy, grilled red meat, roast, beef, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:roast beef
+#title: <font class="result_title">Recipe Details :: County Market North Branch</font><br>
+#abstract: 
+# Red Meat: Beef, Grilled Beef, Grilled Filet Mignon, Roast Beef ... Beef, Buffalo, Farmed 
+# Venison, Game, Grilled or Roast Leg, Grilled or Broiled Chops or ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:bordeaux
+4:cabernet,sauvignon
+#title: <font class="result_title">Recipe Details :: Porricelli's Market</font><br>
+#abstract: 
+# It became famous through the red wines of the Médoc district of Bordeaux and is now grown 
+# ... Cabernet Sauvignon grapes make wines that are high in tannin and medium- to full-bodied. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:delicate
+5:roast beef
+#title: <font class="result_title">Tarara | Red Wines</font><br>
+#abstract: 
+# Its full palate offers crisp orange zest, spice and a long, herbal finish. ... The wine barrels are blended to create a wine of delicate 
+# nature showcasing red currant and blackberry characters with some cedar tones. This wine is wonderful with tender slices of roast beef and creamy ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+6:dry
+6:red
+#title: <font class="result_title">Musca Wine Pressing and Supplies Limited: Vintage Reserve Reds</font><br>
+#abstract: 
+# Traditional Food Pairings: Rack of Lamb, Roast Pork, Steak, Beef Stew, Pasta, Mature and Strong Cheeses, Venison, %26 Meat Stew. ... Red wines are 
+# considered to be full bodied, dry red dinner wines with great pronounced flavour, body, and bouquet, not to mention their deep red ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:roast beef
+#title: <font class="result_title">Wine Pairing Guide, Beef with Mushrooms and Stuffed Tenderloin</font><br>
+#abstract: 
+# When selecting wine to serve with beef, red wine probably comes to mind first. ... Chardonnay is rich and full-bodied, almost buttery-tasting. Its apple and coconut 
+# flavors make it a good choice with Thai and other Asian dishes. It's a classic with roast beef and veal. Sauvignon Blanc is ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:food
+8:full
+8:body
+8:roast beef
+#title: <font class="result_title">Recipe Details :: Forest Hills Foods</font><br>
+#abstract: 
+# Barbeque Pulled-Pork or Ribs, Chili, Game, Grilled Sausage, Hamburgers, Red Meat Cajun Style, Roast Beef ... In the Rhone region this grape produces deeply colored 
+# wines with full body and firm tannin, however in Australia, where it is known as Shiraz, the wines are lighter and fruitier. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:food
+9:wine
+9:medium
+9:body
+#title: <font class="result_title">eBay Guides - Food and Wine Pairing Buide</font><br>
+#abstract: 
+# A heavy wine with flavors of herbs, bell pepper, red fruits and chocolate. Goes very well with Roast Chicken, Roast Beef, 
+# Roast Lamb, Duck and Goose. ... A medium body wine with flavors of red fruits, pine forest and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:food
+10:wine
+10:riesling
+#title: <font class="result_title">The White Stuff | Food %26 Wine</font><br>
+#abstract: 
+# To all the red-wine snobs, editor Lettie Teague says: Get over it! Here, she explains why white wine is so divine. ... For example, the 
+# fresh, melony notes and full body of Viognier pair perfectly with roast pork or smoked ham, while choucroute and Riesling are a ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:grape
+#title: <font class="result_title">2008 Simonassi Malbec</font><br>
+#abstract: 
+# 2008 Simonassi Malbec - Simonassi Malbec might just be the very best Malbec available right now for USD10, period. For that matter, it 
+# is certainly one of the very top wines from that grape even at twice its price, having been carefully sourced ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:full
+12:body
+12:red
+12:wine
+#title: <font class="result_title">Recipe Details :: Mackenthun's Fine Foods</font><br>
+#abstract: 
+# ... produces deeply colored wines with full body and firm tannin, however ... Barbeque Pulled-Pork or Ribs, Game, Kidney, Roast Beef, Sausage, Variety Meats 
+# or Organ Meats, Veal Carpaccio. Sauces: Red Wine Sauce. Vegetables: Potatoes, Roasted Mixed Vegetables. Cabernet Sauvignon: (cab er nay saw vee nyon) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:bordeaux
+13:cabernet,sauvignon
+13:tannin
+#title: <font class="result_title">Recipe Details :: Everybody's Market</font><br>
+#abstract: 
+# It became famous through the red wines of the Médoc district of Bordeaux and is now grown 
+# ... Cabernet Sauvignon grapes make wines that are high in tannin and medium- to full-bodied. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:red
+#title: <font class="result_title">Musca Wine Pressing and Supplies Limited: "From The Vine" Kits</font><br>
+#abstract: 
+# Traditional Food Pairings: Rack of Lamb, Roast Pork, Steak, Beef Stew, Pasta, Mature and Strong Cheeses, Venison, %26 Meat Stew. ... California Red wines are 
+# considered to be full bodied, dry red dinner wines with great pronounced flavour, body, and bouquet, not to mention their deep red colour. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:roast beef
+15:red
+15:cabernet,sauvignon
+#title: <font class="result_title">Recipe Details :: Remke Markets</font><br>
+#abstract: 
+# Beef Stew, Kidney, Lamb, Lamb Stew, Roast Beef, Salami, Sausage, Variety Meats or Organ ... red 
+# wines from the Cabernet Sauvignon, Merlot, and Cabernet Franc grapes and white wines ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:food
+16:wine
+#title: <font class="result_title">Pairing Food and Wine - Abcon International Wine Merchants</font><br>
+#abstract: 
+# Medium-bodied, deep red wine with luscious, full flavor. Complements foods that are rich and hearty with a natural softness or ... 
+# Menu Recommendations - Roast turkey, roast pork loin, beef and lamb stews and roast duck, French onion soup, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:bordeaux
+17:roast beef
+#title: <font class="result_title">Recipe Details :: Gary's Foods</font><br>
+#abstract: 
+# It became famous through the red wines of the Médoc district of Bordeaux and is now grown 
+# ... Beef Stew, Kidney, Lamb, Lamb Stew, Roast Beef, Salami, Sausage, Variety Meats or Organ ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:red
+18:bordeaux
+18:full
+18:body
+#title: <font class="result_title">Recipe Details :: Tri Town Foods</font><br>
+#abstract: 
+# The finest red Bordeaux wines still take 20 years or so before reaching their maturity. ... 
+# produces deeply colored wines with full body and firm tannin, however in Australia, where ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:red
+19:wine
+#title: <font class="result_title">Buy Red Wine Online from Oliver Wines, Sussex Wine Merchants</font><br>
+#abstract: 
+# Buy Red Wine Online from Oliver Wines - safe online payment, all major cards accepted ... Lamb Shank, Roast Beef. Australia. Willowglen, Shiraz Cabernet, 2006. Brick red 
+# in colour with hints of purple with aromas of pepper, spice and plum with undertones of cedary oak on the palate dark berry flavours ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:bordeaux
+20:red
+20:wine
+#title: <font class="result_title">Recipe Details :: Save-On-Foods</font><br>
+#abstract: 
+# It became famous through the red wines of the Médoc district of Bordeaux and is now grown ... It 
+# became famous through the red wines of the Médoc district of Bordeaux and is now grown ... 

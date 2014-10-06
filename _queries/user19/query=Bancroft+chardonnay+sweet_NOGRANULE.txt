@@ -1,0 +1,58 @@
+13:wine
+2:wine
+19:wine
+10:wine
+3:wine
+4:wine
+12:wine
+18:wine
+9:wine
+15:wine
+7:wine
+14:wine
+17:wine
+6:wine
+8:wine
+20:wine
+1:wine
+19:wine grape
+19:merlot grape
+15:white bordeaux
+18:steak
+15:white merlot
+16:red merlot
+16:fruit
+9:fruit
+2:sauvignon blanc
+15:sauvignon blanc
+11:sauvignon blanc
+8:sauvignon blanc
+9:red wine
+8:red wine
+19:grape
+13:food
+7:food
+3:seafood
+2:semillon
+11:semillon
+2:bancroft
+19:bancroft
+3:bancroft
+16:bancroft
+12:bancroft
+5:bancroft
+9:bancroft
+15:bancroft
+7:bancroft
+11:bancroft
+14:bancroft
+17:bancroft
+6:bancroft
+8:bancroft
+1:bancroft
+16:sweet fruit
+15:white zinfandel
+15:white wine
+12:cabernet sauvignon
+15:cabernet sauvignon
+7:drink

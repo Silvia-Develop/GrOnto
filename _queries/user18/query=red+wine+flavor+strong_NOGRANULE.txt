@@ -1,0 +1,70 @@
+9:white meat
+11:cabernet sauvignon
+20:red wine
+14:red wine
+5:red wine
+19:red wine
+2:red wine
+8:red wine
+6:red wine
+1:red wine
+4:red wine
+15:red wine
+3:red wine
+9:red wine
+7:red wine
+13:red wine
+18:red wine
+11:red wine
+12:red wine
+10:red wine
+2:pinot noir
+9:red meat
+11:red meat
+12:dessert
+12:dessert wine
+9:meat
+11:meat
+4:drink
+13:drink
+19:red merlot
+11:red merlot
+15:chianti
+14:fruit
+8:fruit
+17:fruit
+5:wine grape
+7:wine grape
+10:wine grape
+5:grape
+7:grape
+10:grape
+20:wine
+14:wine
+5:wine
+19:wine
+2:wine
+16:wine
+8:wine
+6:wine
+1:wine
+4:wine
+15:wine
+3:wine
+9:wine
+7:wine
+13:wine
+18:wine
+11:wine
+12:wine
+17:wine
+10:wine
+5:food
+9:food
+7:food
+11:food
+10:food
+14:white wine
+9:white wine
+7:white wine
+10:white wine

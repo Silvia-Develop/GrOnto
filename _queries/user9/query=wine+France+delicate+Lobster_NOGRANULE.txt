@@ -1,0 +1,60 @@
+5:fruit
+6:wine region
+9:wine region
+8:wine region
+3:lobster
+6:lobster
+14:lobster
+4:lobster
+5:lobster
+17:lobster
+1:lobster
+7:lobster
+8:lobster
+10:lobster
+6:pasta
+3:red wine
+14:red wine
+8:red wine
+6:swordfish
+3:food
+16:food
+1:food
+12:food
+13:rose wine
+11:white wine
+3:white wine
+9:white wine
+8:white wine
+11:grape
+9:grape
+8:grape
+2:wine
+11:wine
+18:wine
+3:wine
+6:wine
+19:wine
+9:wine
+20:wine
+15:wine
+14:wine
+4:wine
+13:wine
+5:wine
+17:wine
+16:wine
+1:wine
+7:wine
+8:wine
+12:wine
+10:wine
+16:fish
+8:fish
+11:wine grape
+9:wine grape
+8:wine grape
+6:seafood
+8:seafood
+12:seafood
+5:meat

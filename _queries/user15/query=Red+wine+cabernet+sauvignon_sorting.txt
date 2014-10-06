@@ -1,0 +1,10 @@
+#nomecategoria:2,4,2
+blanc,sauvignon:17
+bordeaux:4,5
+cabernet,sauvignon:1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+color:16
+napa:5,7,10,19
+red:2,3,5,8,10,11,13,15,18,20
+tannic:1
+valley:5,19
+wine:2,3,4,7,8,10,11,13,14,18,20

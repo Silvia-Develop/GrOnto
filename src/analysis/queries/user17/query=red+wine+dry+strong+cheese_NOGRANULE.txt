@@ -1,0 +1,88 @@
+8:cabernet sauvignon
+20:cabernet sauvignon
+8:red merlot
+3:red merlot
+12:white wine
+11:white wine
+16:white wine
+15:white wine
+10:white wine
+14:white wine
+6:white wine
+5:white wine
+17:white wine
+16:port
+20:port
+1:port
+3:pasta
+4:pasta
+20:red bordeaux
+14:dessert
+5:dessert
+1:dessert
+6:cabernet franc
+1:cabernet franc
+14:dessert wine
+5:dessert wine
+1:dessert wine
+18:food
+3:food
+10:food
+14:drink
+11:white meat
+11:fish
+8:wine
+12:wine
+18:wine
+11:wine
+19:wine
+9:wine
+7:wine
+16:wine
+15:wine
+3:wine
+20:wine
+10:wine
+14:wine
+4:wine
+6:wine
+13:wine
+5:wine
+1:wine
+17:wine
+2:wine
+7:red zinfandel
+14:sweet dessert
+5:sweet dessert
+1:sweet dessert
+3:pork
+4:pork
+3:duck
+6:fruit
+3:pinot noir
+4:pinot noir
+11:meat
+19:meat
+3:meat
+3:lamb
+12:wine region
+20:chianti
+11:salmon
+8:red wine
+12:red wine
+11:red wine
+19:red wine
+7:red wine
+16:red wine
+15:red wine
+3:red wine
+20:red wine
+10:red wine
+14:red wine
+4:red wine
+6:red wine
+5:red wine
+1:red wine
+11:red meat
+19:red meat
+3:red meat

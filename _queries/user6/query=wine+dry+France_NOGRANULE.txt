@@ -1,0 +1,48 @@
+19:wine
+4:wine
+18:wine
+6:wine
+17:wine
+11:wine
+12:wine
+3:wine
+15:wine
+16:wine
+2:wine
+20:wine
+14:wine
+5:wine
+9:wine
+13:wine
+1:wine
+7:wine
+10:wine
+8:wine
+10:muscadet
+19:white wine
+11:white wine
+12:white wine
+3:white wine
+15:white wine
+16:white wine
+2:white wine
+20:white wine
+14:white wine
+9:white wine
+13:white wine
+10:white wine
+1:wine grape
+15:wine region
+9:wine region
+10:wine region
+1:grape
+6:cabernet franc
+5:cabernet franc
+18:red wine
+6:red wine
+17:red wine
+1:red wine
+8:red wine
+12:white bordeaux
+20:white bordeaux
+5:chianti

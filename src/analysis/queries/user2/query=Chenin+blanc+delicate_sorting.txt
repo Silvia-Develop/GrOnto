@@ -1,0 +1,23 @@
+#nomecategoria:2,4,2
+#apple:6
+#chenin,blanc:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+#color:5,19
+#delicate:1,4,13,17,20
+#food:9
+#fruit:2,6,14
+#grape:8,16,19
+#sauvignon,blanc:8
+#sugar:4
+#sweet:15
+#white:3,7,16,17
+#wine:3,16
+(color,colour):5,19
+(stonleigh,sauvignon,blanc):8
+(ventana,chenin,blanc):1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+apple:6
+body flavor (sweet,sugar):4
+food:9
+fruit:2,6,14
+light dry (delicate,moderate):13,17,20
+white:3,7,16,17
+wine:3,16

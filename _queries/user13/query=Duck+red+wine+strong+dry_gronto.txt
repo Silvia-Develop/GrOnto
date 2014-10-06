@@ -1,0 +1,148 @@
+12:(mount,eden,vineyard,estate,pinot,noir)
+9:(mount,eden,vineyard,estate,pinot,noir)
+8:(puligny,montrachet,white,burgundy)
+4:(puligny,montrachet,white,burgundy)
+7:(puligny,montrachet,white,burgundy)
+12:(puligny,montrachet,white,burgundy)
+2:(puligny,montrachet,white,burgundy)
+8:food
+1:food
+11:food
+4:food
+5:food
+7:food
+12:food
+13:food
+9:food
+14:grilled chicken
+5:(marietta,cabernet,sauvignon)
+14:(marietta,cabernet,sauvignon)
+10:(selaks,ice,wine)
+8:(selaks,ice,wine)
+18:(selaks,ice,wine)
+1:(selaks,ice,wine)
+11:(selaks,ice,wine)
+4:(selaks,ice,wine)
+5:(selaks,ice,wine)
+7:(selaks,ice,wine)
+12:(selaks,ice,wine)
+13:(selaks,ice,wine)
+19:(selaks,ice,wine)
+16:(selaks,ice,wine)
+2:(selaks,ice,wine)
+14:(selaks,ice,wine)
+17:(selaks,ice,wine)
+9:(selaks,ice,wine)
+5:(tannic,tannin)
+8:(gary,farrell,merlot)
+14:(gary,farrell,merlot)
+5:(forman,cabernet,sauvignon)
+14:(forman,cabernet,sauvignon)
+5:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+14:(santa,cruz,mountain,vineyard,cabernet,sauvignon)
+19:fish
+14:(corbans,private,bin,sauvignon,blanc)
+12:(lane,tanner,pinot,noir)
+9:(lane,tanner,pinot,noir)
+9:full (strong,moderate) dry
+12:(mountadam,pinot,noir)
+9:(mountadam,pinot,noir)
+8:(corton,montrachet,white,burgundy)
+4:(corton,montrachet,white,burgundy)
+7:(corton,montrachet,white,burgundy)
+12:(corton,montrachet,white,burgundy)
+2:(corton,montrachet,white,burgundy)
+8:(sterling,merlot)
+14:(sterling,merlot)
+11:grape
+8:white
+4:white
+7:white
+12:white
+2:white
+8:(longridge,merlot)
+14:(longridge,merlot)
+5:(sterling,cabernet,sauvignon)
+14:(sterling,cabernet,sauvignon)
+2:(medium,full) (delicate,strong) dry
+9:(medium,full) (delicate,strong) dry
+18:(whitehall,lane,cabernet,franc)
+5:(whitehall,lane,cabernet,franc)
+14:(whitehall,lane,cabernet,franc)
+5:(page,mill,winery,cabernet,sauvignon)
+14:(page,mill,winery,cabernet,sauvignon)
+14:cabernet sauvignon
+11:(zinfandel,grape)
+10:red
+8:red
+18:red
+6:red
+11:red
+4:red
+20:red
+5:red
+7:red
+12:red
+19:red
+16:red
+2:red
+14:red
+17:red
+9:red
+15:red
+2:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+9:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+10:duck
+3:duck
+12:duck
+17:duck
+14:(selaks,sauvignon,blanc)
+14:(stonleigh,sauvignon,blanc)
+13:roast beef
+8:fruit
+19:fruit
+17:fruit
+2:(full,medium) (moderate,strong) dry
+9:(full,medium) (moderate,strong) dry
+11:steak
+14:turkey
+2:(full,medium) strong dry
+9:(full,medium) strong dry
+5:(steerling,cabernet,sauvignon)
+14:(steerling,cabernet,sauvignon)
+14:(corbans,sauvignon,blanc)
+2:medium strong dry
+9:medium strong dry
+8:(corbans,dry,white,riesling)
+18:(corbans,dry,white,riesling)
+11:(corbans,dry,white,riesling)
+3:(corbans,dry,white,riesling)
+4:(corbans,dry,white,riesling)
+7:(corbans,dry,white,riesling)
+12:(corbans,dry,white,riesling)
+13:(corbans,dry,white,riesling)
+16:(corbans,dry,white,riesling)
+2:(corbans,dry,white,riesling)
+14:(corbans,dry,white,riesling)
+9:(corbans,dry,white,riesling)
+10:wine
+8:wine
+18:wine
+1:wine
+11:wine
+4:wine
+5:wine
+7:wine
+12:wine
+13:wine
+19:wine
+16:wine
+2:wine
+14:wine
+17:wine
+9:wine
+18:(cabernet,franc,grape)
+11:(cabernet,franc,grape)
+5:(cabernet,franc,grape)
+14:(cabernet,franc,grape)
+16:peach

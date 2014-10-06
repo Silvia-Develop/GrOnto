@@ -1,0 +1,187 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:wine
+1:beaujolais
+#title: <font class="result_title">Home Page - Ventevin.com :</font><br>
+#abstract: 
+# ventevin.com : Nouveautés - vin, saveurs sucrées, saveurs salées Ventevin.com : Nouveautés - Vin - Saveurs sucrées, Saveurs salées ... 
+# Bourgogne/Beaujolais/Rhone. Dry White Wines. Red Wines. Beaujolais. Bourgogne. C%C3%B4te Chalonnaise. C%C3%B4te de Beaune. C%C3%B4te de Nuit. Maconnais ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:chardonnay
+2:region
+2:france
+#title: <font class="result_title">AlcoHouse.lv: Wines</font><br>
+#abstract: 
+# Louis Latour Bourgogne Chardonnay. White Wine. Country of origin: France. Region: Bourgogne ... Dry red 
+# wine. Country of origin: France. Region: Bourgogne. Vintage: 2003. Capacity: 0.75 L ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:pinot,noir
+3:red
+3:wine
+#title: <font class="result_title">Bourgogne Pinot Noir Domaine du Prieure - 2008 Red Wine ...</font><br>
+#abstract: 
+# 2008 - Bourgogne Pinot Noir Domaine du Prieure. This Bourgogne Pinot Noir is from a tiny 2 hectare plot just outside the 
+# Savigny appellation. It extols the virtues of pure Pinot fruit with captivating ripe perfume and soft silky balance. A ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:france
+4:red
+4:wine
+#title: <font class="result_title">the route to all good wine - decanter.com</font><br>
+#abstract: 
+# decanter.com features wine news and views, wine auction price tracker, free wine news alerts and wine recommendations. ... Red wine dry From Bourgogne, Burgundy, 
+# France Produced by Domaine Emmanuel Rouget. read more about this wine. Savigny-les-Beaune, Domaine Emmanuel Rouget, 1998. Red wine dry From Cote de ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:red
+5:wine
+#title: <font class="result_title">Red Wine wine ES products</font><br>
+#abstract: 
+# Alibaba.com provides Red Wine, check Red Wine products detail: Red Wine Semi-dry (with 15g 
+# sugar) 11% alc.In bourgogne bottle - 6x75cl per carton2500 cartons (6x75cl) per 20ftF 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:cheese
+6:wine
+6:red
+6:bordeaux
+#title: <font class="result_title">Cheese and Wine, French Wine Guide</font><br>
+#abstract: 
+# Cheese and Wine with The French Wine Guide: cheese and wine combination, matching wine with cheese from France ... Dry white wine (Sancerre) or 
+# fruity red wine (Beaujolais) Brie de Meaux. Champagne! Red Bordeaux or Bourgogne (Burgundy) Camembert. Red Bordeaux or Beaujolais. Chaource. Champagne. Sancerre or ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:burgundy
+7:wine
+#title: <font class="result_title">Wine making in Burgundy Bourgogne wine guide</font><br>
+#abstract: 
+# Wine making in Burgundy with the French Wine Guide. Burgundy is a region with various 
+# soils, divided in numerous districts: Chablis, Ccte de Nuits, Cote de Beaune, et Beaujolais. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:dry
+8:white
+8:beaujolais
+#title: <font class="result_title">New Products Ventevin.com :</font><br>
+#abstract: 
+# Bourgogne/Beaujolais/Rhone. Dry White Wines. Red Wines. Beaujolais. Bourgogne. C%C3%B4te ... C%C3%B4te d'Azur. 
+# Rosé Wines. Red Wines. Provence AOC. Palette AOC. Alsace ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:red
+9:wine
+#title: <font class="result_title">french red wine, french red wine Manufacturers %26 Suppliers ...</font><br>
+#abstract: 
+# Alibaba - french red wine: french red wine Manufacturers %26 french red wine Suppliers. Find a reliable %26 
+# professional french red wine manufacturer or supplier. Also exporters of wholesale french red wine. - Page 10 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:region
+10:pinot,noir
+10:dry
+10:red
+#title: <font class="result_title">AlcoHouse.lv: Wines | France</font><br>
+#abstract: 
+# Region: Bourgogne. Capacity: 0.75 L. ABV: 13% Price: 6.89 Ls. item. Buy ... Bourgogne 
+# Pinot Noir. Dry red wine. Country of origin: France. Region: Bourgogne. Capacity: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:pinot,noir
+11:red
+#title: <font class="result_title">2006 Nicolas Potel Bourgogne Rouge Cuvee Gerard Potel by ...</font><br>
+#abstract: 
+# Nicolas Potel Bourgogne Rouge Cuvee Gerard Potel (2006) ratings and reviews, winery notes, wine tasting 
+# notes and food pairings for this Pinot Noir Red Wine by Nicolas Potel 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:pinot,noir
+12:grape
+#title: <font class="result_title">Remoissenet Bourgogne Pinot Noir 2006 %3C Burgundy Red Wine ...</font><br>
+#abstract: 
+# A Domaine Remoissenet red wine, from the Burgundy region of France. Slurp Price: %C2%A310.85; Colour: Red; Style: Medium-bodied; Size: 
+# 75cl; Vintage: 2006; Class: Beaune; Grape: Pinot Noir; Straight from the Remoissenet cellars deep under the streets ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:dry
+13:white
+#title: <font class="result_title">.:: DISCOVERPARIS ::.</font><br>
+#abstract: 
+# For Aperitif (happy hour): Crémant de Bourgogne (sparkling white wine), Bourgogne Aligoté (plain or as a kir made with a Dijon crème de 
+# cassis. For appetizers dry white wine, young and light, nervous and fresh like a Bourgogne blanc, M%C3%A2con blanc, Petit Chablis ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+#title: <font class="result_title">Sugarless Organic Wine : Distributors of Organic Wine %26 Champagne</font><br>
+#abstract: 
+# Buy Organic Red or White Wine %26 Champagne and have it delivered to your door in Australia %26 New Zealand. ... A dry, 
+# medium bodied red varietal wine of good structure obtained from the elaboration of Pinot Noir grapes, originated in Bourgogne, cultivated ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:pinot,noir
+#title: <font class="result_title">Buy Pinot Noir</font><br>
+#abstract: 
+# Collection of great French wines, champagne, wine accessories, whisky and many more on our 
+# online wine store finestwine. Visit now and get delivery at your doorstep. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:food
+16:red
+#title: <font class="result_title">Victoria Wine and Food</font><br>
+#abstract: 
+# Red wine or white wine? Dry or semi-dry? A general guide on the different 
+# types of wine and how to choose one to compliment your meal. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+#title: <font class="result_title">Bourgone Aligote Domaine des Manants Aligoté 2007 Bourgogne ...</font><br>
+#abstract: 
+# Online Wine from independent wine merchants offering prompt delivery of fine and value for money wines throughout the UK ... Bourgogne Aligoté. Grape 
+# type. Aligoté. Producer. J M Brocard. Colour. White. Wine style. Dry crisp white. Bottle size. 75cl. Vintage. 2007. Alcoholic. strength. 12 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+#title: <font class="result_title">Buy wines online Wine at Online Wine Store | WineLegend.com</font><br>
+#abstract: 
+# Buy Buy wines online Wine at Online Wine Store for the lowest prices. Great 
+# xxx xx Vintage Wine, grab them now for the cheapest price online. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:dry
+19:red
+#title: <font class="result_title">WineGroup.com.au | Wine Group | Wine Glass | Sweet Red | Dry ...</font><br>
+#abstract: 
+# Dry Red. Sparkling. Australian Winery. Fruity Lexia. Wine Train. Search: Sponsored Listings ... 
+# A resource from the Bureau Interprofessionnel des Vins de Bourgogne. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:france
+#title: <font class="result_title">Vintages Feb 05 | Vintages Release February 2005</font><br>
+#abstract: 
+# Vintages Release February 2005. These recommended wines are widely available in liquor stores, and they represent tremendous value. ... February 5: Red Wines. 650630 
+# BOURGOGNE 2002 USD25.95 Burgundy, France AC, Pinot Noir (XD %3D extra dry) Patrice Rion: Vintages catalogue: Enroll yourself in Burgundy 101. ... 

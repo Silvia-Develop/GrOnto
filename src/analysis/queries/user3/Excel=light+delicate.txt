@@ -1,0 +1,50 @@
+1:light dry (delicate,moderate)
+1:white
+1:wine
+2:(mountadam,pinot,noir)
+2:light dry (delicate,moderate)
+3:light dry (delicate,moderate)
+3:wine
+4:light dry (delicate,moderate)
+4:white
+4:wine
+5:light dry (delicate,moderate)
+5:(mountadam,pinot,noir)
+5:apple
+6:wine
+6:light dry (delicate,moderate)
+7:wine
+7:light dry (delicate,moderate)
+8:(mount,eden,vineyard,edna,valley,chardonnay)
+8:peach
+9:food
+9:(stonleigh,sauvignon,blanc)
+9:(medium,light) moderate dry
+10:light dry (delicate,moderate)
+10:wine
+11:wine
+11:red
+11:gamay grape
+12:wine
+12:food
+12:cabernet sauvignon
+13:(mount,eden,vineyard,estate,pinot,noir)
+13:light dry (delicate,moderate)
+14:food
+14:wine
+15:(mountadam,pinot,noir)
+15:light dry (delicate,moderate)
+16:light dry (delicate,moderate)
+16:white
+17:food
+17:fish
+17:light dry (delicate,moderate)
+17:wine
+18:wine
+18:light dry (delicate,moderate)
+19:wine
+19:chardonnay
+19:light dry (delicate,moderate)
+20:(mountadam,pinot,noir)
+20:light dry (delicate,moderate)
+20:wine

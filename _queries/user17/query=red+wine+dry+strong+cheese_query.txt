@@ -1,0 +1,210 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:light
+1:pinot,noir
+1:cheese
+#title: <font class="result_title">Wine tips: choosing wines for meals</font><br>
+#abstract: 
+# This light, tasty wine best complements strong cheese, appetizers, pasta with red sauce, pork and poultry. ... Strong 
+# cheese, pasta with red sauce, beef and pork are the best matches for Pinot Noir. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:food
+2:wine
+2:full
+2:body
+2:pinot,noir
+#title: <font class="result_title">Recipes - Food and Wine Pairing Guide - ArcaMax Publishing</font><br>
+#abstract: 
+# Pointers and recommended for some simple food and wine combinations. ... Red meat, BBQ, chicken, hamburgers, wild game, pork, duck, most cheeses. Merlot. Dry 
+# %E2%80%A2 Full bodied. Roasted poultry, chicken, casseroles, lamb, venison, pasta, mild cheese, strong cheese. Pinot Noir. Dry %E2%80%A2 Light to medium bodied ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+3:red
+3:port
+3:sweet
+#title: <font class="result_title">Arrowhead Wine Cellars - RED WINE</font><br>
+#abstract: 
+# Fredonia Wine. Semi-Sweet. Intense grape flavors and aromas. USD8.99. Merlot Wine. Dry. Full bodied with hints of sweet 
+# cherries and blackberries. ... 14.99. Port Wine. Sweet. Excellent with strong cheese, dessert or a ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:cheese
+4:wine
+#title: <font class="result_title">Matching Cheese and Wine. - from Spittoon.biz</font><br>
+#abstract: 
+# Cabrales - a dry or sweet Sherry for this Spanish blue cheese or a sweet wine. ... Strong in flavour and aroma, this classic 
+# cheese from Burgundy should be matched with a wine from the same region - a red or a white will be ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:cheese
+5:wine
+5:france
+#title: <font class="result_title">Cheese and Wine, French Wine Guide</font><br>
+#abstract: 
+# Cheese and Wine with The French Wine Guide: cheese and 
+# wine combination, matching wine with cheese from France 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:dry
+6:wine
+6:cabernet,sauvignon
+#title: <font class="result_title">Cox Creek Cellars - Dry Wines</font><br>
+#abstract: 
+# Cabernet Sauvignon is a classic dry red wine. Barrel aged in French oak, which creates a 
+# ... This wine can accompany red meats, roasted goose, and any other strong dishes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:cheese
+#title: <font class="result_title">WineCOW.com - A Good Place for Great Washington Wine</font><br>
+#abstract: 
+# WineCOW, also known as Wine Connection of Washington, is dedicated to promoting premium Washington wine and improving the overall wine experience. ... are put off by 
+# the strong salt content but the salt is intended only as a preservative and is not supposed to overpower the taste of the cheese. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:red
+8:wine
+8:turkey
+8:cheese
+8:sauvignon,blanc
+#title: <font class="result_title">December/January Citibank Net News - Red Wine with Turkey ...</font><br>
+#abstract: 
+# It's no longer written in stone that white wine goes with white meat and red with red. 
+# ... Strong cheese, such as goat cheese. Sauvignon Blanc (white) Slightly acidic and crisp, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:red
+9:wine
+#title: <font class="result_title">Hi-Time Wine Cellars: Largest retail wine cellar in the West</font><br>
+#abstract: 
+# Pair with a big red wine (Bordeaux, Cabernet Sauvignon, Chianti) a ruby port, a Pilsner-style lager, or a hoppy Pale Ale, a well aged Brandy, or Rum, a 
+# strong aperitif, or a dry hard cider. Tête de Moine This cheese is firm, with straw yellow paste and a spicy, fruity flavor and aroma. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:white
+10:red
+#title: <font class="result_title">Vallarta Wine Fest 2010</font><br>
+#abstract: 
+# Semisweet light alcoholic white wines: Quiche, Fish with light sauce, Chicken, Dry Fruits, Fresh Salads, Almond cake. ... Aged Red wines 
+# fruit scented and full bodied: P%C3%A2té, Red meat, duck, Fish in wine sauce, Strong Cheeses, Red fruits Tart and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:food
+#title: <font class="result_title">Victoria Wine and Food</font><br>
+#abstract: 
+# Red wine or white wine? Dry or semi-dry? A general guide on the different 
+# types of wine and how to choose one to compliment your meal. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cheese
+12:strong
+12:full
+12:body
+#title: <font class="result_title">Saputo.ca, cheese (Canada)</font><br>
+#abstract: 
+# For unripened cheeses: fruity red wines with a good bouquet. For more ripened cheeses: strong and full-bodied red wines. Semi-firm 
+# cheeses. Light ... Light and dry white wines, dry rosé wines, or light and fruity red wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:cheese
+13:bordeaux
+13:dry
+13:red
+#title: <font class="result_title">Wine and Cheese - Shagun - About Wine</font><br>
+#abstract: 
+# "Cheese is probably the best of all foods, as wine is the best of all beverages", PATIENCE GRAY, 1957. ... really strong stuff, 
+# then a well rounded dry red wine such as Bordeaux would taste nice with a sharp blue veined cheese like the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:cheese
+14:dry
+14:sweet
+14:red
+#title: <font class="result_title">Find a wine - Matching Food and Wine</font><br>
+#abstract: 
+# In fact most cheese goes better with dry white wine or sweet wine than red, especially goats cheese (the classic match for ... Red wines go best with 
+# hard (but not too strong) cheeses and sheeps' cheeses. Rule no 1 of cheese and wine matching: don't crowd your cheeseboard with too many strong ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+15:cheese
+15:strong
+15:sweet
+15:red
+15:white
+#title: <font class="result_title">E%26J Gallo Wine %26 Cheese Pairing Guide</font><br>
+#abstract: 
+# Solution - In general, semi-dry and sweet wines are more versatile with cheeses than are dry wines. ... Solution - Strong cheeses require 
+# strong wines. Red wines (packed with fruit, acidity and flavor), sweet or aromatic whites and fortified wines like ports and sherries ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:cheese
+#title: <font class="result_title">Weathervane - Wine and Cheese Suggestions</font><br>
+#abstract: 
+# The cheese is ripened by the moulds penicillum candidia and penicillum camemberti for at least three weeks. ... Assertive, 
+# strong-flavored cheeses such as Provolone with young, robust red wines such as Temperature Rising or Cirrus Red ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:cheese
+#title: <font class="result_title">Winemonger.com / Winemonger Talk / Articles / Wine and Cheese ...</font><br>
+#abstract: 
+# Wondering which wines to pair with which cheese? Here is our ultimate guide to wine and cheese pairing. First you ... A hearty Zinfandel (AKA Primitivo) 
+# red wine will work beautifully with these cheeses: Asiago. Canestrato. Dry Sonoma Jack. Goat cheese. Gouda. Gruyere. A Great Zweigelt. Maytag Blue. Muenster. Pau ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:cheese
+#title: <font class="result_title">Wine n' Cheese</font><br>
+#abstract: 
+# Wine and cheese combination is universally savoured and appreciated. These 
+# can be made more interesting with and error 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:red
+19:tannin
+19:sweet
+19:cheese
+#title: <font class="result_title">Apiliotis Mezzo Red - DOMAINE SIGALAS - Ia Santorini ...</font><br>
+#abstract: 
+# Its aromatic and textural complexity is derived from the red fruit and sweet spices, while its tannin and sweet nature is balanced by the acidity 
+# of the variety. Enjoy Apiliotis on its own merit -ideally served at 6-8%C2%B0- or accompany it with strong cheese and dried fruit. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:food
+20:dry
+20:red
+20:cheese
+#title: <font class="result_title">Purple Liquid: a wine and food diary: Wine and Cheese Pairing</font><br>
+#abstract: 
+# A red wine like a Rioja or a dry Sherry are usually a good match for the sweet and nutty flavors of the cheese. ... We usually associate cheese with 
+# dry red wines. But looking back at the great wine/cheese combinations that we had that evening, it is interesting to notice that six wines out of seven were ... 

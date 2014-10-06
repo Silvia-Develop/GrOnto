@@ -1,0 +1,198 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:red
+1:food
+#title: <font class="result_title">Story | Red Oak Steaks %26 Wine</font><br>
+#abstract: 
+# Story. An exeptional dining experience involves more than great food. It also requires great atmosphere - and that%5C%5Cs exactly what Red 
+# Oak Steaks and Wine owners Tom Katt and Lynne Wilzbacher have provided. According to Katt, who has a ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:red
+2:wine
+#title: <font class="result_title">Home | Red Oak Steaks %26 Wine</font><br>
+#abstract: 
+# Home. Hours Open:Monday - Friday at 11:00Saturday at 4:00Closed Sundays Our Menu Dinner Lunch ... 
+# Copyright 2008 - Red Oaks Steaks %26 Wine - All Rights Reserved ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:red
+3:wine
+#title: <font class="result_title">Red Wine Pairing Suggestions for Grilled Steak | Into Wine</font><br>
+#abstract: 
+# Summertime is the season of backyard barbecues and grilled steak. IntoWine.com asked our panel of wine experts to 
+# recommend a red wine to pair with that summertime staple, grilled steak:%26nbsp;%26nbsp;%26nbsp;%26nbsp; "BBQ season is well 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:wine
+4:steak
+#title: <font class="result_title">New York Steak With Red Wine Cayenne Sauce: Ingredients: New ...</font><br>
+#abstract: 
+# New York Steak With Red Wine Cayenne Sauce: Ingredients. Part of the series: New York Steak With Red Wine Cayenne Sauce. 
+# For New York steak with red wine cayenne sauce, butter, garlic and rosemary are necessities. Discover the ingredients for New... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:red
+5:wine
+5:food
+#title: <font class="result_title">Sautéed Steaks with Red Wine and Peppers Recipe | Food %26 Wine</font><br>
+#abstract: 
+# A recipe for Sautéed Steaks with Red Wine and Peppers. Dishes 
+# created by Food %26 Wine Magazine and top chefs. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:red
+6:wine
+6:steak
+#title: <font class="result_title">Red Wine Steak Recipe</font><br>
+#abstract: 
+# Sautéed mushrooms and onions are simmered in the red-wine marinade to give this rich sauce a hint of caramel. ... Mix together 
+# red wine, parsley, oregano, salt, pepper and garlic. Pour over steak and marinate for 8 hours in the refrigerator. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:red
+7:wine
+7:steak
+#title: <font class="result_title">Massanutten Resort: Red Wine Marinate for Steak</font><br>
+#abstract: 
+# Massanutten Resort: Red Wine Marinate for Steak ... You are here: Home %3E Dining %3E 
+# Chef's Corner %3E Sauces %26 Marinades %3E Red Wine Marinate for Steak ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:steak
+8:wine
+8:red
+#title: <font class="result_title">Sirloin steak with red wine sauce and green beans recipe ...</font><br>
+#abstract: 
+# Sirloin steak with red wine sauce and green beans ... 4 For red wine sauce, heat, 
+# red wine in a small frying pan over medium heat until reduce by two-thirds. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:red
+9:wine
+#title: <font class="result_title">Fine Dining Lino Lakes Steaks Wine Full Bar</font><br>
+#abstract: 
+# Exceptional steak in a fine dining atmosphere is our specialty here at Red Oak Steak and Wine Bar in Lino Lakes. ... Red Oak Steaks and Wine was awarded 
+# the top 5 best steakhouse in the Twin Cities by AOL City Guide two years in a row, 2007 and 2008, with a 5-star rating both years. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:steak
+10:red
+10:wine
+#title: <font class="result_title">New York Steak With Red Wine Cayenne Sauce: Adding Lemon ...</font><br>
+#abstract: 
+# New York Steak With Red Wine Cayenne Sauce: Adding Lemon Juice. Part of the series: New York Steak With Red Wine Cayenne Sauce. Use 
+# a strainer when adding lemon juice to New York steak with red wine cayenne sauce so that the seeds are kept out of... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:red
+11:wine
+11:steak
+11:food
+#title: <font class="result_title">Red Wine Marinated Flank Steak Recipe : Sandra Lee : Food Network</font><br>
+#abstract: 
+# Food Network invites you to try this Red Wine 
+# Marinated Flank Steak recipe from Sandra Lee. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cheese
+12:red
+12:wine
+#title: <font class="result_title">Blue Cheese Crusted Steaks with Red Wine Sauce Recipe ...</font><br>
+#abstract: 
+# Blue Cheese Crusted Steaks with Red Wine Sauce Recipe - The tanginess of the blue cheese topping 
+# and the richness of the red wine sauce make these tender filet steaks a special treat. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:red
+13:wine
+#title: <font class="result_title">Rosemary and Red Wine Flat Iron Steaks - Grilled Steak Recipe</font><br>
+#abstract: 
+# Flat iron steaks are not only inexpensive to buy, but also extremely flavorful and versatile. ... 2 flat 
+# iron steaks, about 1 pound each. 1/4 cup of dry red wine. 3 cloves garlic, minced ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:food
+14:red
+14:wine
+14:mushroom
+#title: <font class="result_title">Rachael Ray Show - Food - Mushroom and Red Wine Cube Steak</font><br>
+#abstract: 
+# Mushroom and Red Wine Cube Steak. Turn an inexpensive cut of meat into ... Add the red 
+# wine and beef stock to the pan, season with salt and pepper, and cook down ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:red
+15:wine
+15:steak
+#title: <font class="result_title">Easiest Delicious Red Wine Steak Sauce - All Recipes</font><br>
+#abstract: 
+# This recipe is a hit with my family and friends and is absolutely easy and so delicious. It tastes like a merlot steak sauce you would find at a restaurant. 
+# ... Easiest Delicious Red Wine Steak Sauce. By: bakerdee "This recipe is a hit with my family and friends and is absolutely easy and so delicious. It ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:red
+16:wine
+16:steak
+#title: <font class="result_title">BBC NEWS | Health | Marinating 'may cut cancer risk'</font><br>
+#abstract: 
+# Marinating a steak in red wine or beer can cut down the number of cancer-causing agents produced when it is fried or grilled, research suggests. ... Marinating 
+# a steak in red wine or beer can cut down the number of cancer-causing agents produced when it is fried or grilled, research suggests. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:steak
+17:red
+17:wine
+#title: <font class="result_title">Flat Iron Steak with Red Wine Sauce Recipe : Giada De ...</font><br>
+#abstract: 
+# Food Network invites you to try this Flat Iron Steak 
+# with Red Wine Sauce recipe from Giada De Laurentiis. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:steak
+18:red
+18:wine
+#title: <font class="result_title">Savory Steaks with Red Wine Sauce - Goodhousekeeping.com</font><br>
+#abstract: 
+# This assertive sauce, made with red wine, is 
+# the perfect accompaniment to pan-seared steak. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:red
+19:wine
+19:steak
+#title: <font class="result_title">YouTube - Rosemary red wine marinade</font><br>
+#abstract: 
+# Amy makes a delicious red wine marinade, 
+# perfect to make with steak. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:wine
+20:steak
+#title: <font class="result_title">Red Oak Steaks and Wine, Lino Lakes, MN : Reviews and maps ...</font><br>
+#abstract: 
+# Red Oak Steaks and Wine, Lino Lakes, MN : Reviews and maps - 
+# Yahoo! Local, 651.294.0007. Get Ratings, Reviews, Photos and more on Yahoo! Local. 

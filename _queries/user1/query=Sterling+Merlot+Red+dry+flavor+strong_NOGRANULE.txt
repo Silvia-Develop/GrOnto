@@ -1,0 +1,61 @@
+13:wine grape
+1:wine grape
+19:red zinfandel
+3:food
+14:red wine
+17:red wine
+19:red wine
+13:red wine
+8:red wine
+9:red wine
+1:red wine
+10:red wine
+6:red wine
+16:red wine
+13:merlot grape
+1:merlot grape
+13:grape
+1:grape
+19:white zinfandel
+19:cabernet sauvignon
+18:cabernet sauvignon
+6:red bordeaux
+4:unclassified
+20:unclassified
+14:fruit
+18:fruit
+1:fruit
+19:white merlot
+8:white merlot
+9:fish
+14:wine
+17:wine
+19:wine
+13:wine
+7:wine
+8:wine
+9:wine
+1:wine
+3:wine
+10:wine
+12:wine
+15:wine
+6:wine
+2:wine
+16:wine
+11:wine
+14:red merlot
+17:red merlot
+5:red merlot
+19:red merlot
+13:red merlot
+8:red merlot
+9:red merlot
+18:red merlot
+1:red merlot
+10:red merlot
+6:red merlot
+16:red merlot
+19:white wine
+8:white wine
+8:chianti

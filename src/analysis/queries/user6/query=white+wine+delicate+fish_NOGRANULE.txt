@@ -1,0 +1,104 @@
+4:wine region
+2:food
+12:food
+6:food
+11:food
+18:food
+6:muscadet
+13:rose wine
+9:red wine
+14:red wine
+3:red wine
+8:red wine
+11:red wine
+18:red wine
+11:red bordeaux
+9:white meat
+19:white meat
+12:white meat
+8:white meat
+11:tuna
+2:salmon
+15:salmon
+6:sauvignon blanc
+5:sauvignon blanc
+7:seafood
+9:seafood
+12:seafood
+3:seafood
+4:fruit
+13:white zinfandel
+14:veal
+7:white wine
+1:white wine
+2:white wine
+9:white wine
+13:white wine
+20:white wine
+19:white wine
+14:white wine
+4:white wine
+15:white wine
+10:white wine
+12:white wine
+3:white wine
+6:white wine
+8:white wine
+5:white wine
+16:white wine
+11:white wine
+18:white wine
+6:white bordeaux
+11:white bordeaux
+7:wine
+1:wine
+2:wine
+9:wine
+13:wine
+20:wine
+19:wine
+14:wine
+4:wine
+15:wine
+10:wine
+12:wine
+3:wine
+6:wine
+8:wine
+17:wine
+5:wine
+16:wine
+11:wine
+18:wine
+13:pork
+3:lobster
+7:fish
+1:fish
+2:fish
+9:fish
+13:fish
+19:fish
+14:fish
+4:fish
+15:fish
+10:fish
+12:fish
+3:fish
+6:fish
+8:fish
+5:fish
+11:fish
+9:red meat
+8:red meat
+9:meat
+19:meat
+12:meat
+8:meat
+19:wine grape
+10:wine grape
+12:wine grape
+19:grape
+10:grape
+12:grape
+13:shellfish
+15:shellfish

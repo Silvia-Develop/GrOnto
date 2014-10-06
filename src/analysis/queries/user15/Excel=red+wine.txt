@@ -1,0 +1,32 @@
+1:(mount,eden,vineyard,estate,pinot,noir)
+2:wine
+3:(mount,eden,vineyard,estate,pinot,noir)
+4:wine
+5:(mount,eden,vineyard,estate,pinot,noir)
+6:wine
+7:(mount,eden,vineyard,estate,pinot,noir)
+7:cabernet sauvignon
+8:(mount,eden,vineyard,estate,pinot,noir)
+8:cabernet sauvignon
+9:red
+9:white
+10:wine
+10:(mount,eden,vineyard,estate,pinot,noir)
+10:cabernet sauvignon
+11:wine
+11:food
+12:(page,mill,winery,cabernet,sauvignon)
+13:wine
+14:red
+14:wine
+15:(mount,eden,vineyard,estate,pinot,noir)
+16:wine
+17:red
+17:fruit
+18:pork
+18:red
+18:wine
+19:wine
+19:(mount,eden,vineyard,estate,pinot,noir)
+20:red
+20:wine

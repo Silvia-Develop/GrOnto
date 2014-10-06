@@ -1,0 +1,201 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:tuna
+1:salmon
+1:(ventana,chenin,blanc)
+1:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">Wine Pairing - Tuna - Salmon - Seafood - WINE SURPRISE</font><br>
+#abstract: 
+# Salmon, Tuna and other fish match great with wine. Lobster and shrimp are also pairing 
+# ... Pinot Blanc, Chenin Blanc, Sauvignon (Fumé) Blanc, Chardonnay, Colombard, Vidal Blanc ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:fish
+2:tuna
+2:salmon
+#title: <font class="result_title">Free Recipes - Seafood Recipes - Fish, Salmon, Tuna, Fish ...</font><br>
+#abstract: 
+# Free Seafood Recipes - search, browse or subscribe to hundreds of healthy Fish, Salmon, Crab recipes on cuisine.com.au. Alternatively, 
+# search by cuisine type - Chinese, Indonesian, Italian, Thai, or Japanese. Or by chef - Steve Manfredi, 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:(stonleigh,sauvignon,blanc)
+3:cheese
+#title: <font class="result_title">The Chef's Cookbook " Ultimate Wine Pairing Chart</font><br>
+#abstract: 
+# Sauvignon Blanc. Dishes with cream sauce, Shellfish, Sole/Halibut, Poultry, Mild cheese, ... Chenin 
+# Blanc. Sole/Halibut, Salmon/Tuna, Poultry, Mild cheese, cream based dips. Viognier ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:food
+4:wine
+#title: <font class="result_title">Food and Wine Pairing White Wines Chardonnay Sauvignon Blanc ...</font><br>
+#abstract: 
+# For suggestions on which foods to pair with your favorite white wines, 
+# use Gayot's guide featuring almost 20 white wine variety selections. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:seafood
+5:salmon
+5:(stonleigh,sauvignon,blanc)
+5:food
+#title: <font class="result_title">Fishing Australia - Wine and Seafood Pairing</font><br>
+#abstract: 
+# Wine and Seafood Pairing using Australian wine from wineries such as Penfolds, Brown Brothers and De Bortoli the wine and seafood guide pairs tuna, prawns 
+# oysters, crab with your favourite wines. ... Sauvignon Blanc and Seafood Pairings. Crab, Moreton Bay Bugs, Mussels, Snapper, Salmon, Prawns, Tuna, Baked ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:(mountadam,pinot,noir)
+6:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">Westside Liquor, There's One Near You! - Recipes - Riesling ...</font><br>
+#abstract: 
+# Best Selection, Best Service, Best overall pricing. We will meet or beat any local price. Thank you so very very much for your business!Liquor, Beer %26 
+# Wine is all we do! ... (i.e. salmon, tuna) Pinot Noir or Burgundy. spicy sauce. Whites: Albarino, Sauvignon Blanc, Chenin Blanc, Sparkling wine, Riesling ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:(ventana,chenin,blanc)
+7:turkey
+7:fish
+#title: <font class="result_title">Royal Wine Corp. - The world's largest producer, importer and ...</font><br>
+#abstract: 
+# The world's largest producer, importer and distributor of kosher wines and spirits ... White fish, tuna, pasta with cream 
+# sauce, chicken, turkey, veal. Chenin Blanc. Chicken, pasta salad, spicy Chinese and Thai food, hard aged cheeses ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:(ventana,chenin,blanc)
+8:(mountadam,pinot,noir)
+#title: <font class="result_title">Westside Liquor, There's One Near You!</font><br>
+#abstract: 
+# Class Preparation Favored Wines Comments Beef, lamb, pork dishes mild sauce Chilean Cab, Malbec, Merlot, Zinfandel; Chenin 
+# Blanc, Riesling off-dry... If oily, rich fish (i.e. salmon, tuna) Pinot Noir or Burgundy ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:seafood
+9:tuna
+9:(stonleigh,sauvignon,blanc)
+9:(ventana,chenin,blanc)
+9:fish
+#title: <font class="result_title">Seafood Wine Pairing Suggestions Recommendations Best Wines ...</font><br>
+#abstract: 
+# Discover which wines best complement tuna, lobster, salmon, shrimp and oysters with this seafood and wine pairing recommendations 
+# list that matches fish and shellfish with white wines like Chardonnay, Sauvignon Blanc and Chenin Blanc. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:(stonleigh,sauvignon,blanc)
+10:(ventana,chenin,blanc)
+#title: <font class="result_title">Wine Pairing Guide | Wine Inquirer - Tucson Wine Enthusiasts</font><br>
+#abstract: 
+# Chardonnay, Champagne, Sauvignon Blanc, Gewurztraminer, White Bordeaux, Rhone or Burgundy ... (i.e. salmon, tuna) Pinot Noir 
+# or Burgundy. spicy sauce. Whites: Albarino, Sauvignon Blanc Chenin Blanc, Sparkling wine, Riesling ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:red
+11:fish
+#title: <font class="result_title">Selecting Red Wines for Fish and Sea Foods like Salmon, Tuna ...</font><br>
+#abstract: 
+# Selecting Red Wines for Fish and Sea Foods like Salmon, Tuna and Swordfish: The Wine Experience ... 
+# Grilled salmon, whether hot or cold, pairs up with Oregon or other Pinot Noir-based wines ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:(ventana,chenin,blanc)
+12:salmon
+12:tuna
+#title: <font class="result_title">Tasting Notes for 1998 Ken Forrester Chenin Blanc</font><br>
+#abstract: 
+# Tasting Notes for 1998 Ken Forrester Chenin Blanc. This wine was new for me in two ways: it was my first exposure to Chenin Blanc as 
+# a sole-bottled varietal and it was my first exposure to a South African wine. This was served alongside grilled salmon, ahi tuna, and carrots. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:salmon
+13:tuna
+13:(mountadam,pinot,noir)
+#title: <font class="result_title">Free Recipes - Recipes - soup recipes, stew recipes, chicken ...</font><br>
+#abstract: 
+# Get salmon recipes. Tuna. Chardonnay. Riesling. Pinot Noir. Merlot. Shiraz. Get tuna recipes ... 
+# Chenin Blanc. Semillon. Get rice recipes. Pasta. Merlot. Chardonnay. Chenin Blanc. Colombard ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:fish
+14:(ventana,chenin,blanc)
+#title: <font class="result_title">Wine and Fish Pairing</font><br>
+#abstract: 
+# Which wine with fish? Which fish with wine? Suggestions for pairing wine with a wide variety of fish dishes. ... 
+# Swordfish, Tuna. Chenin Blanc. White Variety. Blackened Fish. Condrieu. Classic French White. Halibut. C%C3%B4te R%C3%B4tie. Classic French Red ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:food
+15:tuna
+15:salmon
+#title: <font class="result_title">Try Syrah or Shiraz with Stew, Meat, Tuna or Salmon: The Wine ...</font><br>
+#abstract: 
+# Try Syrah or Shiraz with Stew, Meat, Tuna or Salmon: The Wine Experience ... 
+# Even full flavored sea food like seared tuna or grilled salmon steaks. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:food
+16:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">Bevmax %3Cfont size%3D"2"%3E%3Cfont face%3D"comic sans"%3EEasy Food and ...</font><br>
+#abstract: 
+# Chardonnay - Shellfish, Sole/Halibut, Salmon/Tuna, Poultry, Mild cheese, cream based dips. Sauvignon Blanc - Dishes with cream sauce, Shellfish, 
+# Sole/Halibut, Poultry, Mild cheese, cream based dips ... Chenin Blanc- Fruit/creamy desserts, Dishes with cream sauce, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:(mountadam,pinot,noir)
+17:salmon
+17:tuna
+#title: <font class="result_title">Westside Liquor, There's One Near You! - Recipes - Merlot ...</font><br>
+#abstract: 
+# Best Selection, Best Service, Best overall pricing. We will meet or beat any local price. Thank you so very very much for your ... 
+# rich fish (i.e. salmon, tuna) Pinot Noir or Burgundy. spicy sauce. Whites: Albarino, Sauvignon Blanc, Chenin Blanc, Sparkling wine, Riesling. Avoid the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:(ventana,chenin,blanc)
+18:salmon
+18:white
+#title: <font class="result_title">Sur La Table Wine Club - Powered by Vinesse</font><br>
+#abstract: 
+# Where Chenin Blanc grapes grow, and who grows them, are keys to the quality of the wine ... It matches wonderfully with Chardonnay, and we've enjoyed it with Chenin 
+# Blanc as well. Use it as the main entree for a special meal, or any meal. Click here to view complete recipe. Smoked Salmon Penne Pasta ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:salmon
+19:cheese
+#title: <font class="result_title">Sushi Mambo Menu</font><br>
+#abstract: 
+# Smoked Salmon, Cream Cheese. Salmon Skin Roll USD8.00. Salmon, Avocado, Cucumber. 1202 First ... 
+# Eel Roll, Spicy Tuna, California Roll, %26 Tuna, Salmon, Ebi and Hamachi ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:fish
+20:pasta
+20:(ventana,chenin,blanc)
+#title: <font class="result_title">WRA TV</font><br>
+#abstract: 
+# Chardonnay - Shrimp, lobster, crab, scallops, red snapper, striped bass, other white fish, tuna, oysters (raw), pasta with shellfish, pasta with 
+# clam sauce. Chenin Blanc - Shrimp, oysters (raw), clams, mussels, spicy Thai and Mexican dishes. Colombard - Shrimp ... 

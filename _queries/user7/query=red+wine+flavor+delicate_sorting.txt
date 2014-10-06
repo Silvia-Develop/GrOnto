@@ -1,0 +1,25 @@
+apple:3,11
+body:8,13
+cabernet,sauvignon:2
+chianti:7
+color:10
+colour:11
+delicate:1,4,5
+dry:4,20
+fish:11,12
+flavor:2,3,4,9,13
+food:12,15,20
+full:13
+gamay grape:6
+light:1,6
+lobster:11
+medium:8
+merlot:2,4
+pinot,noir:6
+red:1,2,3,4,5,6,7,8,9,10,14,16,17,18,19,20
+seafood:11
+steak:11
+vineyard:16
+white:9
+wine:1,2,3,5,6,7,9,10,13,14,15,18,19
+zinfandel:1

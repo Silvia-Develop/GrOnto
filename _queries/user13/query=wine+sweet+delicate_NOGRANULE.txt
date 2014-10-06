@@ -1,0 +1,70 @@
+15:white wine
+12:white wine
+6:white wine
+18:white wine
+19:dessert wine
+9:dessert wine
+6:dessert wine
+13:dessert wine
+14:dessert wine
+16:grape
+8:grape
+15:grape
+3:grape
+17:grape
+7:grape
+13:grape
+15:food
+10:drink
+16:peach
+17:peach
+8:fruit
+12:fruit
+7:fruit
+18:fruit
+16:wine
+8:wine
+1:wine
+19:wine
+20:wine
+15:wine
+9:wine
+12:wine
+2:wine
+3:wine
+11:wine
+6:wine
+17:wine
+10:wine
+7:wine
+13:wine
+18:wine
+5:wine
+14:wine
+4:wine
+12:sweet fruit
+18:sweet fruit
+19:dessert
+9:dessert
+6:dessert
+13:dessert
+14:dessert
+9:wine region
+13:wine region
+16:wine grape
+8:wine grape
+15:wine grape
+3:wine grape
+17:wine grape
+7:wine grape
+13:wine grape
+8:red wine
+15:red wine
+9:red wine
+17:red wine
+5:red wine
+19:sweet dessert
+9:sweet dessert
+6:sweet dessert
+13:sweet dessert
+14:sweet dessert

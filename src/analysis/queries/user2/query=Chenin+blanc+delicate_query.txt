@@ -1,0 +1,179 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:(ventana,chenin,blanc)
+#title: <font class="result_title">Late Harvest Chenin Blanc</font><br>
+#abstract: 
+# Late Harvest Chenin Blanc. The cool nights maintain the crisp acid level in the grapes 
+# ... honey entwine on the delicate nose of our 2005 Late Harvest Chenin ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:(ventana,chenin,blanc)
+2:fruit
+#title: <font class="result_title">CHENINVIO.COM</font><br>
+#abstract: 
+# ORIGIN : It is with great anticipation that we announce the 2008 Chenin B ... TASTING NOTES: The 2008 Chenin Blanc 
+# - Viognier flaunts aromas of ruby grapefruit, pear, lychee and melon, with a delicate touch of spicy, white ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:(ventana,chenin,blanc)
+3:white
+3:wine
+#title: <font class="result_title">Biltmore™ Chenin Blanc</font><br>
+#abstract: 
+# STAY AT BILTMORE. BRING BILTMORE HOME. OUR WINE. SHOP ONLINE. Buy Tickets ... Biltmore™ 
+# Chenin Blanc. White Wines. Item #: 020322. Your Price: USD10.99. PROFESSIONAL ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:(ventana,chenin,blanc)
+4:body flavor (sweet,sugar)
+#title: <font class="result_title">Chenin BlanC</font><br>
+#abstract: 
+# delicate balance of sugars and natural acids in the wine. create a balanced harmony as the wine lingers on 
+# the ... lingers on the palate." Blend. 100% Chenin Blanc. Harvest. Sugar - 45.3%C2%BA Brix. Frozen grapes ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:(ventana,chenin,blanc)
+5:(color,colour)
+#title: <font class="result_title">2006 Chenin Blanc Mendocino</font><br>
+#abstract: 
+# 2006 Chenin Blanc Mendocino. Winemaker's Notes. Delicate pale straw in color. Inviting aromas. build and develop as the wine 
+# opens ... The Chenin Blanc is selected from a 30-year. old vineyard block with a northwestern expo ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:(ventana,chenin,blanc)
+6:fruit
+6:apple
+#title: <font class="result_title">Chenin Blanc Association of South Africa</font><br>
+#abstract: 
+# These wines have seductive fresh fruit and delicate floral aromas and a host of fruit salad flavours, sometimes apple or melon, 
+# apricot, guava and pineapple, all backed by firm, crisp, natural acidity that make Chenin Blanc wines so perfectly balanced. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:(ventana,chenin,blanc)
+7:white
+#title: <font class="result_title">Chenin Blanc - White Wines: Find, Compare, Read Reviews %26 Buy ...</font><br>
+#abstract: 
+# Yahoo! Shopping is the best place to comparison shop for Chenin Blanc - 
+# White Wines Compare products, compare prices, read reviews and merchant ratings. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:(ventana,chenin,blanc)
+8:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">*Northwest White Wines - Chenin Blanc and Sauvignon Blanc</font><br>
+#abstract: 
+# Grochau Cellars Sauvignon Blanc refreshes with a clean, citrus scent and flavors of delicate citrus blossom, lime, and a 
+# hint of melon and ... Chenin blanc is arguably the most versatile of all wine grape varieties. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:(ventana,chenin,blanc)
+9:food
+#title: <font class="result_title">CAPE WINE %26 FOOD Chenin Blanc</font><br>
+#abstract: 
+# One of the Cape's finest examples of an oaked Chenin, good acidiy, elements of quince and elderflower with a 
+# creamy spiced edge. ... A delicate lemon bouquet, dry light citrus flavours. Tulbagh Ridge: Chenin Blanc. Price: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:(ventana,chenin,blanc)
+#title: <font class="result_title">Champagne and Sparkling Wine - Special Offer - Chenin Blanc ...</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online ordering with free delivery, award-winning service and market-leading deals. ... Chenin Blanc / Delicate sparkling. 
+# Use the options on the left hand side of the page to refine your search, or to broaden your search you can remove ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:(ventana,chenin,blanc)
+#title: <font class="result_title">Majestic Wine</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online ordering with free delivery, award-winning service and market-leading deals. ... Chenin Blanc / Delicate sparkling. 
+# Use the options on the left hand side of the page to refine your search, or to broaden your search you can remove ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:(ventana,chenin,blanc)
+#title: <font class="result_title">Chenin Blanc Association</font><br>
+#abstract: 
+# It's a little known fact, but a fact all the same, that South African Chenin Blanc wines are among 
+# the world's finest. ... South African Chenin Blanc, noting that it's "old-vine Chenin plantings are arguably ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:(ventana,chenin,blanc)
+13:light dry (delicate,moderate)
+#title: <font class="result_title">South Africa : Chenin Blanc - Premier Wine %26 Spirits</font><br>
+#abstract: 
+# PRICE. Singata Chenin Blanc. A delicate, crispy white, plenty of fruit, ... list. add 
+# to registry. Singata Chenin Blanc 3L Box USD30.79. add to basket ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:(ventana,chenin,blanc)
+14:fruit
+#title: <font class="result_title">Pine Ridge Chenin Blanc Viognier 2008 - Elite Wine</font><br>
+#abstract: 
+# The 2008 Chenin Blanc-Viognier flaunts lush aromas of ruby grapefruit, pear, lychee and melon, with a del ... The 2008 Chenin 
+# Blanc-Viognier flaunts lush aromas of ruby grapefruit, pear, lychee and melon, with a delicate touch of spicy, white florals. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:(ventana,chenin,blanc)
+#title: <font class="result_title">Riverside Wines Pine Ridge Chenin Blanc Viognier</font><br>
+#abstract: 
+# Floral and sweet on the nose, the 2007 Chenin Blanc-Viognier exhibits fragrant aromas of pear, lychee and melon, with a delicate touch of 
+# grapefruit, lime and mixed citrus. Sweet, bright flavors of lively citrus and pear are offered up along with a supple texture. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:(ventana,chenin,blanc)
+16:wine
+16:white
+#title: <font class="result_title">Chenin Blanc - a Very Versatile Wine</font><br>
+#abstract: 
+# Chenin Blanc is a white wine grape that is used to make a wide variety of wines because of its high level of 
+# acidity The area in which it is grown has a lot to do with whether or not the wine is spark 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:(ventana,chenin,blanc)
+17:light dry (delicate,moderate)
+17:white
+#title: <font class="result_title">Chenin Blanc</font><br>
+#abstract: 
+# Chenin Blanc. Made in USA. Grapefully Organic. Semisweet white wine with a delicate. fruity ... Chenin 
+# Blanc. Made in USA. Grapefully Organic. Semisweet white wine with a delicate. fruity ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:(ventana,chenin,blanc)
+#title: <font class="result_title">Pine Ridge Chenin Blanc Viognier 2008 - Magnolia Wines %26 Spirits</font><br>
+#abstract: 
+# The 2008 Chenin Blanc-Viognier flaunts lush aromas of ruby grapefruit, pear, lychee and melon, with a del ... The 2008 Chenin 
+# Blanc-Viognier flaunts lush aromas of ruby grapefruit, pear, lychee and melon, with a delicate touch of spicy, white florals. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:(ventana,chenin,blanc)
+19:(color,colour)
+#title: <font class="result_title">Peter Lehmann Chenin Blanc Art Series 2008 %3C Australian White ...</font><br>
+#abstract: 
+# Peter Lehmann Chenin Blanc Art Series 2008. A Peter Lehmann white wine ... This fine example, 
+# made from the noble Chenin Blanc grape is a delicate green gold in colour. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:(ventana,chenin,blanc)
+20:light dry (delicate,moderate)
+#title: <font class="result_title">2009 Chenin Blanc | Swings %26 Roundabouts | Swings ...</font><br>
+#abstract: 
+# NEW RELEASE!! Lifted and herbal with fine delicate aromatic oil aromas, so typical of Chenin Blanc. 
+# Subtle oak maturation on a portion of the blend has enhanced the flavour profile. 

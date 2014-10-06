@@ -1,0 +1,61 @@
+14:sweet fruit
+19:sweet fruit
+1:rose wine
+19:rose wine
+3:rose wine
+6:unclassified
+5:unclassified
+7:food
+11:food
+11:pasta
+19:pinot noir
+1:white wine
+3:white wine
+12:wine region
+7:red wine
+2:red wine
+17:red wine
+1:red wine
+10:red wine
+12:red wine
+15:red wine
+14:red wine
+16:red wine
+19:red wine
+3:red wine
+13:red wine
+11:pizza
+18:cabernet sauvignon
+17:cabernet sauvignon
+11:cabernet sauvignon
+9:cabernet sauvignon
+16:cabernet sauvignon
+13:sweet dessert
+13:dessert wine
+11:fruit
+14:fruit
+9:fruit
+19:fruit
+12:pork
+7:wine
+4:wine
+18:wine
+2:wine
+17:wine
+11:wine
+1:wine
+10:wine
+12:wine
+15:wine
+14:wine
+9:wine
+16:wine
+8:wine
+20:wine
+19:wine
+3:wine
+13:wine
+12:red merlot
+11:meat
+13:dessert
+12:steak

@@ -1,0 +1,188 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:bordeaux
+1:cheese
+#title: <font class="result_title">Medoc Wine Information, French Wine Guide in Bordeaux</font><br>
+#abstract: 
+# Medoc wine information: Medoc in Bordeaux is one of the largest area of red wine production including grands crus classes guide. ... French Cheese Guide. Cuisine-France. French 
+# Recipes. Medoc. The Médoc is situated north of the town of Bordeaux, on the left bank of the Gironde. Médoc is divided in two ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:bordeaux
+2:wine
+#title: <font class="result_title">Bordeaux Wine Information Guide</font><br>
+#abstract: 
+# Bordeaux wine region geography and history with the French Wine Guide: 
+# wine has been grown in Bordeaux for two thousand years. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+3:white
+#title: <font class="result_title">Blanchard's Wine %26 Spirits</font><br>
+#abstract: 
+# An example of types of wines produced are full-body red wines (pomerol), medium-body red wine (bordeaux aoc), dry white wine (entre deux 
+# mers) and sweet white wine ... Cabernet driven - full flavor red meat dishes, lamb and full fat cheeses. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:(stonleigh,sauvignon,blanc)
+4:bordeaux
+#title: <font class="result_title">Recipe Details :: Hy-Vee</font><br>
+#abstract: 
+# Comes mostly from California, France, New Zealand, and South Africa. ... France has two classic wine regions 
+# for the Sauvignon Blanc gape: Bordeaux and the Loire Valley The Bordeaux wine is called ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:food
+#title: <font class="result_title">Recipe Details :: Tri Town Foods</font><br>
+#abstract: 
+# Originally grown in France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this ... Originally 
+# grown in France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:food
+#title: <font class="result_title">Recipe Details :: Roger's Foodland</font><br>
+#abstract: 
+# Originally grown in France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this ... Originally 
+# grown in France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:bordeaux
+#title: <font class="result_title">Recipe Details :: Festival Foods</font><br>
+#abstract: 
+# Originally grown in France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this grape has spread to Australia, California, 
+# ... The wines are deep-colored, full-bodied and possessing of soft tannins. La Bardonne Bordeaux Superieur. Attributes: Producer: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:(color,colour)
+8:cheese
+8:food
+#title: <font class="result_title">Recipe Details :: Tri Town Foods</font><br>
+#abstract: 
+# Body: medium-bodied. Food Matches: Cheese: Aged Cheddar, Blue Cheese, Feta, Goat Cheese, ... France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this 
+# grape has spread to Australia, California, Washington, Italy and Spain. In the Rhone region this grape produces deeply colored wines with full ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:red
+9:bordeaux
+9:(tannic,tannin)
+9:low
+#title: <font class="result_title">Recipe Details :: Ray's Apple Markets</font><br>
+#abstract: 
+# Red Burgundy is paler than Bordeaux, ranging in color from garnet to cherry or ruby, because the Pinot Noir grape has less color than the Cabernet Sauvignon or 
+# Merlot grapes. It tends to be full in body and low in tannin. ... Bordeaux: A region in western France that grows famous red wines from ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:red
+10:bordeaux
+#title: <font class="result_title">Recipe Details :: Save-On-Foods</font><br>
+#abstract: 
+# Bordeaux - Red. Bottle Size: 750 ML. 2006: WineAdvocate Rating: (92-94) Body: full-bodied ... appellations 
+# in France, this region just outside the modern city of Bordeaux (and once ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:bordeaux
+#title: <font class="result_title">Recipe Details :: Strack and Van Til</font><br>
+#abstract: 
+# ... of the youngest appellations in France, this region just outside the modern city of Bordeaux (and once part of the appellation ... France, 
+# between the city of Lyon and the region of Provence, this area's sunny and hot growing season is reflected in its full ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cabernet sauvignon
+12:bordeaux
+12:red
+12:wine
+#title: <font class="result_title">Recipe Details :: West Side Marketplace</font><br>
+#abstract: 
+# Bordeaux: A region in western France that grows famous red wines from the Cabernet ... A 
+# region in western France that grows famous red wines from the Cabernet Sauvignon, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:bordeaux
+13:food
+13:(steerling,cabernet,sauvignon)
+#title: <font class="result_title">Recipe Details :: Jerry's Foods</font><br>
+#abstract: 
+# Bordeaux, France. Varietal: Bordeaux - White. Bottle Size: 750 ML. Food Matches: Cheese: ... A 
+# region in western France that grows famous red wines from the Cabernet Sauvignon, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:bordeaux
+14:red
+14:wine
+#title: <font class="result_title">Shop red wine, cabernet, merlot, pinot noir, syrah %26 zinfandel</font><br>
+#abstract: 
+# Buying red wine is easy with Wines.com. Shop red wines from our extensive wine menu, or ask us for free advice on certain red wines. ... France, 
+# Bordeaux. Tasting Notes: "A dense wine, with plum and tobacco character. Full body, chewy tannins and a mouth puckering finish. Slightly rustic, but solid. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:(stonleigh,sauvignon,blanc)
+15:bordeaux
+15:wine
+#title: <font class="result_title">Recipe Details :: Coborn's</font><br>
+#abstract: 
+# France has two classic wine regions for the Sauvignon Blanc gape: Bordeaux and the Loire ... 
+# A region in western France that grows famous red wines from the Cabernet Sauvignon, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:bordeaux
+#title: <font class="result_title">Recipe Details :: Remke Markets</font><br>
+#abstract: 
+# Bordeaux: A region in western France that grows famous red wines from the Cabernet 
+# ... Situated on the Atlantic coast, Bordeaux has a maritime climate with ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:(color,colour)
+17:(tannic,tannin)
+17:bordeaux
+#title: <font class="result_title">Recipe Details :: Forest Hills Foods</font><br>
+#abstract: 
+# In the Rhone region this grape produces deeply colored wines with full body and firm tannin, however in Australia, where it is known as Shiraz, the wines are 
+# lighter and fruitier. Aromas and flavors for these wines vary as much ... in France, this region just outside the modern city of Bordeaux (and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:bordeaux
+18:white
+18:red
+#title: <font class="result_title">Recipe Details :: Jerry's Foods</font><br>
+#abstract: 
+# Graves, France. Varietal: Bordeaux - White. Bottle Size: 750 ML. 2001: WineSpectator Rating: 83. Body: medium-bodied. 2000: WineSpectator Rating: 88. Body: full-bodied 
+# ... Traditionally the only region in Bordeaux to make both top-quality reds and whites, Graves has lost much of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:bordeaux
+19:red
+19:(color,colour)
+#title: <font class="result_title">Recipe Details :: Bobs Produce</font><br>
+#abstract: 
+# Médoc, France. Varietal: Bordeaux - Red. Bottle Size: 750 ML. 2005: ... in France's Northern Rh%C3%B4ne Valley (where it is a noble variety) this grape has 
+# spread to Australia, California, Washington, Italy and Spain. In the Rhone region this grape produces deeply colored wines with full body and firm ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:bordeaux
+#title: <font class="result_title">Bordeaux.com - In the Press</font><br>
+#abstract: 
+# "Say "Bordeaux" and wine lovers automatically picture big-ticket bottles... However, the majority of 
+# Bordeaux's wines are much lighter on body and make an ideal ... 

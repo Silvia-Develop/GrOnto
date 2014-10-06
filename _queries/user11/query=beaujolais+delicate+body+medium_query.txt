@@ -1,0 +1,191 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:Beaujolais
+1:delicate
+1:medium
+1:body
+1:moderate
+1:tannin
+#title: <font class="result_title">Beaujolais (wine) - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Chiroubles cru are noted for their delicate perfume that often includes aromas of violets.%5B9%5D The next three crus produce more medium bodied Cru Beaujolais that 
+# Master of Wine Mary Ewing ... adds to Beaujolais is bluish-red deep color with low acidity, moderate tannins and light to medium body. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:grape
+2:pinot,noir
+#title: <font class="result_title">wine-varieties.Neo</font><br>
+#abstract: 
+# ... grape Pinot-Blanc) )) (createRule muscadet-body MUSCADET (fills body Light)) (createRule muscadet-flavor MUSCADET (fills flavor Delicate)) 
+# (createRule muscadet-sugar MUSCADET (fills sugar ... (createRule sancerre-body SANCERRE (fills body Medium)) (createRule ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:light
+3:body
+3:strong
+3:flavor
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... (addToldInformation Light WINE-BODY) (addToldInformation Medium WINE-BODY) (addToldInformation Full WINE-BODY) (addToldInformation 
+# Delicate WINE-FLAVOR) (addToldInformation Moderate WINE-FLAVOR) (addToldInformation Strong WINE-FLAVOR) (addToldInformation ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:Beaujolais
+#title: <font class="result_title">BEAUJOLAIS</font><br>
+#abstract: 
+# Beaujolais Nouveau is a particular type of Beaujolais with a short history. ... 
+# body and sometimes have more astringency than other Beaujolais wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:Beaujolais
+5:light
+5:body
+#title: <font class="result_title">Wine Pairings</font><br>
+#abstract: 
+# Beaujolais. fruity, light body. Cabernet Sauvignon. dry, medium to full body. Chablis. very 
+# ... dry, delicate. Chardonnay. fruity, medium to full body. Chenin Blanc ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:body
+6:medium
+6:flavor
+6:full
+#title: <font class="result_title">Beaujolais I</font><br>
+#abstract: 
+# Although the body is rather medium in weight, the flavor is quite full with the complexity in the nose coming through on the 
+# palate. ... The body is medium-light and does not stand in the way of the refreshing delicate rose petal/fruit flavors. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:Beaujolais
+7:light
+7:medium
+7:body
+#title: <font class="result_title">DeLuca's Market</font><br>
+#abstract: 
+# DeLuca's Market, Boston, MA. Fancy groceries, fresh produce, deli, prepared foods, gift baskets, cheese %26 wine cellar and Never A Bum 
+# Steer! ... Generally Beaujolais is a fruity red wine with a light body and medium to high acidity. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:Beaujolais
+8:light
+8:delicate
+8:sweet
+#title: <font class="result_title">SAQ.com - Beaujolais Georges Duboeuf</font><br>
+#abstract: 
+# Light and delicate. Fruity and sweet. Fruity and medium-bodied. Fruity and light. Fruity and vibrant. Advanced ... Floral , 
+# Fruity , Vegetal. Flavour observations. Acidity : Lively. Intensity : Medium. Persistance : Short. Body : Light-bodied ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:body
+9:flavor
+#title: <font class="result_title">The Wines Data Base in CLASSIC</font><br>
+#abstract: 
+# ... 'wine-body '(and wine-property (one-of light medium full))) (cl-define-concept 'wine ... 
+# 'wine-body '(light medium full)) (cl-populate 'wine-flavor '(delicate moderate strong) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:Beaujolais
+10:light
+10:delicate
+10:body
+#title: <font class="result_title">Suntory | News Release | New Vintage Wines for 2008 Georges ...</font><br>
+#abstract: 
+# New Vintage Wines for 2008 Georges Duboeuf Beaujolais Nouveau Now Available for Ordering ... Georges Duboeuf Beaujolais Nouveau. With a pleasant bouquet remindful 
+# of red fruit and flowers and a light delicate body, this fresh tasting wine is only available during this season. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:Beaujolais
+11:gamay grape
+#title: <font class="result_title">Beaujolais: Nouveau or No | Food %2B Dining | Mpls.St.Paul ...</font><br>
+#abstract: 
+# Beaujolais is the southern-most section of Burgundy, and its 
+# wines are made from the gamay grape. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:grape
+#title: <font class="result_title">(in-package :USER) THE WINE VARIETIES general varieties (by grape)...</font><br>
+#abstract: 
+# ... c%7Bpauillac%7D '(and (fills grape cabernet-sauvignon) )) (cl-define-primitive-concept 'margaux 'medoc) (cl-add-rule 'margaux-flavor %40c%7Bmargaux%7D 
+# '(fills flavor delicate)) (cl-add-rule 'margaux-body %40c%7Bmargaux%7D '(fills body medium)) (cl-add-rule 'margaux ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:france
+13:Beaujolais
+#title: <font class="result_title">Oddbins Calais - France - Pinot Noir Blend</font><br>
+#abstract: 
+# We have an amazing selection of French wines and French champagnes from a number of 
+# regions including Burgundy, Bordeaux, Rhone and Beaujolais. Visit our website to order online today. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:red
+14:wine
+#title: <font class="result_title">Red Wine</font><br>
+#abstract: 
+# BEAUJOLAIS. BURGUNDY. CABERNET FRANC. CABERNET SAUVIGNON (CA-burr-nay SO ... 
+# SANGIOVESE (San-gee-oh-VAY-zee) SYRAH. VALPOLICELLA. ZINFANDEL (ZIN-fan-dell) FLB ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:Beaujolais
+15:light
+15:body
+#title: <font class="result_title">Pairings - Hannaford Supermarkets</font><br>
+#abstract: 
+# beaujolais. fruity,light-bodied. chianti: very dry. pinot noir: soft,fruity, berry-like finish. merlot: full bodied, ... lively, 
+# medium-to-full-bodies. blanc de blancs: ideal aperitif, light, delicate. extra dry: medium-dry. brut: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:sauvignon,blanc
+#title: <font class="result_title">%5BTXT%5D</font><br>
+#abstract: 
+# ... (fills maker corbans))) (cl-create-ind 'handley-sauvignon-blanc '(and sauvignon-blanc (fills body medium) (fills flavor delicate) 
+# (fills sugar dry) (fills maker handley))) (cl-create-ind 'kalin-cellars-sauvignon-blanc '(and sauvignon-blanc (fills ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:vineyard
+#title: <font class="result_title">Minnesota Wine from Morgan Creek Vineyard near New Ulm. Wine ...</font><br>
+#abstract: 
+# A medium body with exceptional complexity. A blend of the French Millot and Marechal Foch ... 
+# This beautiful garnet color wine has a light cherry nose and beaujolais style body. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:body
+#title: <font class="result_title">Harris Teeter - Food Pairings</font><br>
+#abstract: 
+# The single most important aspect of wine and food pairing is not color, but body. Delicate or lightly flavored foods 
+# work best with light-bodied wines. Stronger, heavier foods should be paired with medium to full-bodied wines. Traditional Pairings ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:Beaujolais
+#title: <font class="result_title">Senior Women Web %3E Articles</font><br>
+#abstract: 
+# There are four categories of Beaujolais: Nouveau, Beaujolais, Beaujolais-Villages and cru Beaujolais. ... The best Beaujolais are so good 
+# they're sometimes mistaken for prestigious Burgundian Pinot Noirs. These fruity, juicy, soft, smooth, light-to-medium body wines pair ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:Beaujolais
+#title: <font class="result_title">Fleurie-Beaujolais-Majestic Wine</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online 
+# ordering with free delivery, award-winning service and market-leading deals. 

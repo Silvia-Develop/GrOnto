@@ -1,0 +1,57 @@
+20:chianti
+11:wine region
+4:wine region
+13:wine
+14:wine
+6:wine
+1:wine
+11:wine
+19:wine
+9:wine
+2:wine
+16:wine
+12:wine
+7:wine
+10:wine
+17:wine
+8:wine
+18:wine
+3:wine
+5:wine
+4:wine
+20:wine
+15:wine
+11:pie
+18:dessert wine
+18:red bordeaux
+20:red bordeaux
+20:fruit
+14:drink
+4:drink
+18:dessert
+20:sweet fruit
+6:grape
+8:grape
+4:grape
+11:white wine
+19:white wine
+9:white wine
+20:pizza
+19:food
+20:food
+15:food
+18:sweet dessert
+20:red zinfandel
+6:red wine
+11:red wine
+9:red wine
+8:red wine
+18:red wine
+5:red wine
+4:red wine
+20:red wine
+15:red wine
+6:wine grape
+8:wine grape
+4:wine grape
+9:pinot noir

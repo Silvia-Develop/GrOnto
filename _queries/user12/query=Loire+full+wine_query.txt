@@ -1,0 +1,202 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:loire
+1:wine
+1:france
+#title: <font class="result_title">Loire Wine</font><br>
+#abstract: 
+# Wines from Loire, France - 
+# Other Regions from wine.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:loire
+2:valley
+2:full
+2:wine
+#title: <font class="result_title">Wine Review Online - From the Loire Valley: Bubbles for Sharing</font><br>
+#abstract: 
+# Some of the sparkling wine coming out recently from the Loire Valley is a "discovery" worthy of sharing with family and 
+# friends. ... But happily, the world is suddenly full of fine and reasonably priced alternatives to Champagne, with Italy ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:loire
+3:valley
+3:food
+#title: <font class="result_title">Loire365 Factoid Booklet: Register Here! | www ...</font><br>
+#abstract: 
+# button you agree to receive emails from Loire Valley Wine Bureau. ... Loire365 is full 
+# of intriguing facts about Loire Valley food, history, travel, and yes, wine: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:loire
+4:valley
+4:wine
+4:region
+#title: <font class="result_title">Loire Valley (wine) - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# The Loire Valley wine region includes the French wine regions situated along the Loire River from the Muscadet region near the 
+# ... through the Loire province to the river's origins in the Cévennes but the majority of the wine production ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:loire
+5:valley
+5:wine
+#title: <font class="result_title">LOIRE VALLEY WINE TOURS, Wine Tasting Tours-Loire, France</font><br>
+#abstract: 
+# Enjoy Down-to-Earth Loire Valley Wine Tours. Wine Tasting Tours: Great Loire Valley Wines with the People Who Make Them. ... See the full Loire Wine 
+# Tour itinerary here. Would you like to reserve your spot now? Please give us a call at 1-800-449-7147 or send us an email. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:white
+6:loire
+6:wine
+6:region
+#title: <font class="result_title">white loire wine | loire wines | loire valley wines | white ...</font><br>
+#abstract: 
+# Loire wines. France most diverse and geographically extensive wine region stretching from ... The most northern 
+# of French viticulture, the Loire wine region is split into a number of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:loire
+7:wine
+#title: <font class="result_title">The Maison Ackerman - Rémy Pannier - The wines of the Val de ...</font><br>
+#abstract: 
+# Ackerman - Rémy Pannier is merchant of wines of the Val de Loire. ... AOC Muscadet des 
+# coteaux de Loire: this is a full and robust wine, characterised by a gunflint taste. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:loire
+8:burgundy
+8:bordeaux
+#title: <font class="result_title">Loire: French Wines from Tanners Wine Merchants</font><br>
+#abstract: 
+# Loire French Wines from Tanners Wine Merchants. Shop online for finest quality 
+# wines from Burgundy, Bordeaux and around the world since 1842. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:loire
+9:sweet
+9:color
+#title: <font class="result_title">Vouvray Wine</font><br>
+#abstract: 
+# Vouvray wine information with the French Wine Guide in the Loire Valley ... The wine can be sweet, flavored or full-body and dry. But one can 
+# say that Vouvray is always at its best. The sweet wine has a golden color, is vigorous, fruity and fresh. The dry and semi ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:sancerre
+10:loire
+10:valley
+#title: <font class="result_title">Sancerre Wine in Loire</font><br>
+#abstract: 
+# Sancerre wine information with the French Wine 
+# Guide in the Loire Valley 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:loire
+11:valley
+11:wine
+#title: <font class="result_title">Wine Review Online - The Loire Valley: Home of Great ...</font><br>
+#abstract: 
+# It's usually more full-bodied and rounder than Sancerre, with less lively acidity. Although most Loire white wines are unoaked, you can 
+# find more examples of oak-aged wines among the more expensive Pouilly-Fum%C3%83%C2%A9s than in any of the other appellations. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:loire
+12:valley
+12:strong
+#title: <font class="result_title">About The Loire Valley wine</font><br>
+#abstract: 
+# Loire Valley regional wine guides - with maps ... The relatively sharp style of these wines is rather out of favour 
+# at the moment, the world seeming to prefer oaky, full-bodied whites and tannic, strong, fruit-driven reds. Geography and climate ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:loire
+13:valley
+13:chateaux
+#title: <font class="result_title">Loire Valley Day tour, Chateaux %26 Wines , Villandry, Azay-le ...</font><br>
+#abstract: 
+# Loire Valley Day tour to tour the Chateaux of Villandry, Azay-le-Rideau and 
+# Chinon. Wine tasting of Loire Valley wines and lunch included. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+#title: <font class="result_title">The Maison Ackerman - Rémy Pannier - Wine growers %26 sommeliers</font><br>
+#abstract: 
+# Ackerman - Rémy Pannier is merchant of wines of the Val de Loire. ... A summer wine 
+# to be served on barbecued meat and a saucepan-full of green beans, for example. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:loire
+15:wine
+#title: <font class="result_title">Loire Wines - Woodland Hills Wine Co.</font><br>
+#abstract: 
+# Your source for the greatest Loire wines. Our direct sourcing from abroad and 
+# three decades of experience combine to bring you exceptional selection and value. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:loire
+16:red
+16:white
+#title: <font class="result_title">International Wine Merchant and Wine Shop | Loire Red Wines ...</font><br>
+#abstract: 
+# R and B Wines International Wine Merchant, 
+# Loire Red Wines, Loire White Wines 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:loire
+17:valley
+17:france
+#title: <font class="result_title">Loire Valley Wine Guides - Loire Valley Wine Tour - Wine ...</font><br>
+#abstract: 
+# Travel guides to the Loire Valley wine region in France to plan an 
+# interesting Loire Valley wine tour including vineyard visits and wine tasting. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:loire
+18:valley
+18:wine
+#title: <font class="result_title">Wine Tours and Courses in the loire valley</font><br>
+#abstract: 
+# Description of a short wine an food themed gourmet break in the Loire Valley ... A major part of Loire Wine is the 25 appellations of Anjou which is really our 
+# region, full of wines as varied as the people who make them and the places they are made at, Our wine tours go from the glory of ' ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:loire
+19:wine
+19:white
+#title: <font class="result_title">Loire Wine Reviewed by Wine Spectator White Wine</font><br>
+#abstract: 
+# White Wine from Loire, France - Other Regions 
+# reviewed by Wine Spectator from wine.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:wine
+20:loire
+20:valley
+20:vineyard
+#title: <font class="result_title">Private guided tour with a wine expert. Two days in the ...</font><br>
+#abstract: 
+# Private guided Loire Valley tour with a wine expert. Two 
+# days in the vineyards, tour and wine tasting. 

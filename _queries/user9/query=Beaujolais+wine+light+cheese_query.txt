@@ -1,0 +1,188 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:Beaujolais
+1:cheese
+1:light
+1:red
+#title: <font class="result_title">Beaujolais With Cheese</font><br>
+#abstract: 
+# Beaujolais Nouveau is a classic fall treat, released exactly on the third Thursday in November. It's the very first wine of the season - hardly wine 
+# at all, more like slightly-aged grape juice. In comparison, Beaujolais is a light red, and goes well with many appetizers and snacks. Brie ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:Beaujolais
+2:wine
+2:cheese
+#title: <font class="result_title">It's Beaujolais Nouveau Time!</font><br>
+#abstract: 
+# How to host a wine and cheese party 
+# to celebrate this year's Beaujolais Nouveau release. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:Beaujolais
+3:cheese
+3:gamay grape
+#title: <font class="result_title">Beaujolais | Wisconsin Cheese Cupid</font><br>
+#abstract: 
+# A light-bodied red wine, Beaujolais is made from the Gamay grape. It takes its name from the historical Beaujolais wine-producing region. 
+# This wine is known for its easy drinking and traditional flavors of cherries and violets. It also is lower ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:Beaujolais
+4:light
+#title: <font class="result_title">Beaujolais Wine Background and Information</font><br>
+#abstract: 
+# Beaujolais itself is split in two by the Nizerand River - north is Haut-Beaujolais with light soil. This produces the Beaujolais-Villages wines 
+# and all ten Crus. South of the river are the Bas-Beaujolais. Beaujolais is very light, fruity, and easy to drink. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:Beaujolais
+5:wine
+#title: <font class="result_title">Beaujolais Wine Information</font><br>
+#abstract: 
+# Beaujolais Wine Background and Information. What is Beaujolais Nouveau? Where 
+# does it come from? All questions answered here! 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:Beaujolais
+6:burgundy
+6:red
+6:wine
+#title: <font class="result_title">Snooth | Experiments in the Vegetarian Kitchen with ...</font><br>
+#abstract: 
+# Capable of producing as much wine a year as the entire region of Burgundy, Beaujolais is typically associated with the November release of 
+# its potentially reputation-scaring Beaujolais Nouveau-a light and fruity simple red wine that's meant to be drunk just months after it's bottled. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:Beaujolais
+7:burgundy
+7:light
+#title: <font class="result_title">Buy wine from Beaujolais -</font><br>
+#abstract: 
+# Beaujolais, a much neglected region which actually produces more wine than Burgundy, with the combination of sandy clay soil and it's wonderfully fruity "Gamay" 
+# grape, Beaujolais produces light, fruity easy to drink wine which is ideal for those who aren't fans of heavy powerful reds. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:Beaujolais
+#title: <font class="result_title">Beaujolais Wines, Brouilly, Beaujolais, Morgon wines</font><br>
+#abstract: 
+# The Pere Benoit domain is an impassioned wine grower. Find our selection of wines: Beaujolais, 
+# Brouilly, Morgon, rosé; wines... We are located in the department of Rhone (69), France. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:cheese
+9:wine
+#title: <font class="result_title">Cheese and Wine, French Wine Guide</font><br>
+#abstract: 
+# Cheese and Wine with The French Wine Guide: cheese and 
+# wine combination, matching wine with cheese from France 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:Beaujolais
+10:light
+#title: <font class="result_title">Beaujolais Day</font><br>
+#abstract: 
+# Swansea Life is a monthly lifestyle magazine for the people of Swansea and the surrounding regions. The magazine sits at the cutting edge of what is 
+# happening and what ... Regarding the wine itself, Beaujolais is described in Alexis Bespaloff's New Encyclopaedia of Wine as "a light, agreeable, fruity, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:cheese
+#title: <font class="result_title">DeLuca's Market</font><br>
+#abstract: 
+# DeLuca's Market, Boston, MA. Fancy groceries, fresh produce, deli, prepared foods, gift baskets, cheese %26 wine cellar and Never 
+# A Bum Steer! ... Try a young Brie, Camembert, fresh goat cheese with the light-bodied Beaujolais. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cheese
+12:wine
+12:Beaujolais
+#title: <font class="result_title">Matching Cheese and Wine. - from Spittoon.biz</font><br>
+#abstract: 
+# Beaujolais and C%C3%B4tes du Rh%C3%B4ne are also recommended. Epoisses - Napoleon's favourite. Strong in flavour and aroma, this classic cheese from Burgundy should be matched with a wine from 
+# the same region - a red or a white will be ... Pie d%60Anglous - a light soft cheese ideal with a ripe plum or sweet ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:Beaujolais
+13:red
+13:food
+#title: <font class="result_title">Summer Red Wines - Beaujolais</font><br>
+#abstract: 
+# Reviews of Gruner Veltliners from Austria, by R. Veronique Fitzgerald. THE NIBBLE, Great Food Finds, is an online gourmet 
+# food magazine and website with a thousand product reviews plus wine reviews, including lesser-known wines like Gruner ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:Beaujolais
+14:white
+14:grape
+#title: <font class="result_title">French Beaujolais Wines</font><br>
+#abstract: 
+# You can choose from a range of fresh, light and fruity French Beaujolais Wines online with Alexander Hadleigh, 
+# we stock a wide range of Red and White grape wines from Beaujolais, buy online now 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:Beaujolais
+#title: <font class="result_title">Westside Liquor, There's One Near You! - Recipes - Beaujolais ...</font><br>
+#abstract: 
+# Best Selection, Best Service, Best overall pricing. We will meet or beat any local price. Thank you so very 
+# very much for your business!Liquor, Beer %26 Wine is all we do! Westside Liquor There's One Near You! 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:Beaujolais
+16:light
+16:gamay grape
+#title: <font class="result_title">Wines of Beaujolais French wine guide</font><br>
+#abstract: 
+# Beaujolais is the last district of Burgundy. It produces one of the most famous red wine 
+# ... Beaujolais takes it, generally, light and fruity flavour from the Gamay grape variety. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:cheese
+#title: <font class="result_title">Barbara Adams: Cheese and Wine Pairing, Lesendairy Blue ...</font><br>
+#abstract: 
+# Barbara Adams features beyond wonderful recipes, global cuisine, recipe collections, quick and easy recipes, classic family favorites, cooking 
+# tips, culinary experts, party ideas, and festive holiday fare. You will find hundreds of full-proof ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:Beaujolais
+18:wine
+#title: <font class="result_title">Beaujolais Villages, Morgon, Chiroubles, wine, oak, natural ...</font><br>
+#abstract: 
+# Cathy and Jean-Luc Gauthier winemakers at Domaine du Cret de Ruyere produce wines 
+# Chiroubles, Morgon, Beaujolais Villages, Cuvee Nature, oak barrels, terroir, natural, vinified. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:cheese
+19:Beaujolais
+#title: <font class="result_title">Tesco Food %26 Drinks</font><br>
+#abstract: 
+# Fleurie or Beaujolais-Villages. Very light cheese, creamy and soft on the palate. Eat on crusty French Bread ... Choosing 
+# Cheese: Buy your cheese about two or three days before you are going to eat it. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:Beaujolais
+20:food
+#title: <font class="result_title">Match made in Beaujolais heaven</font><br>
+#abstract: 
+# create a dish perfectly matched to one of the 12 light and fruity Beaujolais appellations. Food. and wine matching is often cast as a mysterious science but 
+# in truth it is actually quite simple, especially with Beaujolais wines as they are some of the most food friendly due to their soft ... 

@@ -1,0 +1,197 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:food
+#title: <font class="result_title">Matching Wine With Food</font><br>
+#abstract: 
+# Matching the right wine with the right food can make a vast difference to the appreciation and enjoyment of your 
+# dining experience and some people get so concerned about it that they often choose something else to drink altogether. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:white
+2:dry
+#title: <font class="result_title">OMTIS - Fine Wine %26 Spirits</font><br>
+#abstract: 
+# Dry white wines: Graves, White Burgundy, or strong red wines: Beaune, St-Emilion, Nuits, Chateauneuf-du-Pape, etc%C2%A1K. Game: Partridge, Pheasant, 
+# wild ducks, Etc%C2%A1K. Medium strong red wines Graves, Beaune, Pomerol, Medoc, Beaujolais. Boar, hare, venison, etc%C2%A1K ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:duck
+3:dry
+3:wine
+#title: <font class="result_title">Picky Winers Club</font><br>
+#abstract: 
+# The crispy roasted duck skin glazed with ruby-red Cantonese BBQ sauce with a hint of honey, contrasting the rich, juicy and tender duck 
+# meat, is quite the sensation for ... Tags: Australian wine, Dry Grown Grenache, Duck, Grenache, Grenache 2006, McLaren Vale, Sorrento ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:wine
+4:food
+#title: <font class="result_title">Victoria Wine and Food</font><br>
+#abstract: 
+# Red wine or white wine? Dry or semi-dry? A general guide on the different 
+# types of wine and how to choose one to compliment your meal. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:food
+5:red
+#title: <font class="result_title">Matching Wine and Food - What Wines go with what Foods ...</font><br>
+#abstract: 
+# Matching food and wine, Easy to read chart telling you what wines go with what foods. ... Red Wines. Cabernet Sauvignon: Medium to full-bodied, 
+# tannic and dry. Beef, lamb, pork, duck, game meats, cheeses. Merlot: Medium to full-bodied, less tannic than Cabernet, dry. Beef, lamb, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:strong
+6:dry
+6:tannic
+6:red
+#title: <font class="result_title">Wines from Conte Barattieri - ITALY</font><br>
+#abstract: 
+# Strong fragrance, dry, lightly tannic, matured in barrel and refined in bottle. ... Ruby red wine, 
+# typical pleasant fragrance, lighlty herbaceous, dry, lightly tannic, sprightly,it preserves its best qualities for ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:food
+7:wine
+#title: <font class="result_title">Find a wine - Matching Food and Wine</font><br>
+#abstract: 
+# Free access to everything you need to know about matching food, wine and other drinks from award-winning writer Fiona Beckett. ... dish that suggests an 
+# Italian wine. Almost any crisp, dry white will work (unless the risotto is made with red wine in which case drink something ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:food
+8:wine
+8:dry
+8:merlot
+#title: <font class="result_title">Food and Wine Pairing</font><br>
+#abstract: 
+# Dry. Style. Merlot pairs well with red meats. It has the weight and fruit to match wine-braised stews and roasts, and the ... 
+# The Basics. Beef, lamb, venison, duck; lighter and softer Merlots also complement lighter white and red meats and game birds. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:food
+9:wine
+#title: <font class="result_title">Recipes - Food and Wine Pairing Guide - ArcaMax Publishing</font><br>
+#abstract: 
+# Pointers and recommended for some simple food and wine combinations. ... Red meat, BBQ, chicken, hamburgers, wild game, pork, duck, most cheeses. Merlot. Dry 
+# %E2%80%A2 Full bodied. Roasted poultry, chicken, casseroles, lamb, venison, pasta, mild cheese, strong cheese. Pinot Noir. Dry %E2%80%A2 Light to medium bodied ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:red
+10:wine
+10:duck
+#title: <font class="result_title">Making the Brine: Red Wine "Brined" Duck - cbs3.com</font><br>
+#abstract: 
+# %3Cstrong%3EMaking the Brine: Red Wine "Brined" Duck as seen on 
+# Eyewitness News, Sunday, December 21, 2008.%3Cbr /%3E %3C/strong%3E 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:food
+11:wine
+#title: <font class="result_title">Food and Wine - Wine Enology Grape Chemistry Lab at Virginia Tech</font><br>
+#abstract: 
+# For steak preparations involving additional strong flavors, richer Cabernets are preferable. Red wine with cheese. Firm, dry cheeses go best with 
+# reds. Soft, fatty or creamy cheeses make most red wines taste dull. Strong, smelly cheeses overwhelm red wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:food
+12:wine
+#title: <font class="result_title">Food and Wine</font><br>
+#abstract: 
+# There are well tried and tested conventions that will allow you to match food and wine so that you will be able to get more out of 
+# your dining experience... Peking duck Cabernet, Merlot, Pinot Noir and light Californian Zinfandel. Japanese. Choose very cold, off-dry, fruity white wines. Any red or white ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:dry
+13:food
+#title: <font class="result_title">Musca Wine Pressing and Supplies Limited: Vintage Reserve Reds</font><br>
+#abstract: 
+# Musca Wine Pressing and Supplies Limited ... dry wine, that with some age will develop a nice smooth finish. Optional - Oak Aging 
+# will compliment this variety quite nicely. Traditional Food Pairings: Rack of Lamb, Roast Pork, Steak, Beef Stew, Pasta, Mature and Strong ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:red
+14:wine
+14:turkey
+#title: <font class="result_title">December/January Citibank Net News - Red Wine with Turkey ...</font><br>
+#abstract: 
+# Cabernet Sauvignon (red) Full-bodied, fruity and rich. Entrées. Grilled turkey, chicken or ... Roasted duck. Merlot (red) Mellow, 
+# with hints of black currant, cherry and mint. Roasted turkey. Dry or Sweet Sparkling Wine (white) ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:red
+15:wine
+15:strong
+#title: <font class="result_title">maitre d hotel consultants</font><br>
+#abstract: 
+# Balanced and hot red wine. Médoc, Buzet. Prune rabbit. Fine and raced red wine. St 
+# Estèphe, ... and strong red wine. Madiran, Cahors. Preserved filleted fat duck. Sweet ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:dry
+16:flavor
+16:duck
+16:peach
+#title: <font class="result_title">Russell Orchards - Ipswich, MA</font><br>
+#abstract: 
+# Dry robust wine with a smooth lingering berry flavor. Venison, red meat. The berry is a cross 
+# between the gooseberry ... Venison, roast beef, duck. This semi-dry wine boasts a light peach ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:duck
+#title: <font class="result_title">Wine Catalog</font><br>
+#abstract: 
+# A fresh yet complex wine balancing the red fruit of raspberries and gentle earthy notes. ... Best with 
+# powerful dishes including duck with a fruit sauce, stew of beef or boar, and strong cheeses. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:dry
+18:red
+18:duck
+#title: <font class="result_title">Our Wines | Benigna's Creek</font><br>
+#abstract: 
+# Cab Franc - dry red - a medium-bodied Red Wine with hints of ripe bell pepper. 
+# ... Enjoy this wine with duck, goose, or venison. It also would go well ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:fruit
+19:fish
+19:duck
+19:red
+#title: <font class="result_title">Vallarta Wine Fest 2010</font><br>
+#abstract: 
+# Young Red wine, fruit scented, light to middle bodied: Cold Cuts, Ham, Duck, Turkey, ... Aged Red wines fruit scented and 
+# full bodied: P%C3%A2té, Red meat, duck, Fish in wine sauce, Strong Cheeses, Red fruits Tart and Chocolate desserts. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:wine
+#title: <font class="result_title">RED FIZZ / Australian-style red bubbly is a grown-up pleasure ...</font><br>
+#abstract: 
+# Red sparkling wine? Red? That's silly -- unless you're Australian. Red bubbly is a winemaker's inside joke 
+# in Germany. Vintners changed the spelling of their name for it from "kalte ende" to "kalte 

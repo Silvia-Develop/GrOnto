@@ -1,0 +1,82 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="it">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Test</title>
+<!--<link href="style.css" rel="stylesheet" type="text/css"> -->
+<style>
+font.title{
+	color: #003399;
+	text-decoration: none;
+	font-weight: bolder;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+font.result_title{
+	text-decoration: none;
+	font-weight: bolder;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+font.result_field{
+	margin-right:20px;
+	margin-left:20px;
+	margin:inherit;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+h1
+	{color:#0099CC;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:36.0pt;
+	font-family:Verdana;
+	font-weight:bold}
+h2
+	{margin-top:12.0pt;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold}
+field
+	{border-color:#0066FF}
+
+</style>
+<SCRIPT language="JavaScript">
+
+function OnSubmitForm()
+{
+  document.forms["form_search"].submit();
+  }
+</SCRIPT>
+</head>
+
+<body>
+	<table align="center" cellpadding="0px" cellspacing="0px" border="0" width="70%">
+	<tr><td align="center" valign="top"><h1>GrOnto</h1></td></tr></table>
+	<table align="center" cellpadding="0px" cellspacing="0px" border="0" width="70%">
+		<tr>
+			<!-- MSCellFormattingType="content" -->
+			<td  bgcolor="#CC0000">&nbsp;</td>
+			<form method="post" id="form_search" name="form_search" action="http://localhost:8080/gronto">
+			<td height="60px" align="center" bordercolor="#FFFFFF"><label><font class="title">SEARCH</font></label>
+			<input name="query" id="query" value="" size="500px">
+			<input type="button" name="Submit" value="Submit" onClick="javascript:OnSubmitForm();">
+			</form>
+			</td>
+			<td bgcolor="#CC0000">&nbsp;</td>
+		</tr>
+		<tr valign="top"><td>&nbsp;</td><td align="center" valign="top"><h2>powered by YAHOO! Search</h2></td><td>&nbsp;</td></tr>
+	</table>
+		<!--results-->
+			
+
+</body>
+</html>

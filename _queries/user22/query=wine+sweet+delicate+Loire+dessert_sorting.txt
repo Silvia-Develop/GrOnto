@@ -1,0 +1,13 @@
+#nomecategoria:2,4,2
+cabernet:10
+chateau:12
+dessert:1,2,3,4,5,6,7,8,9,16
+food:1,7,11,15
+france:17
+grape:18
+loire:9,17
+red:16
+riesling:4
+sweet:1,4,5,8,12,19
+valley:9,17
+wine:1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,18,19,20

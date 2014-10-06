@@ -1,0 +1,68 @@
+9:pinot noir
+12:pinot noir
+3:pinot noir
+9:pinot noir grape
+3:pinot noir grape
+6:rose wine
+20:dessert wine
+11:red wine
+17:red wine
+10:red wine
+7:red wine
+1:red wine
+2:food
+10:food
+14:food
+20:food
+2:cabernet sauvignon
+9:fruit
+14:fruit
+3:fruit
+16:sauvignon blanc grape
+5:wine region
+16:grape
+19:grape
+6:grape
+9:grape
+3:grape
+20:pasta
+15:seafood
+15:fish
+16:sauvignon blanc
+16:wine grape
+19:wine grape
+6:wine grape
+9:wine grape
+3:wine grape
+10:salmon
+20:dessert
+8:wine
+16:wine
+15:wine
+19:wine
+6:wine
+11:wine
+17:wine
+9:wine
+2:wine
+10:wine
+12:wine
+14:wine
+18:wine
+7:wine
+13:wine
+20:wine
+3:wine
+4:wine
+5:wine
+1:wine
+8:white wine
+16:white wine
+15:white wine
+19:white wine
+7:white wine
+4:white wine
+5:white wine
+14:peach
+13:peach
+20:peach

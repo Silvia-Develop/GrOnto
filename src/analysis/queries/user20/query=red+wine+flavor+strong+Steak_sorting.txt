@@ -1,0 +1,26 @@
+#nomecategoria:2,4,2
+#body:2,14
+#cabernet,sauvignon:12
+#color:6,18
+#dry:12
+#fish:1
+#flavor:9,16
+#food:4,7
+#full:14
+#lobster:1
+#red:1,2,5,7,8,10,12,13,14,17,18,19
+#steak:3,5,13,20
+#strong:9,10
+#white:8
+#wine:2,4,5,7,8,10,11,12,13,14,15,16,17,19,20
+#zinfandel:7
+(color,colour):6,18
+beef:2
+cabernet sauvignon:12
+fish:1
+food:4,7
+lobster:1
+red:1,2,5,7,8,9,10,12,13,14,17,18,19
+steak:3,5,7,13,20
+white:8
+wine:1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20

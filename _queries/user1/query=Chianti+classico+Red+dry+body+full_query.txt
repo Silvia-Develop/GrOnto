@@ -1,0 +1,237 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:chianti,classico
+1:red
+1:dry
+1:wine
+#title: <font class="result_title">Chianti - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# (Redirected from Chianti Classico) Jump to: navigation, search. Chianti wine in a traditional fiasco. Chianti is a red Italian wine ... Chianti 
+# that meets more stringent requirements (lower yield, higher alcohol content and dry extract) may be labeled as Chianti Superiore. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:chianti,classico
+2:dry
+#title: <font class="result_title">The Chronicle's Wine Selections: Chianti Classico - SFGate</font><br>
+#abstract: 
+# CHART:Here are the panel picks from the 32 Chianti Classicos and Riservas tasted for today.. 2002 
+# Alaura Chianti Classico Price: USD11 Body: Medium Dryness: Dry Comments: Aromas of cherry raspberry 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:full
+3:chianti
+3:dry
+#title: <font class="result_title">Full Wine List - Amordivino</font><br>
+#abstract: 
+# Amordivino, Unwind in style with Italian Wine ... Chianti Straccali in a flask. Geografico. Toscana. Dry. %C2%A34.75. 
+# %C2%A310.00. Red. 2006. Chianti Classico DOCG. Fattoria di Felsina. Toscana. Dry. %C2%A314.50. %C2%A314.99. Red ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:dry
+4:flavor
+4:full
+4:body
+#title: <font class="result_title">Pavinci Italian Grill - Italian Red Wines</font><br>
+#abstract: 
+# This distinctive wine enjoys a dry, robust flavor, mellowed by aging in oak barrels. ... Chianti Classico 
+# Riserva, Ducale, Ruffino. This classic red Chianti is a full-bodied, smooth, very dry red ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:chianti,classico
+5:full
+5:red
+5:dry
+#title: <font class="result_title">Chianti...Remembrance of Wines Past</font><br>
+#abstract: 
+# The border of the bollino is red for Chianti Classico normale, silver for vecchio, and gold for riserva. ... 
+# red berries, the wine is very smooth, almost velvety on entry. Full bodied with dry meaty ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:chianti,classico
+6:dry
+6:red
+#title: <font class="result_title">Chianti | Melgab International CC</font><br>
+#abstract: 
+# Please don't hesitate to contact us for this or any other of your wine requirements. " More Details... Posted in Italy | Black | Casa Emma | Chianti | 
+# Classico | DOCG | Dry Red | Malvasia ... JS " Full Story (subscription required) Interested?: Please don't hesitate to contact us for this or any ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:chianti,classico
+7:red
+7:color
+7:dry
+7:full
+#title: <font class="result_title">Angeloni's II - Restaurant %26 Lounge</font><br>
+#abstract: 
+# Chianti Classico Riserva, Antinori - Dry, full bodied with a smooth, ... Chianti Classico, 
+# Castello di Amma - Ruby red color with a bouquet of violets. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:chianti
+8:chianti,classico
+8:wine
+#title: <font class="result_title">Italy " Tuscany " Chianti, Chianti Classico, Chianti ...</font><br>
+#abstract: 
+# Super Cellars is a family business that features wines for every shopper. Every wine online is on sale. We offer 
+# discount pricing always on every bottle with no hoops to jump through. Located in Ridgewood and Paterson, New Jersey. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:grape
+9:red
+9:white
+9:wine
+9:body
+9:medium
+9:cheese
+9:full
+9:flavor
+9:pasta
+9:fruit
+#title: <font class="result_title">Siena Imports Inc. Finest Italian Wines</font><br>
+#abstract: 
+# Siena Imports, Italian Wine Importer, Toscana, Collio, Alto Adige, Grappa, Red Wine, White Wine ... The dark berry fruit, medium 
+# body, and smooth, earthy finish pairs well with full flavored pastas, roasted meats, and dry aged cheeses. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:chianti,classico
+10:red
+10:wine
+#title: <font class="result_title">Chianti Classico DOCG Vignamaggio 2003 - Vignamaggio ...</font><br>
+#abstract: 
+# Chianti Classico red Italian wine from the Tuscany region of central 
+# Italy. Amordivino - Unwind in style with Italian wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+11:red
+11:full
+11:body
+#title: <font class="result_title">Ripasso - San Giuseppe Wine</font><br>
+#abstract: 
+# Learn about Vintwood's heritage and their brands of wine like San Giuseppe, Pere Alessandro, Palezzetti, Re' Sicilia, A. Bianchi ... Ripasso 
+# Valpolicella Classico Superiore is a dry red wine that possesses a unique complexity, both harmonic and full bodied. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:food
+12:tannin
+12:light
+12:full
+12:body
+#title: <font class="result_title">Recipe Details :: Plumb's Valu-Rite Foods</font><br>
+#abstract: 
+# ... in the Brunello di Montalcino and Chianti districts, although it is gaining in popularity ... in 
+# tannin; the wines can be light to full-bodied depending on where the grapes are grown. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:red
+13:wine
+13:full
+13:body
+13:chianti,classico
+#title: <font class="result_title">Andrews Hotel | Fino Ristorante %26 Bar | Fino Italian Red Wine ...</font><br>
+#abstract: 
+# Andrews Hotel, a historic boutique San Francisco hotel on Union Square, offers elegant San Francisco accommodations, ideal for travel to 
+# San Francisco on leisure or business. ... Full body. 47.00. 2003 Castello di Volpaia Chianti Classico Riserva ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:chianti,classico
+14:full
+14:body
+14:dry
+14:food
+14:meat
+#title: <font class="result_title">Chianti Classico - Rocca delle Macie</font><br>
+#abstract: 
+# Top quality Chianti from the Tuscany region. Full, firm dark cherry ... A full bodied wine. Dry with excellent weight of black cherry fruits with hints of 
+# chocolate and spice and a creaminess from time spent in oak. well made wine, great body and structure and long length. Food Matches: Red Meat ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:chianti,classico
+15:dry
+15:red
+15:body
+#title: <font class="result_title">Félsina Chianti Classico 2006</font><br>
+#abstract: 
+# The medium-full body brilliant ruby red coloured spicy wine is still young and slightly ... The grape 
+# used in this dry Chianti Classico is the same as in Brunello di Montalcino and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:chianti,classico
+16:dry
+16:full
+16:body
+16:meat
+#title: <font class="result_title">Chianti Classico D.O.C.G.</font><br>
+#abstract: 
+# taste: dry, supple, well balanced between a full body and a good structure of tannins. ... white meat and poultry, 
+# noble poultry and grilled meat; The Chianti Classico Riserva matches very well with game. %C2%A9 SIA Internet. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:wine
+17:chianti,classico
+17:Merlot
+17:red
+17:dry
+17:colour
+17:body
+#title: <font class="result_title">GIANBIAZ Restaurant - Wine List</font><br>
+#abstract: 
+# Chianti Classico - %C2%A313.95 (%2B1/2) %C2%A324.95 (Dry and bodied) Toscana One of the world's most famous dry red wines. ... Barbera - 
+# %C2%A317.95 (Dry) Piemonte A smooth and extremely palatable dry red, rich in colour and body. Merlot - %C2%A319.95 (Dry) Friuli. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:chianti,classico
+18:red
+18:wine
+18:dry
+#title: <font class="result_title">Antinori</font><br>
+#abstract: 
+# Antinori Chianti Classico Riserva 1997: A dark garnet red wine. Dark berry fruit on the nose, with a nicely judged, integrating lick of wood. Quite 
+# full bodied on the attack, with plenty of extract. There's plenty of structure, with dry, spicy tannins and good acidity, and dark fruits. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:chianti,classico
+19:dry
+19:wine
+19:light
+19:full
+19:body
+#title: <font class="result_title">Recipe Details :: Save-On-Foods</font><br>
+#abstract: 
+# Chianti Classico is the heartland of the zone, and the best area for wine. ... A 
+# very dry wine, it can range from light-bodied to almost full-bodied, with aromas of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:chianti,classico
+20:dry
+20:wine
+20:light
+20:full
+20:body
+#title: <font class="result_title">Recipe Details :: Grand Union Family Markets</font><br>
+#abstract: 
+# Chianti Classico is the heartland of the zone, and the best area for wine. ... A 
+# very dry wine, it can range from light-bodied to almost full-bodied, with aromas of ... 

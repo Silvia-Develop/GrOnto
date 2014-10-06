@@ -1,0 +1,202 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:syrah
+1:red
+1:wine
+1:grape
+#title: <font class="result_title">Syrah (Shiraz): Red Wine Grape Varietal | Into Wine</font><br>
+#abstract: 
+# Expert articles and wine tasting videos profiling 
+# the Syrah red wine grape varietal. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:syrah
+2:red
+2:wine
+#title: <font class="result_title">syrah red wine, syrah red wine Manufacturers %26 Suppliers</font><br>
+#abstract: 
+# Alibaba - syrah red wine: syrah red wine Manufacturers %26 syrah red wine Suppliers. Find a reliable 
+# %26 professional syrah red wine manufacturer or supplier. Also exporters of wholesale syrah red wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:red
+3:wine
+3:syrah
+#title: <font class="result_title">Red - Big %26 Bold Syrah/Shiraz Wine Fine Wine</font><br>
+#abstract: 
+# Syrah/Shiraz wines from our Fine 
+# Wine list from wine.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:red
+4:wine
+4:syrah
+4:sauvignon,blanc
+#title: <font class="result_title">Red Wine - Syrah 2007</font><br>
+#abstract: 
+# Family-owned/operated, Babich Wines is one of New Zealand's leading wineries. Based in Henderson, vineyards in Marlborough, Hawke's 
+# Bay, Auckland. Produces Sauvignon Blanc and other white/red varieties. Labels: Winemakers Reserve, Irongate, The ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:syrah
+#title: <font class="result_title">Australia Wine Syrah/Shiraz Wine</font><br>
+#abstract: 
+# Syrah/Shiraz wines from Australia from wine.com. ... The same size as the US, Australia makes delicious 
+# red, white and sparkling wine, from large production houses to small artisan producers. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:red
+6:wine
+6:syrah
+6:cabernet
+6:zifandel
+6:grape
+#title: <font class="result_title">The 8 major types of red wine - French Scout</font><br>
+#abstract: 
+# Popular red wine varietals, regions producing red wines, and food pairings with 
+# red wine. ... Syrah, cabernet, zinfandel are red grape varieties. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:red
+7:syrah
+7:light
+#title: <font class="result_title">Syrah :: Red :: JV Wine</font><br>
+#abstract: 
+# Amador County Syrah 2005. Beautiful, medium French Oak, fresh front palate with bright ... A 
+# light textured red wine perfect for warm weather and al fresco dining ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:france
+8:syrah
+8:wine
+#title: <font class="result_title">France - Rh%C3%B4ne Wine Syrah/Shiraz Wine</font><br>
+#abstract: 
+# Syrah/Shiraz wines from France - Rh%26Ocirc;Ne from wine.com. ... While Syrah is the main, and only, 
+# player in the North, the South has a slew of red varieties to use. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:syrah
+9:wine
+#title: <font class="result_title">Syrah/Shiraz Wine Fine Wine</font><br>
+#abstract: 
+# Syrah/Shiraz wines from our Fine 
+# Wine list from wine.com. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:red
+10:wine
+10:syrah
+#title: <font class="result_title">Red Wine " Syrah - Webwine.com - Buy Wine Online</font><br>
+#abstract: 
+# Webwine.com is your online wine superstore. We find new wines at value prices. Our imported and domestic wines will fill your 
+# wine cellar, make a great gift, or simply be an enjoyable drink. We offer wine accessories, glassware and corporate gift... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:syrah
+11:grape
+11:red
+#title: <font class="result_title">Syrah Red Grape Variety</font><br>
+#abstract: 
+# Syrah red grape, its history, wines, and food pairings ... Syrah - Red Wine Grape. Syrah is thought to have originated in 
+# the northern part of the Rh%C3%B4ne Valley of eastern France, where it has been known since the Twelfth Century. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:red
+12:syrah
+#title: <font class="result_title">New Zealand Red Wine | New Zealand Syrah | Syrah</font><br>
+#abstract: 
+# New Zealand Syrah is very similar to Shiraz in both style and taste, because they are both the same grape. New Zealand Syrah is 
+# made in the French style, while Shiraz is made in the Australian style. New Zealand Syrah suits a variety of food ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:winery
+13:syrah
+13:cabernet,sauvignon
+#title: <font class="result_title">Red Wine :: Fallbrook Winery</font><br>
+#abstract: 
+# Fallbrook Winery, the largest winery in San Diego county, produces award-winning red wines, including Cabernet Sauvignon, Merlot, 
+# Syrah, and Denira red wine. Fallbrook Winery - San Diego's largest winery. Offering award-winning Cabernet Sauvignon... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:red
+14:wine
+14:grape
+14:syrah
+#title: <font class="result_title">Red Wine | Syrah | 2 bicchieri : Delicasa.com</font><br>
+#abstract: 
+# Type - Red Wine; Grape varietal (dominant) - 
+# Syrah; Score Gambero Rosso - 2 bicchieri 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:syrah
+15:france
+15:red
+15:wine
+#title: <font class="result_title">Shiraz / Syrah</font><br>
+#abstract: 
+# In France it is known and grown as Syrah, and responsible for some of the Northern Rhone's 
+# big, bold red wines. ... Shiraz is touted as Australia's spicy, big-hitting red wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:white
+#title: <font class="result_title">Syrah - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Second, it is documented that the famous Shirazi wine was white,%5B10%5D ruling out the use of dark-skinned grapes such as Syrah, and 
+# no known descriptions of this wine's taste and character indicate any similarity whatsoever with red wines from the Rh%C3%B4ne. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:syrah
+17:merlot
+#title: <font class="result_title">Varietal - Syrah</font><br>
+#abstract: 
+# Gift top rated wines for your loved once. Choose the top rated wines from Bottlenotes and make your wine gift search easy. ... 
+# A really delicious red wine from Portugal. Jammy, rich Syrah, made all the more velvety with a meaningful presence of Merlot. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:syrah
+#title: <font class="result_title">Australia Wine Syrah/Shiraz Wine 90%2B Rated Wines Under USD20</font><br>
+#abstract: 
+# Syrah/Shiraz wines from Australia from our 90%2B Rated Wines Under USD20 list from wine.com. ... 
+# The same size as the US, Australia makes delicious red, white and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:syrah
+19:red
+19:wine
+19:valley
+#title: <font class="result_title">Saint Hallett 2004 Faith Shiraz - Syrah/Shiraz Red Wine ...</font><br>
+#abstract: 
+# Saint Hallett 2004 Faith Shiraz - Syrah/Shiraz Red Wine Red Wine by St. Hallett 
+# from Barossa Valley, Australia. St Hallett Faith is vibrant and expressive and a 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:wine
+20:syrah
+20:grape
+#title: <font class="result_title">Red Wine | Syrah | 2001 : Delicasa.com</font><br>
+#abstract: 
+# Type - Red Wine; Grape varietal (dominant) 
+# - Syrah; Vintage - 2001 

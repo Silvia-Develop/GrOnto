@@ -1,0 +1,176 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:cabernet,sauvignon
+1:napa
+#title: <font class="result_title">Reds Delicato Cabernet Sauvignon</font><br>
+#abstract: 
+# Delicato Cabernet Sauvignon. This wine is unusually rich and well structured for a house ... Louis M. 
+# Martini Cabernet Sauvignon "My heart is in Napa, but my soul is in Sonoma, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:cabernet,sauvignon
+2:merlot
+2:cabernet
+#title: <font class="result_title">Cabernet Sauvignon - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Cabernet Sauvignon became internationally recognized through its prominence in Bordeaux wines where it is often blended with Merlot and Cabernet Franc. 
+# ... Cabernet Sauvignon is a very bold and assertive wine that has potential to overwhelm light and delicate dishes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:cabernet,sauvignon
+3:wine
+#title: <font class="result_title">Andover Liquors Delicato Cabernet Sauvignon 3L</font><br>
+#abstract: 
+# Andover Liquors, one of Boston's most impressive wine cellars. An online wine store with weekly 
+# tastings and a complete beer selection. ... Delicato Cabernet Sauvignon 3L 3.0L ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:cabernet,sauvignon
+4:delicate
+#title: <font class="result_title">2004 Cabernet Sauvignon | Viansa Winery</font><br>
+#abstract: 
+# Cabernet is king in California and our 2004 North Coast Cabernet Sauvignon has it all. From delicate aromas of ripe fruit sweetness, firm tannins 
+# and deep, dark layers of chocolate and decadence. ... This wine consists of 80% Cabernet Sauvigon and 20% Merlot. On the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:cabernet,sauvignon
+#title: <font class="result_title">Delicato Cabernet Sauvignon at Anti Wine Snob</font><br>
+#abstract: 
+# The Delicato Cabernet Sauvignon is a medium-bodied wine imbued with blackcurrant flavor. ... While it doesn't have the rolling layers that many other Cabernet Sauvignon 
+# offer, I found the Delicato Cab to be pleasant and a little less demanding, too. The flavors were smooth enough to offer the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:cabernet,sauvignon
+6:vineyard
+#title: <font class="result_title">PersonalWine.com</font><br>
+#abstract: 
+# Healdsburg Vineyards Cabernet Sauvignon. Click to enlarge. The wine has the following aromas: currant, blackberry, and black cherry 
+# ... '07 Wattle Creek Cabernet Sauvignon Barrel Selection. News Terms %26 Conditions Privacy Policy Wine Resources ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:cabernet,sauvignon
+7:bordeaux
+7:napa,valley
+#title: <font class="result_title">Cabernet Sauvignon: Definition from Answers.com</font><br>
+#abstract: 
+# Cabernet Sauvignon ( ) n. A variety of black grape used to make red wine, notably in Bordeaux and the Napa Valley 
+# ... Cabernet Sauvignon is a very bold and assertive wine that has potential to overwhelm light and delicate dishes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:cabernet,sauvignon
+#title: <font class="result_title">California Cabernet Sauvignon</font><br>
+#abstract: 
+# California Cabernet Sauvignon from the Mirassou Winery. ... California Cabernet Sauvignon. Mirassou%C2%AE California Cabernet Sauvignon. Balancing 
+# intense fruit flavors with delicate aromas and subtle hints of oak, Mirassou wines embody ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:vineyard
+#title: <font class="result_title">Delicato Vineyards</font><br>
+#abstract: 
+# Offers a variety of wines and gift 
+# packs; winery tours available also. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:cabernet,sauvignon
+10:tannin
+#title: <font class="result_title">chalk hill wines - Cabernet Sauvignon</font><br>
+#abstract: 
+# Cabernet Sauvignon is grown in nearly every major wine producing country among a diverse spectrum of climates. ... 
+# Cabernet Sauvignon often has noticeable tannin that has potential to overwhelm light and delicate dishes. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:cabernet,sauvignon
+#title: <font class="result_title">CABERNET SAUVIGNON - DELICATO TWISTED 2007 | BC Liquor Stores</font><br>
+#abstract: 
+# CABERNET SAUVIGNON - DELICATO TWISTED 2007. SKU #185751 / UPC ... Check out 
+# the "CABERNET SAUVIGNON - DELICATO TWISTED 2007" page (http://www.bcliquorstores.com/product/185751) at BCLiquorStores. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cabernet,sauvignon
+#title: <font class="result_title">Liberty Creek Cabernet Sauvignon at Anti Wine Snob</font><br>
+#abstract: 
+# I've tried to think of something great to say about Liberty Creek's Cabernet Sauvignon. ... Bottom 
+# line, Liberty Creek Cabernet Sauvignon is not a repulsive wine and for the price, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:cabernet,sauvignon
+13:vineyard
+#title: <font class="result_title">Downing Family Vineyards Cabernet Sauvignon</font><br>
+#abstract: 
+# Established in 1998, Downing Family Vineyards produces small case lots of ultra-premium Zinfandel, Cabernet Sauvignon, Shiraz and 
+# Petite Sirah. The labels represent things about which John and Tracy Downing are passionate-flying, fly fishing, 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:cabernet,sauvignon
+#title: <font class="result_title">Jordan Winery Cabernet Sauvignon</font><br>
+#abstract: 
+# The harvest ended in October just four weeks after it began, successfully preserving the fruit's delicate flavors. Overall, it 
+# was a wonderful season, producing a multi-layered, richly textured wine. THE WINE. The 2003 Jordan Cabernet Sauvignon ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:cabernet,sauvignon
+#title: <font class="result_title">2003 Jordan Cabernet Sauvignon</font><br>
+#abstract: 
+# Our Cabernet Sauvignon displays the rich varietal character 
+# these grapes achieve in our distinctive terroir. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:cabernet,sauvignon
+16:napa,valley
+#title: <font class="result_title">2006 Textbook Cabernet Sauvignon, Oakville District, Napa ...</font><br>
+#abstract: 
+# Scenic Root Winegrowers Textbook Vineyards Cabernet Sauvignon is produced from heritage vine fruit grown in the Oakville District of 
+# Napa Valley. This limited production wine is deep, rich and complex and will age well for several years. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:cabernet,sauvignon
+#title: <font class="result_title">Cabernet Sauvignon Wines sold at Wilburs Total Beverage</font><br>
+#abstract: 
+# Cabernet Sauvignon Wines sold at Wilburs Total Beverage. Find wine prices for Cabernet Sauvignon Wines sold at Wilburs Total 
+# Beverage from hundreds of merchants on the WineFetch search engine. Refine your search by winery, varietal, country, 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:cabernet,sauvignon
+18:napa
+#title: <font class="result_title">2005 Bachio Divino Janzen Napa Cabernet Sauvignon 2005 Free ...</font><br>
+#abstract: 
+# USD49 at Wines.com Offers ripe black cherry, plum and subtle berry notes that are complex and even delicate past midpalate. 
+# This cabernet was in our opinion much better than the Napa Reserve from Harlan and at a better... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:cabernet,sauvignon
+19:delicate
+19:sweet
+19:syrah
+#title: <font class="result_title">Cabernet Sauvignon / Syrah</font><br>
+#abstract: 
+# The delicate but distinct balance of syrah and cabernet sauvignon harmonizes with sweet ... 
+# The delicate but distinct balance of syrah and cab sauv harmonizes ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:cabernet,sauvignon
+#title: <font class="result_title">House of Menzies CABERNET SAUVIGNON</font><br>
+#abstract:delicate
+# Cabernet grapes from the Coonawarra region are hand crafted into a wine which is well structured, elegant and showing good 
+# length of flavour. A delightfully delicate Cabernet Sauvignon. ... LEEUWIN ESTATE MARGARET RIVER, 2002 Art Series Cabernet Sauvignon ... 

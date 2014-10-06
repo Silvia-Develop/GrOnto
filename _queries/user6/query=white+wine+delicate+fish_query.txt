@@ -1,0 +1,211 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:dry
+1:white
+1:wine
+1:fish
+1:cheese
+#title: <font class="result_title">Smoky Hill Vineyards %26 Winery Fine Kansas %26 American Wine ...</font><br>
+#abstract: 
+# Luce d'Bianco is a fine, dry white wine, with floral tones that complement the crisp 
+# and ... Luce pairs well with salad, delicate fish and mild cheese. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:food
+2:white
+#title: <font class="result_title">The White Stuff | Food %26 Wine</font><br>
+#abstract: 
+# To all the red-wine snobs, editor Lettie Teague says: Get over it! Here, she explains why white wine is so divine. ... Oyster Bar wine 
+# director Mike Garvey admits that sales of red are almost equal to those of white. And not light, delicate, "fish-friendly" reds. " We ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:food
+3:wine
+#title: <font class="result_title">Wine Lovers' Page: The Happy Marriage of Food and Wine</font><br>
+#abstract: 
+# Robin Garr's Wine Lovers' Page is an ideal starting point for wine lovers on the Web! It's a 'snob-free zone' for straight talk 
+# in plain English about wine tasting. Frequently updated notes and advice on wines of good value are backed by an ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:burgundy
+4:white
+4:wine
+4:france
+#title: <font class="result_title">France " Burgundy " White Wine " 2006 - America's Wine Shop ...</font><br>
+#abstract: 
+# Wine online New York wine store featuring fine wine, Italian wine, French wine, California 
+# wine, specialty wines, wine accessory, wine tasting, online wine sales and delivery 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:ice
+5:wine
+5:white
+5:dry
+5:food
+#title: <font class="result_title">White Wines</font><br>
+#abstract: 
+# A late harvest ice wine style treat with honey, peach, and apricot aromas. ... A dry white wine with delicate fruitiness and hints of citrus 
+# and peach. Food pairings are versatile, but generally recommended with grilled fish and most other seafood dishes, pasta with white sauces, cream ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:white
+6:food
+6:seafood
+#title: <font class="result_title">White</font><br>
+#abstract: 
+# A smooth and supple medium white wine produced from quality grapes sourced from Vin de Pays Cotes de Gascogne. Food Match: Served chilled as 
+# an aperitif or partner with fish, seafood, white meats and salads. Stock: Sorry this wine is temporarily out of stock. Price %C2%A34.92 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:white
+7:fruit
+7:wine
+#title: <font class="result_title">White Regional</font><br>
+#abstract: 
+# The favourite Italian "fish wine." Delicate bouquet, subtle fruit and very harmonious. ... A quiet wine 
+# that is to be enjoyed young. Viognier "Delightful Aromatic White": First introduced as ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:white
+8:wine
+8:fish
+#title: <font class="result_title">Cook's Thesaurus: White Wines</font><br>
+#abstract: 
+# White Wines. white wine Notes: White wines are more delicate than red wines and are always served chilled. ... These are normally served with 
+# fish, poultry, veal, blue cheeses, and anything with a cream sauce. Sweeter white wines are often described as "fruity" and include ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:white
+9:wine
+9:seafood
+#title: <font class="result_title">Red Wine with Fish: Breaking the White Wine for White Meat ...</font><br>
+#abstract: 
+# There are times when it is good to go outside theold adage of red wine with red meat, white wine with 
+# white meat. ... However delicate seafood dishes, such as poached fish are not really suitable for red wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:fish
+10:white
+10:light
+#title: <font class="result_title">The Perfect Wine - Fish</font><br>
+#abstract: 
+# Fish. There is a tendency to play it safe when eating fish and to choose a white wine, but 
+# ... White fish: the delicate flavours of white fish dishes call for a light white wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:white
+11:wine
+11:fish
+#title: <font class="result_title">Choosing the Right Wine - Vino.com - Wine of the Month Club</font><br>
+#abstract: 
+# The Vino.com Wine School is here to help broaden your knowledge of the various types of wine in the world. ... is the established tradition of choosing red 
+# wine for red meats and white wine for more delicate fish and chicken dishes, the world of cuisine is currently evolving into a level of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:food
+12:bordeaux
+12:sauvignon,blanc
+12:semillon
+#title: <font class="result_title">Food and Wine Pairings - see what wine to drink with what food</font><br>
+#abstract: 
+# Fish. Many wines can overpower the delicate range of flavors to be found in the fish group, so aim for ... White Bordeaux: Usually 
+# a blend of Sauvignon Blanc and Semillon (which gives it extra richness), this can stand up to richer fish flavors and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:wine
+13:fish
+#title: <font class="result_title">How to Choose a Good Wine for Fish | eHow.com</font><br>
+#abstract: 
+# How to Choose a Good Wine for Fish. Pairing wines with food can be really 
+# interesting and fun. Have a glass of wine, sit back and consider the possibilities. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:food
+14:tannic
+14:red
+14:wine
+14:fish
+#title: <font class="result_title">Dangerous Liasons, Food %26 Wine Pairings</font><br>
+#abstract: 
+# White fish is very delicate in flavor. Red wines are very tannic, (tannins are astringent compounds that imbibe a wine with body and 
+# a bolder taste). Tannic red wine overpowers delicate fish. Rather than balancing the flavor nuances of the fish, it obliterates them. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:white
+#title: <font class="result_title">White wines ::: Camelot</font><br>
+#abstract: 
+# This respectable restaurant with its unique chivalric interior, exquisite cuisine and impeccable service just a few steps from Nevsky Prospekt 
+# is an excellent choice for foreign tourists who have come to Petersburg to see one of Europe's most ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:white
+16:wine
+16:vineyard
+#title: <font class="result_title">White Wines</font><br>
+#abstract: 
+# Shop Wines: All Whites Discover hidden gems from small vineyards around the world. Experts find them, then 
+# wine drinkers like you vote to determine this selection of winning wines. Choose with confi 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:food
+17:wine
+17:tuna
+#title: <font class="result_title">Wine Lovers' Page/The 30 Second Wine Advisor</font><br>
+#abstract: 
+# One of the first rules we learn about matching food and wine is that white wine goes with fish. ... Fish cooked in red wine, as is 
+# commonplace in Bordeaux, demands a red wine to go with it. And fish that's not delicate white but oily and dark - bluefish, mackerel, tuna ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+18:fish
+18:red
+18:meat
+#title: <font class="result_title">Hoosier Wine Cellar | Indiana wines and wine guide</font><br>
+#abstract: 
+# White wine with fish and red wine with meat are still somewhat good rules, but the permutations are many. ... Even though the old rules are no longer in vogue, 
+# you are well advised to stick with dry white wines with delicate fish and shellfish and robust red wines with robust red meat - roasts or steaks. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+19:food
+19:fish
+19:crabs
+19:chardonnay
+19:bordeaux
+19:sauvignon,blanc
+#title: <font class="result_title">General Wine and Food Combinations</font><br>
+#abstract: 
+# LIGHT FISH DISHES (raw, steamed, poached or broiled delicate fish, crab, scallops, shrimp) - Spanish Albari%C3%B1o is spectacular! Also try 
+# Macon, light Chardonnay, Muscadet, white Bordeaux, Sauvignon Blanc from the Loire (Sancerre, Pouilly-Fumé or Ménétou-Salon are wonderful! ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:delicate
+20:light
+20:white
+20:wine
+#title: <font class="result_title">Delicate and light - white wine</font><br>
+#abstract: 
+# Look for the taste tags that match your favourite 
+# dishes and create harmoniousfood and wine pairings. 

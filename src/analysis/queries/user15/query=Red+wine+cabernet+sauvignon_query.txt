@@ -1,0 +1,190 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:cabernet sauvignon
+1:(tannic,tannin)
+#title: <font class="result_title">Cabernet Sauvignon - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Cabernet Sauvignon is one of the world's most widely recognized red wine grape varieties. ... Fatty red meats, such as lamb, pair 
+# well with Cabernet Sauvignon due to the ability of proteins and fats to negate some of the tannic qualities ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:red
+2:wine
+2:cabernet sauvignon
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon - The Wine Cellar</font><br>
+#abstract: 
+# Known for our selections of fine wines in the South Jersey area, our interactive website allows you to take advantage of our 
+# online specials, and a personalized Wine Portfolio helps you keep track of any wines you've purchased. You can also get ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:red
+3:wine
+#title: <font class="result_title">SOUTH AFRICAN WINE | EU DELIVERY - Wine :: Red Wine ...</font><br>
+#abstract: 
+# South African Wines available for purchase online. Delivery door to door with shipping available to 30 EU countries. ... Lively and vibrant red berries and 
+# cherries on the nose with subtle earthy tones and an intense, complex palate. Asara Cabernet Sauvignon 2003. CODE: ASARAESTATE3759. Price : %E2%82%AC11.50 Price: ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:cabernet, auvignon
+4:wine
+4:bordeaux
+#title: <font class="result_title">Cabernet Sauvignon Wine</font><br>
+#abstract: 
+# Many refer to Cabernet Sauvignon as the king of red grapes. ... In Bordeaux Cabernet Sauvignon is the principle grape of the Medoc. It plays a supporting role 
+# in the blends of the right bank in regions such as St-Emillion and Pomerol. Most of the classic and cult wines of Napa Valley are made ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:cabernet sauvignon
+5:(napa,valley)
+5:bordeaux
+5:red
+#title: <font class="result_title">Cabernet Sauvignon: Definition from Answers.com</font><br>
+#abstract: 
+# Cabernet Sauvignon ( ) n. A variety of black grape used to 
+# make red wine, notably in Bordeaux and the Napa Valley 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:cabernet sauvignon
+#title: <font class="result_title">Cabernet Sauvignon %26 Cabernet Blends :: Red Wine :: Saratoga ...</font><br>
+#abstract: 
+# Cabernet Sauvignon. A grape varietal which certainly requires no introduction, Cabernet Sauvignon is not only the principal component of the great Bordeaux 
+# wines, but also reigns as the grape varietal most widely known for putting the U.S. on the wine making map. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:cabernet sauvignon
+7:(napa,valley)
+#title: <font class="result_title">Sonoma County Wine Cabernet Sauvignon Wine</font><br>
+#abstract: 
+# Cabernet Sauvignon wines from Sonoma County, California from wine.com. ... Wine Shop %3E California %3E Red Wine %3E Cabernet Sauvignon %3E Sonoma County (27 results) Twice as 
+# large as Napa in size, Sonoma County only makes about a half the amount of wine as her northeasterly neighbor. But Sonoma, with her size, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:cabernet sauvignon
+8:red
+8:wine
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Cabernet Sauvignon wines defined, described and recommended, along with food pairing suggestions to accompany your favorite Cabs. ... Cabernet Sauvignon, often 
+# referred to as the "King of Red Wine Grapes," originally from Bordeaux, with a substantial foothold in California's ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:cabernet sauvignon
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Cabernet Sauvignon is known as the king of red grapes. It grows worldwide in a 
+# number of climates, and can produce wine with great depth of character and ageability. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:(napa,valley)
+10:cabernet sauvignon
+10:red
+10:wine
+#title: <font class="result_title">Buy Napa California Cabernet Sauvignon Red Wines Online - Brix26</font><br>
+#abstract: 
+# Buy Napa California Cabernet Sauvignon 
+# Red Wines Online 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:cabernet sauvignon
+11:red
+11:wine
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon - Four Seasons Wine - Buy Wine ...</font><br>
+#abstract: 
+# Full service liquor store. The perfect wine for that special dinner. Your favorite imported or handcrafted beer for the 
+# game. All the ingredients for your signature cocktail. And don't forget the victory cigar! We have it all. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:cabernet,sauvignon
+#title: <font class="result_title">Barefoot Wine %26 Bubbly - Barefoot Cabernet Sauvignon</font><br>
+#abstract: 
+# You can't go wrong serving this wine with rich foods like beef, lamb, and pasta, as well as sharp cheeses. ... Cabernet 
+# Sauvignon. Jammy and full-bodied, Barefoot Cabernet has dark fruit notes of currant, raspberry and blackberry and a velvety vanilla finish. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:cabernet sauvignon
+13:red
+13:wine
+#title: <font class="result_title">Cabernet Sauvignon Red Wine | Bounty Hunter Rare Wine ...</font><br>
+#abstract: 
+# Cabernet Sauvignon Red Wine ... 2005 Broken Spur Cabernet Sauvignon Napa Valley. We'll be the first 
+# to admit that 'work' for us is more of an adventure than a job. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:cabernet sauvignon
+14:wine
+#title: <font class="result_title">Cabernet Sauvignon Wine Fine Wine</font><br>
+#abstract: 
+# Cabernet Sauvignon wines from our Fine Wine list from wine.com. ... Many refer to Cabernet Sauvignon as the king of red grapes. Perhaps that title is due 
+# to its ability to grow worldwide in a number of climates, or to the fact that it produces wine with such character yet such diversity. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:cabernet sauvignon
+15:red
+#title: <font class="result_title">Red Carpet Wine - Cabernet Sauvignon: New Arrivals</font><br>
+#abstract: 
+# Red Carpet Wine is a retail store that specializes in Wine, Beer, Spirits, Liquor, and Gifts which we ship to almost any destination in the 
+# United States. ... Cabernet Sauvignon: New Arrivals. 2004 Cakebread USD69.95. Boasts enticing ripe blackberry, black cherry and blueberry fruit aromas, accented by subtle ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:cabernet sauvignon
+16:(color,colour)
+#title: <font class="result_title">Trefethen Family Vineyards - 2005 Estate Cabernet Sauvignon</font><br>
+#abstract: 
+# This warmer site, combined with limited yields, produces Cabernet Sauvignon fruit with bright, complex %EF%AC%82avors, resulting in wine with deep ruby color and heady 
+# aromas of ... The Wine. Deep ruby in color, this complex Cabernet Sauvignon exhibits luxurious nose of blackberry, black cherry, plum, black ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:cabernet sauvignon
+17:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">Cabernet Sauvignon</font><br>
+#abstract: 
+# Sauvignon Blanc. Cabernet Sauvignon. Cabernet Sauvignon, often referred to as the "King of Red Wine Grapes," originally from Bordeaux, with a 
+# substantial foothold in California's wine races, has the privilege of being the world's most sought after red wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:cabernet sauvignon
+18:red
+18:wine
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon - Owens Liquors</font><br>
+#abstract: 
+# Owens Liquors is a family owned establishment, providing high end, quality wines %26 spirits for over 33 years. Every wine is 
+# sampled before being allowed on our shelves. We are proud to have a large selection of high-quality liquors and cordials. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon " USD75%2B - Vine Republic</font><br>
+19:cabernet sauvignon
+19:(napa,valley)
+#abstract: 
+# At Vine Republic, every wine is on sale. Grab our great finds and staff picks quick! ... The 2003 
+# Napa Valley Cabernet Sauvignon is a complex and concentrated wine that deftly balances intensity and finesse. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:wine
+20:cabernet sauvignon
+#title: <font class="result_title">Red Wine " Cabernet Sauvignon - salt creek wine company</font><br>
+#abstract: 
+# Welcome to Salt Creek Wine Company, your premier wine merchant and tasting facility, in Laguna Niguel, California. Named for 
+# nearby Salt Creek Beach, but definitely wine country inspired! Wine and cheese tastings and winemaker special events. 

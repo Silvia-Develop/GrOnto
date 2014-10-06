@@ -1,0 +1,17 @@
+#nomecategoria:2,4,2
+body:2,3,5,7,9,10,11,13,15,16,17
+cabernet,sauvignon:19
+chianti:14
+delicate:12
+dry:1,11,16,19
+flavor:6,8,10
+france:1,20
+full:2,5,7,9,11,13,15
+medium:3
+red:1,3,6,9,10,11,12,13,15,17,18
+strong:2,15,16,17
+sugar:19
+sweet:3,7
+white:6
+wine:1,2,3,5,6,7,8,9,10,11,13,14,15,16,18,19,20
+zinfandel:4

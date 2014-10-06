@@ -1,0 +1,86 @@
+13:fruit
+11:fruit
+5:fruit
+6:fruit
+9:fruit
+16:fruit
+14:fruit
+6:sweet fruit
+14:sweet fruit
+13:taylor port
+2:taylor port
+12:taylor port
+8:taylor port
+5:taylor port
+15:taylor port
+1:taylor port
+9:taylor port
+16:taylor port
+19:taylor port
+20:taylor port
+10:taylor port
+4:wine
+11:wine
+2:wine
+17:wine
+12:wine
+7:wine
+8:wine
+6:wine
+9:wine
+3:wine
+14:wine
+10:wine
+13:port
+4:port
+11:port
+2:port
+17:port
+12:port
+7:port
+8:port
+5:port
+6:port
+15:port
+1:port
+9:port
+16:port
+19:port
+20:port
+14:port
+10:port
+4:wine grape
+11:wine grape
+6:wine grape
+14:wine grape
+18:unclassified
+13:taylor
+2:taylor
+12:taylor
+8:taylor
+5:taylor
+15:taylor
+1:taylor
+9:taylor
+16:taylor
+19:taylor
+20:taylor
+10:taylor
+4:dessert
+2:dessert
+1:dessert
+4:dessert wine
+2:dessert wine
+12:drink
+4:grape
+11:grape
+6:grape
+14:grape
+11:red wine
+6:red wine
+14:red wine
+4:sweet dessert
+13:food
+17:food
+5:food
+14:food

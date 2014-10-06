@@ -1,0 +1,128 @@
+1:white bordeaux
+3:lobster
+5:lobster
+12:lobster
+16:pork
+16:wine
+20:wine
+3:wine
+5:wine
+13:wine
+1:wine
+19:wine
+9:wine
+8:wine
+2:wine
+4:wine
+18:wine
+10:wine
+6:wine
+11:wine
+16:fish
+3:fish
+5:fish
+7:fish
+2:fish
+12:fish
+10:fish
+6:fish
+20:meat
+10:veal
+15:white merlot
+16:salmon
+20:salmon
+3:salmon
+5:salmon
+1:salmon
+19:salmon
+7:salmon
+18:salmon
+6:salmon
+11:salmon
+17:salmon
+19:pasta
+12:pasta
+10:pasta
+15:pinot blanc
+5:pinot blanc
+1:pinot blanc
+9:pinot blanc
+11:pinot blanc
+14:dessert
+16:seafood
+3:seafood
+5:seafood
+7:seafood
+19:red wine
+2:red wine
+20:tuna
+3:tuna
+5:tuna
+13:tuna
+1:tuna
+19:tuna
+7:tuna
+9:tuna
+2:tuna
+18:tuna
+12:tuna
+10:tuna
+6:tuna
+11:tuna
+17:tuna
+19:swordfish
+2:swordfish
+16:white wine
+3:white wine
+13:white wine
+1:white wine
+9:white wine
+2:white wine
+4:white wine
+18:white wine
+10:white wine
+11:white wine
+16:fruit
+16:chenin blanc
+15:chenin blanc
+3:chenin blanc
+5:chenin blanc
+13:chenin blanc
+1:chenin blanc
+9:chenin blanc
+8:chenin blanc
+2:chenin blanc
+14:chenin blanc
+12:chenin blanc
+10:chenin blanc
+6:chenin blanc
+11:chenin blanc
+16:sauvignon blanc
+15:sauvignon blanc
+3:sauvignon blanc
+5:sauvignon blanc
+1:sauvignon blanc
+9:sauvignon blanc
+8:sauvignon blanc
+4:sauvignon blanc
+18:sauvignon blanc
+14:sauvignon blanc
+11:sauvignon blanc
+2:halibut
+6:rose wine
+20:steak
+15:pinot noir
+1:pinot noir
+11:pinot noir
+16:food
+20:food
+13:food
+19:food
+4:food
+14:food
+10:food
+3:shellfish
+8:shellfish
+14:shellfish
+12:shellfish
+15:red merlot

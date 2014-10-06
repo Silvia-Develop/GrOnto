@@ -1,0 +1,51 @@
+1:(full,medium) strong dry
+1:red
+1:wine
+1:cheese
+1:fruit
+2:(body,medium) flavor (sweet,sugar)
+2:red
+3:red
+3:(sterling,merlot)
+3:(sterling,chardonnay)
+4:(page,mill,winery,cabernet,sauvignon)
+4:red
+4:full (strong,moderate) dry
+5:red
+5:wine
+5:full (strong,moderate) dry
+5:(sterling,merlot)
+6:(sterling,merlot)
+6:(sterling,cabernet,sauvignon)
+7:(sterling,merlot)
+7:wine
+8:full (strong,moderate) dry
+8:(chianti,classico)
+9:(sterling,merlot)
+9:(mountadam,pinot,noir)
+9:medium (delicate,moderate) dry
+10:(sterling,merlot)
+10:medium (delicate,moderate) dry
+11:red
+12:(medium,light) moderate dry
+12:white
+12:wine
+12:semillon grape
+13:wine
+14:wine
+14:light dry (delicate,moderate)
+14:red
+15:flavor
+15:full (strong,moderate) dry
+15:red
+16:wine
+17:(napa,valley)
+17:red
+17:(color,colour)
+18:(sterling,merlot)
+18:red
+18:wine
+19:(medium,full) (delicate,strong) dry
+19:red
+20:wine
+20:(sterling,merlot)

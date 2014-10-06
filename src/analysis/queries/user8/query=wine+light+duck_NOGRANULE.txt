@@ -1,0 +1,77 @@
+9:fruit
+9:food
+10:food
+12:food
+13:food
+4:food
+2:food
+10:red meat
+7:salmon
+10:salmon
+2:salmon
+7:pizza
+17:pizza
+14:white wine
+9:white wine
+1:white wine
+6:pasta
+10:pasta
+2:chianti
+7:red wine
+6:red wine
+5:red wine
+10:red wine
+4:red wine
+2:red wine
+10:pinot noir
+2:pinot noir
+7:pork
+4:pork
+7:fish
+9:fish
+10:fish
+3:duck
+6:duck
+14:duck
+20:duck
+17:duck
+8:duck
+11:duck
+5:duck
+10:duck
+12:duck
+19:duck
+13:duck
+18:duck
+15:duck
+1:duck
+2:duck
+17:seafood
+10:meat
+19:meat
+2:tuna
+7:wine
+3:wine
+6:wine
+14:wine
+20:wine
+17:wine
+8:wine
+11:wine
+5:wine
+9:wine
+10:wine
+12:wine
+19:wine
+16:wine
+13:wine
+18:wine
+4:wine
+1:wine
+2:wine
+10:shellfish
+7:veal
+4:veal
+10:red merlot
+4:red merlot
+2:swordfish

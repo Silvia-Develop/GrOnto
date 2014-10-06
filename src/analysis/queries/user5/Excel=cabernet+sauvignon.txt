@@ -1,0 +1,34 @@
+1:cabernet sauvignon
+1:(napa,valley)
+2:cabernet sauvignon
+2:bordeaux
+2:wine
+3:cabernet sauvignon
+3:wine
+4:cabernet sauvignon
+4:wine
+5:cabernet sauvignon
+6:cabernet sauvignon
+6:wine
+7:cabernet sauvignon
+7:bordeaux
+7:(napa,valley)
+8:cabernet sauvignon
+9:(page,mill,winery,cabernet,sauvignon)
+10:cabernet,sauvignon
+10:tannin
+11:cabernet sauvignon
+12:cabernet sauvignon
+12:wine
+13:cabernet sauvignon
+14:cabernet sauvignon
+14:wine
+15:cabernet sauvignon
+16:cabernet sauvignon
+16:(napa,valley)
+17:cabernet sauvignon
+17:wine
+18:(napa,valley)
+18:cabernet sauvignon
+19:cabernet sauvignon
+20:cabernet sauvignon

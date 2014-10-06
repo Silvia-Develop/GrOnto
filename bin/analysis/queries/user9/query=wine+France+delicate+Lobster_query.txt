@@ -1,0 +1,177 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:lobster
+1:(tannic,tannin)
+1:wine
+#title: <font class="result_title">What wine goes with lobster and why ?</font><br>
+#abstract: 
+# What wine goes with lobster and why ? Answer provided by the French Wine Guide ... Tannic wines are 
+# not suitable for delicate and/or salty dishes as they will kill the subtle flavor of the food. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:delicate
+2:lobster
+#title: <font class="result_title">timestranscript.com - Crab's delicate flavour plays role in ...</font><br>
+#abstract: 
+# In last week's column, we learned about pairing wine with lobster. This week, we learn about pairing crab with wine. 
+# While some prefer lobster over crab, personally I like both, especially when they are fresh and in season. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:wine
+3:food
+3:red
+3:lobster
+#title: <font class="result_title">Pairing Wine with Food</font><br>
+#abstract: 
+# Pairing wine with food including red wine and white wine. ... Food and wine should harmonize. You probably won't want 
+# an overpowering Shiraz with your delicate lobster, nor would you enjoy a dainty Chablis with those BBQ'd ribs. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:wine
+#title: <font class="result_title">Majestic Wine in France</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online 
+# ordering with free delivery, award-winning service and market-leading deals. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+#title: <font class="result_title">The Wine Country</font><br>
+#abstract: 
+# Also, an older wine out of your cellar may be too delicate for most food. ... The most celebrated sweet wine 
+# in France should be consumed with Rocquefort cheese, foie gras, steamed lobster or even roast chicken, he said, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+6:bordeaux
+#title: <font class="result_title">Sauternes Wine Information, French Wine Guide in Bordeaux</font><br>
+#abstract: 
+# Sauternes wine information: Sauternes is famous for the sweet 
+# wine made in Yquem, Raymond-Lafon and Rieussec 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:lobster
+7:white
+7:wine
+#title: <font class="result_title">If lobster's on the plate, no other red is allowed</font><br>
+#abstract: 
+# The online source for Montreal news, business, sports, entertainment, classified ads, horoscopes, weather, local news and more. ... The lobster's delicate flavour will be overpowered 
+# by even the most subtle gamay. Certain rosés can work, but you will still be best served with a white wine. Boiled, ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:white
+8:wine
+#title: <font class="result_title">France " Burgundy " White Wine " 2006 - America's Wine Shop ...</font><br>
+#abstract: 
+# Wine online New York wine store featuring fine wine, Italian wine, French wine, California 
+# wine, specialty wines, wine accessory, wine tasting, online wine sales and delivery 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:(stonleigh,sauvignon,blanc)
+#title: <font class="result_title">How to Select a Bottle of Wine: 11 steps (with video) - wikiHow</font><br>
+#abstract: 
+# Spicy foods go better with slightly sweeter wines like Sancerre (France), Sauvignon Blanc (especially good from New Zealand) ... tastes much 
+# better if you pay at least USD20 for it and it goes well with delicate and subtle textured foods ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:unclassified
+#title: <font class="result_title">Louis Roederer Cristal Brut 1996</font><br>
+#abstract: 
+# Louis Roederer Cristal Brut 1996 from Champagne, France - Other regions - The jewel of the House, 
+# the vintage Cristal, the most beautiful expression of Champagne, was created in 1876 for the ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+#title: <font class="result_title">Louis Roederer Cristal Brut 1988</font><br>
+#abstract: 
+# Louis Roederer Cristal Brut 1988 from Champagne, France - Other regions - Tasting Notes: Lustrous pale gold. Delicate, elegant bubbles forming a fine gossamer string. 
+# Very expressive on the ... Overall, this is a wine guarding the Cristal tradition, possessing all the traits of a timeless creation. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:lobster
+#title: <font class="result_title">SignOnSanDiego.com | The San Diego Union-Tribune | Wine Guide</font><br>
+#abstract: 
+# Comprehensive guide to the San Diego Wine Country. Find all the information you need on wineries, tours, retailers and more. Plus several helpful ... Instead, 
+# the lobster is cooked for exactly six minutes in court bouillon stock. THE WINE. This multilayered, delicate dish is wonderfully matched with ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:lobster
+#title: <font class="result_title">Lobster Pot | Grand Cayman | Where every table overlooks the Sea</font><br>
+#abstract: 
+# Enjoy lunch and dinner while you watch the waterfront sunset, featuring Caribbean Continental specialties. ... The Lobster Pot Wine Selection. French Champagne. Piper %26 
+# Heidsieck, Brut. France 86.00. Veuve Cliquot, Yellow Label - Brut. France 94.00. Veuve Cliquot, Yellow Label - Brut, 1/2 btl. France 55.00 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+14:apple
+14:lobster
+#title: <font class="result_title">Champagne Leclerc Briant Les Crayeres Brut - Pinot Noir ...</font><br>
+#abstract: 
+# A delicate and rare single-vineyard Champagne from the Cote d'Epernay. ... Wine Facts. Shipping State. I want to... 0 Items USD0.00. Advanced Search. View Closeup. Food Pairings. 
+# %E2%80%A2 Spicy Foods. %E2%80%A2 Apples. %E2%80%A2 Lobster. %E2%80%A2 Melon. %E2%80%A2 Tarts. %E2%80%A2 Cakes. %E2%80%A2 Berries. %E2%80%A2 Pears. More... Champagne Leclerc Briant Les Crayeres Brut. France ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:lobster
+15:wine
+#title: <font class="result_title">Best Wine to Pair with Boiled Lobster - Lobster Wine Pairing ...</font><br>
+#abstract: 
+# IntoWine.com asked our panel of wine experts to recommend the best wines to pair with boiled lobster ... From the western end of the Loire 
+# valley in France, these are some of the best wines in the world and yet they have been ignored by the mass markets. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:(color,colour)
+16:apple
+#title: <font class="result_title">POUILLY VINZELLES - | France</font><br>
+#abstract: 
+# Bright straw color. Pleasant nose of apple blossom, Marzipan and toasted hazelnuts. Medium bodied, fat and unctuous with good grip ... The wine also 
+# produces delicate aromas of acacia flowers and violets but it has the advantage of being about 20% cheaper than a Fuissé. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:(page,mill,winery,cabernet,sauvignon)
+17:lobster
+#title: <font class="result_title">l'Art du Vin- Independent Wine Merchants Champagne</font><br>
+#abstract: 
+# A diverse and select range of Champagnes from our online shop. ... to lobster or scallops, and perhaps in a couple or years to poultry or veal 
+# dishes. About the winery... Price: Bottle %C2%A365.80. Case %C2%A3750.12. Quantity: Wine Shop | France | Champagne. There is more to wine than science... Wine Basket ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:wine
+#title: <font class="result_title">Majestic Wine</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online 
+# ordering with free delivery, award-winning service and market-leading deals. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+#title: <font class="result_title">Louis Roederer Cristal Brut 1993</font><br>
+#abstract: 
+# Louis Roederer Cristal Brut 1993 from Champagne, France - Other regions - Tasting Notes: Lustrous pale gold. Delicate, elegant bubbles forming a fine gossamer string. 
+# Very expressive on the ... Overall, this is a wine guarding the Cristal tradition, possessing all the traits of a timeless creation. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:white
+20:german
+#title: <font class="result_title">A white-wine apologist</font><br>
+#abstract: 
+# Perhaps I am feeling rambunctious because winter has decided to get nasty. I will not take this lying ... Marcel Hugg, France white, USD20.25, SAQ 
+# # 10944718 (SAQ Signature only). Almost German in its styling, with quartz-like minerality, a touch of kerosene and a delicate sweetness on the ... 

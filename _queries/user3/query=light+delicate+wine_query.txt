@@ -1,0 +1,207 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:delicate
+1:light
+1:white
+1:wine
+#title: <font class="result_title">Delicate and light - white wine</font><br>
+#abstract: 
+# Look for the taste tags that match your favourite 
+# dishes and create harmoniousfood and wine pairings. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:pinot,noir
+2:valley
+2:light
+2:delicate
+#title: <font class="result_title">Pinot Noir wine from Oregon's Willamette Valley</font><br>
+#abstract: 
+# Our state of the art gravity feed winery provided us with the tools to carefully handcraft this most difficult grape into a light delicate pinot 
+# noir. The fruit for this beautiful wine was hand picked from our best blocks where yields are restricted to two tons per acre. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:light
+3:delicate
+3:wine
+#title: <font class="result_title">Alfama - Fine Portuguese Cuisine</font><br>
+#abstract: 
+# This wine has an elegant aroma, carefully balanced with a light acidity and suggesting a perfume of lilac, 
+# honey and fruit. ... This light, delicate wine has a bouquet of lemons and apricots. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:light
+4:delicate
+4:white
+4:wine
+#title: <font class="result_title">Rueda Blanco-Castilla y Le%C3%B3n-Majestic Wine</font><br>
+#abstract: 
+# Rueda Blanco Marqués de Riscal ia a light, delicate white wine 
+# with an intensely aromatic bouquet and a crisp finish. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:light
+5:delicate
+5:pinot
+5:apple
+#title: <font class="result_title">Jake's Round-up - Wine List</font><br>
+#abstract: 
+# A delightfully light, delicate style wine with a fruity, semi-dry taste and flowery bouquet. ... Cavitt 
+# - Pinot Grigio (Italy) Elegant crisp and light with delicate nuances of green apple ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:wine
+6:light
+6:delicate
+#title: <font class="result_title">winemaking: requested recipes (Orange Blossom Wine)</font><br>
+#abstract: 
+# Over 200 winemaking recipes requested by viewers of the Winemaking Home Page. 
+# How to make a light, delicate wine from orange blossoms. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:delicate
+#title: <font class="result_title">Twinkle Honey Mead Wine | Earle Estates Meadery</font><br>
+#abstract: 
+# Earle Estate's Twinkle is our first sparkling mead. 100% honey 
+# wine with very light delicate carbonation. A true delight! 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:riesling
+8:eden
+8:valley
+8:peach
+#title: <font class="result_title">2007 Pewsey Vale Riesling Eden Valley South Australia - SKU ...</font><br>
+#abstract: 
+# 90 points and a Smart Buys designation from the Wine Spectator: "Light, delicate and immensely appealing for 
+# its gentle lime, orange peel, peach and mineral aromas and flavors, lingering on the refine 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:food
+9:sauvignon,blanc
+9:dry
+9:riesling
+#title: <font class="result_title">An Expert's Pairing Advice | Food %26 Wine</font><br>
+#abstract: 
+# Pairing a big, powerful, high-alcohol or high-tannin wine with a light, delicate dish (and vice versa) is rarely a good idea. ... So, if you have a 
+# citrusy sauce on a piece of halibut, look for a light-bodied white wine with a citrusy edge to it, say Sauvignon Blanc or dry Riesling. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:valley
+10:light
+10:delicate
+#title: <font class="result_title">2002 Argyle Willamette Valley Brut - SKU 1031205</font><br>
+#abstract: 
+# 90 points and a "Smart Buys" designation from Wine Spectator: "A light, delicate sparkler, with pretty pear and 
+# spice flavors up front, segueing into hints of lime and quince as the finish lingers wi 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:light
+11:red
+11:grape
+#title: <font class="result_title">Light Red Wines</font><br>
+#abstract: 
+# Light Red Wines including The Gamay Grape, The Pinot Noir Grape, The Temparanillo Grape and the Sangiovese Grape. ... A 
+# light and fruity wine with the distinct flavor of berries. Expect to taste strawberries, cherries and raspberries. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:food
+12:pinot
+12:cabernet,sauvignon
+#title: <font class="result_title">Wine and food matching - Wikipedia, the free encyclopedia</font><br>
+#abstract: 
+# Heavy, robust wines like Cabernet Sauvignon can overwhelm light delicate dish like a quiche while light bodied wines like Pinot grigio would 
+# be similarly overwhelmed by a hearty stew. ... In food and wine pairings, the most basic element considered is " ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:pinot,noir
+13:light
+13:delicate
+#title: <font class="result_title">Cherry Hill Winery Pinot noir Estate 04 from Northwest Wine</font><br>
+#abstract: 
+# For the 03 Vintage: Wine Spectator rating 91 points: Relatively firm, with lively, emphatic raspberry and plum flavors that sail through the 
+# finish, ... From the winery: "Cherry Hill Winery Estate Pinot Noir is an elegant light delicate style of Pinot Noir. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:food
+14:delicate
+14:strong
+#title: <font class="result_title">Welcome to the Fothers on Food and Wine Site</font><br>
+#abstract: 
+# Serve light styled delicate wine with delicate or subtly flavoured food. ... Trout has a delicate flavour and 
+# yet with this dish you have some strong flavours with red pepper, garlic and olives. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:winery
+15:pinot,noir
+15:light
+15:delicate
+#title: <font class="result_title">oregon (www)</font><br>
+#abstract: 
+# The state of the art gravity feed winery provided the winery with the tools to carefully handcraft this most difficult grape into a light delicate pinot 
+# noir. The fruit for this beautiful wine was hand picked from the best blocks where yields are restricted to two tons per acre. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:delicate
+16:light
+16:white
+#title: <font class="result_title">Holy-Field Wines</font><br>
+#abstract: 
+# A very delicate and crisp wine for the white wine lover - it's a must. 
+# ... A very light, delicate wine with floral character. Truly a favorite. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:food
+17:fish
+#title: <font class="result_title">Wine Lovers' Page: The Happy Marriage of Food and Wine</font><br>
+#abstract: 
+# Robin Garr's Wine Lovers' Page is an ideal starting point for wine lovers on the Web! It's a 'snob-free zone' for straight talk ... Be 
+# conscious, though, that very light, delicate fish like sole rarely work well with red wine; and tannic, astringent reds like young Cabernets ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:pinot
+18:light
+18:delicate
+#title: <font class="result_title">Marlborough Hills Pinot Grigio-Marlborough-Majestic Wine</font><br>
+#abstract: 
+# The UK's biggest and best mixed case wine retailer offers online ordering with free delivery, award-winning service and 
+# market-leading deals. ... We found this to be a light and delicate wine with subtle flavours. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:chardonnay
+19:light
+19:delicate
+#title: <font class="result_title">Chardonnay</font><br>
+#abstract: 
+# Wine Business Monthly "A second generation producer. of world class wine" Gourmet Magazine ... a 
+# light, delicate. touch of toasty French oak. "One of American's Greatest wine buys. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:pinot,noir
+20:light
+20:delicate
+#title: <font class="result_title">Top Hat Wine %26 Spirits - Best Rated Wines at the Best Price ...</font><br>
+#abstract: 
+# Pinot Noir works beautifully with the fish because you are matching light to light. Otherwise a full-bodied, heavier wine will overpower a light, delicate dish, 
+# and similarly, a lighter style wine will not even register on your personal flavor meter if you sip it with a hearty roast. ... 

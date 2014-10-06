@@ -1,0 +1,10 @@
+#nomecategoria:2,4,2
+bordeaux:4,13,17,18,20
+cabernet sauvignon:4,13,15
+(color,colour):2
+food:8,9,10
+grape:11
+red:1,2,4,6,12,14,15,18,19,20
+roast beef:3,5,7,8,15,17
+(tannic,tannin):13
+wine:1,5,6,7,9,10,12,14,16,19,20

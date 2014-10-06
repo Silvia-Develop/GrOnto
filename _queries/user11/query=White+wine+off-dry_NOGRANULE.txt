@@ -1,0 +1,64 @@
+2:grape
+6:grape
+2:white wine
+20:white wine
+4:white wine
+5:white wine
+18:white wine
+1:white wine
+14:white wine
+7:white wine
+12:white wine
+16:white wine
+3:white wine
+13:white wine
+15:white wine
+19:white wine
+6:white wine
+8:white wine
+2:dessert wine
+16:dessert wine
+8:dessert wine
+8:red bordeaux
+20:food
+3:food
+2:sweet dessert
+16:sweet dessert
+8:port
+2:wine
+9:wine
+20:wine
+4:wine
+5:wine
+11:wine
+18:wine
+1:wine
+10:wine
+14:wine
+7:wine
+12:wine
+16:wine
+3:wine
+13:wine
+15:wine
+19:wine
+6:wine
+8:wine
+8:white bordeaux
+2:wine grape
+6:wine grape
+16:red wine
+13:red wine
+8:red wine
+16:red zinfandel
+5:white zinfandel
+14:white zinfandel
+16:white zinfandel
+17:peach
+13:fruit
+19:fruit
+6:fruit
+20:pie
+2:dessert
+16:dessert
+8:dessert

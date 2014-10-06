@@ -1,0 +1,89 @@
+10:food
+17:food
+12:food
+5:food
+20:food
+13:wine
+16:wine
+6:wine
+9:wine
+7:wine
+19:wine
+10:wine
+17:wine
+12:wine
+5:wine
+11:wine
+20:wine
+14:wine
+2:wine
+18:wine
+1:wine
+8:wine
+3:wine
+15:wine
+4:wine
+16:red wine
+12:red wine
+15:red wine
+9:grape
+8:grape
+15:grape
+16:sweet dessert
+9:sweet dessert
+7:sweet dessert
+19:sweet dessert
+17:sweet dessert
+12:sweet dessert
+5:sweet dessert
+11:sweet dessert
+20:sweet dessert
+18:sweet dessert
+1:sweet dessert
+15:sweet dessert
+4:sweet dessert
+4:fruit
+4:sweet fruit
+13:wine region
+16:wine region
+2:wine region
+9:wine grape
+8:wine grape
+15:wine grape
+16:white wine
+9:white wine
+20:white wine
+1:white wine
+19:rose wine
+18:chenin blanc
+11:port
+16:dessert wine
+9:dessert wine
+7:dessert wine
+19:dessert wine
+17:dessert wine
+12:dessert wine
+5:dessert wine
+11:dessert wine
+20:dessert wine
+14:dessert wine
+18:dessert wine
+1:dessert wine
+3:dessert wine
+15:dessert wine
+4:dessert wine
+16:dessert
+9:dessert
+7:dessert
+19:dessert
+17:dessert
+12:dessert
+5:dessert
+11:dessert
+20:dessert
+14:dessert
+18:dessert
+1:dessert
+3:dessert
+15:dessert
+4:dessert

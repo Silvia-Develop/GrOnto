@@ -1,0 +1,189 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:fish
+1:red
+1:lobster
+#title: <font class="result_title">Tips for Pairing Fish and Seafood with Wine - Red Lobster ...</font><br>
+#abstract: 
+# ORLANDO, Fla.- If you're not a wine connoisseur, or if you find restaurant wine lists intimidating, Red Lobster Executive Chef Michael LaDuke makes pairing wine 
+# with your fish and seafood ... This lighter red wine doesn't overpower the lobster, but is still strong enough to complement the steak. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:red
+2:wine
+2:body
+#title: <font class="result_title">How To Learn About Types of Red Wine | How To Do Things.com</font><br>
+#abstract: 
+# Red wine goes with beef, right? If I stick to that rule my wine choice will be fine, won't it? To simplify wine in this 
+# way is to ignore the vast complexity and variety of flavor, body and bouquet. Wine by itself is complex enough to intimidate ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:steak
+#title: <font class="result_title">Steak Recipes - Recipes for every cut and kind of steak and ...</font><br>
+#abstract: 
+# Tons of great steak recipes for the grill. There is more to grilling a steak than 
+# simply throwing it on the grill. Use these recipes to make something truly great. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:food
+4:wine
+#title: <font class="result_title">Food and Wine - Wine Enology Grape Chemistry Lab at Virginia Tech</font><br>
+#abstract: 
+# An example of structural component similarity would be a high acid food such as a salad with a high acid wine such as a Beaujolais style 
+# red wine. Foods with strong flavors including vinegar, raw onions, sauerkraut, pickles, or garlic overwhelm a fine wine's more subtle flavor. Spicy Foods. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:red
+5:wine
+5:steak
+#title: <font class="result_title">Beurre Rouge Sauce</font><br>
+#abstract: 
+# For this beurre rouge, substitute Madeira (a dark, strong wine) for the red wine. That makes the sauce stronger, and a better match for steak. 
+# As soon as the steaks are done, lower the heat to medium, wait two minutes, and then add the shallots, see Step 1. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:color
+#title: <font class="result_title">The Finer Life %26 Cigar Legacy cigars, Color of Red Wine</font><br>
+#abstract: 
+# The Finer Life, Free shipping wine cellars, wine accessories, wine deals, wine information, win education. 
+# Shop our online catalog and take advantage of our 30-day money back guarantee. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:food
+7:wine
+7:red
+7:zinfandel
+#title: <font class="result_title">Food and Wine Pairing</font><br>
+#abstract: 
+# Keep flavors in balance. Match mild foods with mild wines. Match big, flavorful foods with big, flavorful wines. (For example, pair a bold-flavored Pepper Steak 
+# with a spicy, bold red Zinfandel.) Similarly you generally want to match the richness of the food and the richness of the wine. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:white
+8:red
+#title: <font class="result_title">Wow Wife_ s Wine</font><br>
+#abstract: 
+# Some red wine flavors are berries, peaches, currants, plums, cherries, oranges, flowers, ... Acid is 
+# usually used to describe white wine, whereas tannins are found in red wines. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:flavor
+9:strong
+#title: <font class="result_title">Konak Turkish Restaurant</font><br>
+#abstract: 
+# Aroma: Intense and complex, red fruits, spices; Flavor: Strong, mouth filling, balanced and long. The most favorite red wine of Turkey made of 
+# 4 different grapes of Alicante, Carignan, Bogazkere and Okuzgozu, is very pleasant dry and the best selling wine in Turkey. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:strong
+10:red
+#title: <font class="result_title">Wine Review Online - Wine With . . . Tuna Steak au Poivre</font><br>
+#abstract: 
+# Like many of you, we loved the big fat steak oozing beefy, buttery juices, the fiery crust of crushed peppercorns, the sumptuous cream and 
+# Cognac sauce coating the wondrous hunk of meat. And we certainly loved the strong red wine that inevitably accompanied that gastronomic delight. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:wine
+#title: <font class="result_title">Wine - Fleming's Prime Steakhouse %26 Wine Bar</font><br>
+#abstract: 
+# Fleming's offers 100 wines by the glass, a unique Wine Flight tasting program 
+# and a world-class list of reserve wines to complement your dining experience. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:dry
+12:red
+12:cabernet,sauvignon
+#title: <font class="result_title">Wine Selection from Heart of the Desert Wines in Alamogordo ...</font><br>
+#abstract: 
+# States We Ship Wine To. The Heart of the Desert gift shop currently sells seven Heart of the Desert vineyards wines. Cabernet Sauvignon. 
+# The Cabernet Sauvignon is a strong and heavy, dry, red wine with flavors of dark cherry, cedar, and black currant. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:steak
+13:red
+13:wine
+#title: <font class="result_title">Flat Iron Steaks Marinated in Red Wine - All Recipes</font><br>
+#abstract: 
+# Red wine and mustard do wonderful things for this tender cut of steak. ... Excellent flavor. 
+# Easy to make. I made this recipe just as it appears on all recipes with... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:full
+14:body
+14:red
+14:wine
+#title: <font class="result_title">Terra Rosa: A Hearty Full-Bodied Red Wine | Prime Cuts</font><br>
+#abstract: 
+# With the coming of winter and cold weather, nothing is better than a hearty, 
+# full-bodied red wine. Fortunately for you, we feature an amazing selection of 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:wine
+#title: <font class="result_title">expanded-wines-kb.Neo</font><br>
+#abstract: 
+# ... (createConcept WINE-COLOR (and WINE-PROPERTY (oneOf White Rose Red))) (createConcept WINE-BODY (and WINE-PROPERTY (oneOf Light 
+# Medium Full))) (createConcept WINE-FLAVOR (and WINE-PROPERTY (oneOf Delicate Moderate Strong))) (createConcept WINE ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:flavor
+16:wine
+#title: <font class="result_title">Cloves Spice - Aromas and Flavors of Wine</font><br>
+#abstract: 
+# The clove flavor in wine is often associated with Rioja, a red, spicy wine from Spain. This wine is great with BBQ steaks and other 
+# strong flavored meats. Another wine that has flavors of clove in it is Gewurztraminer, a white wine that traditionally comes from Germany. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:red
+17:wine
+#title: <font class="result_title">Red Wines - Bonny Doon Vineyard</font><br>
+#abstract: 
+# Red Wine of the Earth - shop our 
+# red wine selections at Bonny Doon Vineyard 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:red
+18:color
+#title: <font class="result_title">Red Wine... Warm flavor, Rich Red Color, Full Bodied</font><br>
+#abstract: 
+# By Sharon StajdaUnderstanding wine made easy....All grapes are created equal. That is until they are used to make red wine. All grapes 
+# have the same greenish pulp after being crushed to make. So just where does Red wine get it rich scrumptious ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:red
+19:wine
+#title: <font class="result_title">Drinkwine: In The Know</font><br>
+#abstract: 
+# Just as chilled white wine is refreshing when it's hot, and works ... Red wine, with 
+# its deeper flavors, warms me. I once heard someone say it's because red ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:steak
+20:wine
+#title: <font class="result_title">RED Prime Steak Downtown Oklahoma City Gourmet Restaurant ...</font><br>
+#abstract: 
+# RED teams two rising young chefs, each armed with a strong signature sense of culinary ... RED 
+# offers a fabulous selection of 300 kinds of wine. Great vintners and varietals from ... 

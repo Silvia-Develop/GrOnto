@@ -1,0 +1,38 @@
+1:(ventana,chenin,blanc)
+2:(ventana,chenin,blanc)
+2:fruit
+3:(ventana,chenin,blanc)
+3:white
+3:wine
+4:(ventana,chenin,blanc)
+4:body flavor (sweet,sugar)
+5:(ventana,chenin,blanc)
+5:(color,colour)
+6:(ventana,chenin,blanc)
+6:fruit
+6:apple
+7:(ventana,chenin,blanc)
+7:white
+8:(ventana,chenin,blanc)
+8:(stonleigh,sauvignon,blanc)
+9:(ventana,chenin,blanc)
+9:food
+10:(ventana,chenin,blanc)
+11:(ventana,chenin,blanc)
+12:(ventana,chenin,blanc)
+13:(ventana,chenin,blanc)
+13:light dry (delicate,moderate)
+14:(ventana,chenin,blanc)
+14:fruit
+15:(ventana,chenin,blanc)
+16:(ventana,chenin,blanc)
+16:wine
+16:white
+17:(ventana,chenin,blanc)
+17:light dry (delicate,moderate)
+17:white
+18:(ventana,chenin,blanc)
+19:(ventana,chenin,blanc)
+19:(color,colour)
+20:(ventana,chenin,blanc)
+20:light dry (delicate,moderate)

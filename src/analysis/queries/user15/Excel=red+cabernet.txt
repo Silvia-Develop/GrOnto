@@ -1,0 +1,49 @@
+1:cabernet sauvignon
+1:(tannic,tannin)
+2:red
+2:wine
+2:cabernet sauvignon
+3:red
+3:wine
+4:cabernet sauvignon
+4:wine
+4:bordeaux
+5:cabernet sauvignon
+5:(napa,valley)
+5:bordeaux
+5:red
+6:cabernet sauvignon
+7:wine
+7:cabernet sauvignon
+7:(napa,valley)
+8:cabernet sauvignon
+8:red
+8:wine
+9:cabernet sauvignon
+10:(napa,valley)
+10:cabernet sauvignon
+10:red
+10:wine
+11:cabernet sauvignon
+11:red
+11:wine
+12:cabernet sauvignon
+13:cabernet sauvignon
+13:red
+13:wine
+14:cabernet sauvignon
+14:wine
+15:cabernet sauvignon
+15:red
+16:cabernet sauvignon
+16:(color,colour)
+17:cabernet sauvignon
+17:(stonleigh,sauvignon,blanc)
+18:cabernet sauvignon
+18:red
+18:wine
+19:cabernet sauvignon
+19:(napa,valley)
+20:red
+20:wine
+20:cabernet sauvignon

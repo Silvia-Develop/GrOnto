@@ -1,0 +1,35 @@
+1:(taylor,port)
+2:(taylor,port)
+2:flavor
+3:(taylor,port)
+4:red
+4:(color,colour)
+5:(taylor,port)
+6:(taylor,port)
+6:red
+6:(color,colour)
+7:red
+7:wine
+7:(taylor,port)
+8:(body,medium) flavor (sweet,sugar)
+8:wine
+9:(taylor,port)
+9:red
+9:(color,colour)
+10:wine
+10:(medium,full) (moderate,strong) (sweet,off-dry,dry)
+11:(taylor,port)
+12:red
+12:(color,colour)
+13:(taylor,port)
+13:wine
+14:(taylor,port)
+15:(taylor,port)
+15:(color,colour)
+16:(color,colour)
+17:(taylor,port)
+18:(taylor,port)
+18:body flavor (sweet,sugar)
+19:wine
+19:(taylor,port)
+20:(taylor,port)

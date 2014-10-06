@@ -1,0 +1,202 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:wine
+1:light
+1:cheese
+1:pasta
+1:pork
+#title: <font class="result_title">Wine tips: choosing wines for meals</font><br>
+#abstract: 
+# A guide to selecting the correct bottle to match your dinner choice. Information on vintage and flavor. ... 
+# This light, tasty wine best complements strong cheese, appetizers, pasta with red sauce, pork and poultry. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:wine
+2:cheese
+2:red
+2:pinot,noir
+#title: <font class="result_title">Tillamook | Wine %26 Cheese Pairings</font><br>
+#abstract: 
+# Red Wines: Whole Cluster Pinot Noir: Vibrant and explosive aromas of kiwi, blueberries, cherries and strawberries dominate with hints of sweet 
+# juice and warm spices. Flavors mirror aromas with blueberries, strawberries, and cherries dominating complimented by juicy and spicy characters. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:red
+3:wine
+3:strong
+#title: <font class="result_title">Rodney-strong Red Wine - PriceGrabber.com</font><br>
+#abstract: 
+# Compare prices on Rodney-strong Red Wine and save. Read consumer reviews, 
+# store ratings and find best deals on Rodney-strong Red Wine. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:grape
+4:flavor
+4:strong
+#title: <font class="result_title">Konak Turkish Restaurant</font><br>
+#abstract: 
+# Aroma: Intense and complex, red fruits, spices; Flavor: Strong, mouth filling, balanced and long. The most favorite red wine of Turkey made of 
+# 4 different grapes of Alicante, Carignan, Bogazkere and Okuzgozu, is very pleasant dry and the best selling wine in Turkey. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:wine
+5:flavor
+#title: <font class="result_title">Scientia Vitis: Decanting the Chemistry of Wine Flavor ...</font><br>
+#abstract: 
+# While trace amounts of the molecule are considered acceptable, too much can overwhelm wine, producing a strong vegetable flavor. ... This 
+# is especially true with red wines." As many of the flavor molecules in wine are quite potent, the nose ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:red
+6:wine
+6:tannin
+6:fruit
+#title: <font class="result_title">Wine Education - The Fun Way</font><br>
+#abstract: 
+# Wine Education made simple and fun since 1995. With Certified Wine Educator Stephen Reiss, Ph.D. from Aspen, CO. ... Leather flavors in aged red wine is are to 
+# be expected. TANnin is used to TAN leather, so the smell is from the tannins. Leather tends to be more pronounced once the fruit has faded. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:wine
+7:grape
+#title: <font class="result_title">Food and Wine - Wine Enology Grape Chemistry Lab at Virginia Tech</font><br>
+#abstract: 
+# An example of structural component similarity would be a high acid food such as a salad with a high acid wine such as a Beaujolais style 
+# red wine. Foods with strong flavors including vinegar, raw onions, sauerkraut, pickles, or garlic overwhelm a fine wine's more subtle flavor. Spicy Foods. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:wine
+8:flavor
+8:chianti
+#title: <font class="result_title">Italian Flavor Consortium: Italian Wine, Italian Wine Forum ...</font><br>
+#abstract: 
+# Italian Flavor Consortium, Italian Wine Forum, Italian wine, Italian Wine Forum, wine, red wine, white wine, DOC 
+# wines, chianti, amarone, brunello, brunello di Montalcino, primitivo, montepulciano d'Abruzzo, barolo, barbera, Taurasi, salice ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:wine
+9:fish
+9:strong
+9:flavor
+#title: <font class="result_title">Vallarta Wine Fest 2010</font><br>
+#abstract: 
+# Aged Red wines fruit scented and full bodied: P%C3%A2té, Red meat, duck, Fish in wine sauce, Strong Cheeses, Red fruits 
+# Tart and Chocolate desserts. ... For Fish with fat and strong flavor like Salmon, Tuna and Grouper we ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:wine
+10:sweet
+10:flavor
+#title: <font class="result_title">D'Vine Wine - glossary</font><br>
+#abstract: 
+# D'Vine Wine - wine making at your place or mine ... If the bitter quality dominates the wine's flavor or aftertaste, it is considered a fault. In sweet 
+# wines a trace of bitterness may compliment the flavors. In young red wines it can be a warning signal, as bitterness doesn't always dissipate with age. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:winery
+11:red
+11:wine
+11:cabernet,sauvignon
+#title: <font class="result_title">Ledgewood Creek Winery Red Wines</font><br>
+#abstract: 
+# We make a California-style Cabernet Sauvignon that is high in fruit and has a rich flavor. We highlight the wine's concentration, strong fruit and 
+# well developed flavors. The dark fruit aromas show black plums and cherries along with some dark toast character from wood aging. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:wine
+12:cheese
+#title: <font class="result_title">Cow cheese French Cheeses by Jean d'Alos, Camembert, Fourme ...</font><br>
+#abstract: 
+# Collection of great French wines, champagne, wine accessories, whisky and many more on our 
+# online wine store finestwine. Visit now and get delivery at your doorstep. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:color
+13:red
+13:wine
+13:light
+13:delicate
+13:strong
+#title: <font class="result_title">The Finer Life %26 Cigar Legacy cigars, Color of Red Wine</font><br>
+#abstract: 
+# The Finer Life, Free shipping wine cellars, wine accessories, wine deals, wine information, win education. Shop our online catalog and take advantage ... The 
+# following illustrated examples of red wines cover three styles, from light and delicate to strong and powerful across a representative sample of ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:wine
+#title: <font class="result_title">WineStyles - Wine Store - Fine Wine - Wine Accessories</font><br>
+#abstract: 
+# WineStyles is like an old wine cellar, selling exclusive wines from around the world. We offer red wines, white wines 
+# arranged by style. Wine makes a great gift. WineStyles creates custom gift baskets for corporate events, weddings and birthdays. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:red
+15:wine
+15:beef
+#title: <font class="result_title">How To Learn About Types of Red Wine | How To Do Things.com</font><br>
+#abstract: 
+# Red wine goes with beef, right? If I stick to that rule my wine choice will be fine, won't it? To simplify wine in this 
+# way is to ignore the vast complexity and variety of flavor, body and bouquet. Wine by itself is complex enough to intimidate ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:wine
+16:red
+#title: <font class="result_title">Wine Types</font><br>
+#abstract: 
+# Red wines that soak with their skins for days or weeks through fermentation extract their flavors quite differently. 
+# ... The overall flavor of a wine, white or red, that has full, rich flavors. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:red
+17:wine
+17:strong
+17:full
+17:flavor
+#title: <font class="result_title">Red Wines</font><br>
+#abstract: 
+# Strong, full flavor with a light aroma of black currents. ... Deep ruby red 
+# French classic with characteristic fruit intensity balanced by strong tannins. USD95.00 ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:red
+18:wine
+#title: <font class="result_title">Cook's Thesaurus: Red Wines</font><br>
+#abstract: 
+# red wine Notes: Red wines are heavier and more strongly flavored than white wines, and ... It's a dry red wine 
+# that's especially good with barbecued meats, sausages, strong cheeses, and spicy foods. Don't confuse Syrah with Petite Syrah. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:wine
+#title: <font class="result_title">Review: The Wine Clip</font><br>
+#abstract: 
+# Review of The Wine Clip, a magnetic wine treatment device. ... You can take a young, callow, brash and uncouth bottle of cheap red hooch (white wine may benefit, 
+# but the thing's made for red), use The Wine Clip on it, and the result will allegedly be... well, not Grange, but distinctly better than it was. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:red
+20:german
+#title: <font class="result_title">RED FIZZ / Australian-style red bubbly is a grown-up pleasure ...</font><br>
+#abstract: 
+# Red sparkling wine? Red? That's silly -- unless you're Australian. Red bubbly is a winemaker's inside joke 
+# in Germany. Vintners changed the spelling of their name for it from "kalte ende" to "kalte 

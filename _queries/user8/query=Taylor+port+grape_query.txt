@@ -1,0 +1,167 @@
+
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#1:<categoria>
+1:taylor,port
+#title: <font class="result_title">Taylor's Port | The Home of Port</font><br>
+#abstract: 
+# But Taylor's is also an innovative house, pioneering the successful Late Bottled Vintage style which has been copied by almost every other shipper. 
+# The finest Port is produced from grapes grown on the steep and rocky slopes of the Upper Douro and its tributaries. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#2:<categoria>
+2:taylor,port
+#title: <font class="result_title">Taylor's Port | The Home of Port</font><br>
+#abstract: 
+# Like that of every great classic wine, it is also born of an association of climate, soil and grape variety unique in the world. 
+# ... in the wildest, highest country of the Douro, is the source of much of the wine for Taylor's vintage Port. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#3:<categoria>
+3:taylor,port
+#title: <font class="result_title">Taylor's Port Wine Lodges</font><br>
+#abstract: 
+# But Port's affinity for chocolate allows for all sorts of luscious combinations! ... Pedro 
+# Dias (left), a Taylor's Port ambassador at the Books %26 Living bookstore ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#4:<categoria>
+4:taylor,port
+#title: <font class="result_title">Taylor's Port Winery | CellarTours</font><br>
+#abstract: 
+# Visit Taylors's Port Winery, Porto, on a Wine Tour with 
+# CellarTours and enjoy tasting their fine port wines 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#5:<categoria>
+5:taylor,port
+#title: <font class="result_title">Taylor Vintage Port 1966</font><br>
+#abstract: 
+# But Taylor's is also an innovative house, pioneering the successful Late Bottled Vintage style which has been copied by almost every other shipper. 
+# The finest Port is produced from grapes grown on the steep and rocky slopes of the Upper Douro and its tributaries. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#6:<categoria>
+6:taylor,port
+#title: <font class="result_title">taylors port - portugal wines - edencroft fine wines</font><br>
+#abstract: 
+# But Taylor's is also an innovative house, pioneering the successful Late Bottled Vintage style which has been copied by almost every other shipper. 
+# The finest Port is produced from grapes grown on the steep and rocky slopes of the Upper Douro and its tributaries. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#7:<categoria>
+7:taylor,port
+7:dry
+7:white
+#title: <font class="result_title">TheDrinkShop.com : TAYLORS - Chip Dry White White Port</font><br>
+#abstract: 
+# Taylor's are pioneers of this exciting style, having introduced it in 1934. It is made in exactly the same way as conventional port, but using 
+# white grapes rather than red. As the name suggests, it has a drier, fruity taste, and is an unusual aperitif, best served chilled. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#8:<categoria>
+8:taylor,port
+#title: <font class="result_title">Taylor's</font><br>
+#abstract: 
+# A profile of Taylor's, more correctly known as Taylor, Fladgate %26 Yeatman, a leading Port 
+# house. Includes tasting notes on vintage Port, Quinta de Vargellas, LBV and tawny wines. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#9:<categoria>
+9:taylor,port
+#title: <font class="result_title">2007 Taylor - Bottle - 73048B - Buy now at Berry Bros ...</font><br>
+#abstract: 
+# Buy 2007 Taylor En Primeur (73048B) from Britain's oldest Fine Wine %26 Spirits Merchant Berry Bros. %26 Rudd. ... Nearly opaque and virtually 
+# inscrutable, this is benchmark Taylor, therefore benchmark Vintage Port. The nose is magnificently complicated already; schist, white pepper, lifted eucalypt and ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#10:<categoria>
+10:taylor,port
+10:grape
+#title: <font class="result_title">1963 Taylor - Bottle - 38462B - Buy now at Berry Bros ...</font><br>
+#abstract: 
+# 1963 Taylor (38462B) - Buy now for immediate delivery from Britain's oldest Fine Wine 
+# %26 Spirits Merchant Berry Bros. %26 Rudd. ... Grape Variety: Port Blend ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#11:<categoria>
+11:taylor,port
+#title: <font class="result_title">Taylors Port - UK Gift Delivery</font><br>
+#abstract: 
+# Taylor's is the only Port wine shipper to remain completely independent throughout its ... It is still a family 
+# run company producing the highest quality Port wines that continue to fetch a premium at auction. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#12:<categoria>
+12:taylor,port
+12:grape
+#title: <font class="result_title">Wine Detail</font><br>
+#abstract: 
+# But Taylor's is also an innovative house, pioneering the successful Late Bottled Vintage ... Before long 
+# pure grape spirit was added during fermentation and Port, as we drink it ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#13:<categoria>
+13:taylor,port
+#title: <font class="result_title">1992 Taylor Fladgate Vintage Port</font><br>
+#abstract: 
+# Buy 1992 Taylor Fladgate Vintage Port wine online at J.J. Buckley Fine Wines ... The finest Port is produced 
+# from grapes grown on the steep and rocky slopes of the Upper Douro and its tributaries. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#14:<categoria>
+14:taylor,port
+14:dry
+14:white
+#title: <font class="result_title">Taylors Chip Dry White Port NV</font><br>
+#abstract: 
+# Chip Dry is made from selected dry white ports from Douro Superior grapes. Malvasia Fina is the main variety. The wine is less 
+# sweet than most Ports. Producer: Taylor's, the Port house of Taylor, Fladgate %26 Yeatman was established in 1692 by Job Bearsley. ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#15:<categoria>
+15:taylor,port
+#title: <font class="result_title">Taylor Wines - logabottle.com</font><br>
+#abstract: 
+# Taylor wines logged at logabottle.com. View these Taylor tasting notes, or 
+# create your own bottle log to save your favorite wines. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#16:<categoria>
+16:taylor,port
+#title: <font class="result_title">Tawny time / Portugal's aged tawny Port is accessible ...</font><br>
+#abstract: 
+# Vintage Port is rare and expensive a darling of wine magazines and point-obsessed oenophiles who wait breathlessly each 
+# spring to see if the Port houses "declare" a vintage. Aged in cask a mere two 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#17:<categoria>
+17:taylor,port
+#title: <font class="result_title">1.Taylor's are still the only totally independent family ...</font><br>
+#abstract: 
+# Joseph Camo, Taylor's American partner, helps save port stocks during the Battle of Oporto. 
+# ... Estate launched, made from grapes grown on the first British property ... 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#18:<categoria>
+18:taylor,port
+#title: <font class="result_title">Taylor's%C2%AE First Estate Reserve Port 75cl - %C2%A38 to %C2%A39.99 - All ...</font><br>
+#abstract: 
+# Buy Taylor's%C2%AE First Estate Reserve Port 75cl at 
+# Tesco.com. TAYLORS FIRST ESTATE PORT 75CL 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#19:<categoria>
+19:taylor,port
+#title: <font class="result_title">Taylor's 2007 Vintage Port - 2007 VINTAGE PORTS</font><br>
+#abstract: 
+# The Taylor's 2007 Vintage Port is a beautifully elegant and complete port wine from 
+# the most famous Vintage Port house, the perfect balance of power and refinement. 
+
+# per ogni categoria scrivi il docid ed una categoria separandoli da :
+#20:<categoria>
+20:taylor,port
+#title: <font class="result_title">1985 Taylor Fladgate Vintage Port</font><br>
+#abstract: 
+# Buy 1985 Taylor Fladgate Vintage Port wine online at J.J. Buckley Fine Wines ... The finest Port is produced 
+# from grapes grown on the steep and rocky slopes of the Upper Douro and its tributaries. ... 
